@@ -1,9 +1,9 @@
 [
     {
         "name": "Stasiun Sudimara",
-        "timestamp": "2026-01-05 15:33",
-        "latitude": "-6.2969337",
-        "longitude": "106.6921698",
+        "timestamp": "2026-01-08 13:54",
+        "latitude": "-6.2969768",
+        "longitude": "106.7101947",
         "popular_times": {
             "Senin": [
                 {
@@ -163,6 +163,10 @@
                 {
                     "hour": 14,
                     "percentage": 23
+                },
+                {
+                    "hour": 15,
+                    "percentage": 35
                 },
                 {
                     "hour": 16,
@@ -447,10 +451,6 @@
                     "percentage": 20
                 },
                 {
-                    "hour": 13,
-                    "percentage": 20
-                },
-                {
                     "hour": 14,
                     "percentage": 23
                 },
@@ -688,19 +688,19 @@
                 }
             ]
         },
-        "sentiment_score": 3,
-        "summary": "Petugas Stasiun Sudimara dianggap baik, namun ada beberapa aspek yang perlu ditangani.",
+        "sentiment_score": 1,
+        "summary": "Ulasan umumnya negatif dengan sentimen dominan bersifat kecewa dan tidak puas terutama karena antrian panjang, pelayanan yang buruk, serta satpam yang tidak sopan.",
         "topics": [
-            "Petugas",
-            "Stasiun",
-            "Sudimara"
+            "Antrian",
+            "Pelayanan",
+            "Satpam"
         ]
     },
     {
         "name": "Stasiun Jurang Mangu",
-        "timestamp": "2026-01-05 15:33",
+        "timestamp": "2026-01-08 13:54",
         "latitude": "-6.2887899",
-        "longitude": "106.7265472",
+        "longitude": "106.7291221",
         "popular_times": {
             "Senin": [
                 {
@@ -860,6 +860,10 @@
                 {
                     "hour": 14,
                     "percentage": 24
+                },
+                {
+                    "hour": 15,
+                    "percentage": 36
                 },
                 {
                     "hour": 16,
@@ -1144,10 +1148,6 @@
                     "percentage": 22
                 },
                 {
-                    "hour": 13,
-                    "percentage": 22
-                },
-                {
                     "hour": 14,
                     "percentage": 25
                 },
@@ -1385,19 +1385,19 @@
                 }
             ]
         },
-        "sentiment_score": 3,
-        "summary": "Ulasan menunjukkan bahwa stasiun krl jurangmangu saat ini mengalami beberapa masalah, termasuk eskalator yang tidak berfungsi dan tempat yang kurang nyaman.",
+        "sentiment_score": 1,
+        "summary": "Ulasan mengandung sentimen negatif dengan topik utama seperti pelayanan petugas, kebocoran eskalator, dan ketidaknyamanan parkiran.",
         "topics": [
+            "Pelayanan Petugas",
             "Eskalator",
-            "Tempat",
-            "Comfort"
+            "Parkir"
         ]
     },
     {
         "name": "Stasiun Rawa Buntu",
-        "timestamp": "2026-01-05 15:34",
+        "timestamp": "2026-01-08 13:55",
         "latitude": "-6.3149825",
-        "longitude": "106.6736939",
+        "longitude": "106.6762688",
         "popular_times": {
             "Senin": [
                 {
@@ -1557,6 +1557,10 @@
                 {
                     "hour": 14,
                     "percentage": 21
+                },
+                {
+                    "hour": 15,
+                    "percentage": 30
                 },
                 {
                     "hour": 16,
@@ -1841,10 +1845,6 @@
                     "percentage": 18
                 },
                 {
-                    "hour": 13,
-                    "percentage": 18
-                },
-                {
                     "hour": 14,
                     "percentage": 21
                 },
@@ -2083,11 +2083,4260 @@
             ]
         },
         "sentiment_score": 1,
-        "summary": "Stasiun Rawa Buntu memiliki kondisi yang kurang memuaskan, termasuk akses jalan yang sulit, kondisi toilet yang kurang nyaman, dan kondisi parkir yang buruk.",
+        "summary": "Ulasan mengungkapkan banyak masalah di Stasiun Rawa Buntu, termasuk kondisi jalan rusak, parkiran yang buruk, dan kurangnya perbaikan umum.",
         "topics": [
-            "Akses Jalan",
-            "Toilet",
-            "Parkir"
+            "Kondisi Jalan",
+            "Parkir Mobil",
+            "Perbaikan Umum"
+        ]
+    },
+    {
+        "name": "Terminal Pondok Cabe",
+        "timestamp": "2026-01-08 13:55",
+        "latitude": "-6.3583009",
+        "longitude": "106.7545537",
+        "popular_times": {
+            "Senin": [
+                {
+                    "hour": 0,
+                    "percentage": 42
+                },
+                {
+                    "hour": 1,
+                    "percentage": 28
+                },
+                {
+                    "hour": 2,
+                    "percentage": 20
+                },
+                {
+                    "hour": 3,
+                    "percentage": 21
+                },
+                {
+                    "hour": 4,
+                    "percentage": 25
+                },
+                {
+                    "hour": 5,
+                    "percentage": 32
+                },
+                {
+                    "hour": 6,
+                    "percentage": 40
+                },
+                {
+                    "hour": 7,
+                    "percentage": 49
+                },
+                {
+                    "hour": 8,
+                    "percentage": 55
+                },
+                {
+                    "hour": 9,
+                    "percentage": 60
+                },
+                {
+                    "hour": 10,
+                    "percentage": 62
+                },
+                {
+                    "hour": 11,
+                    "percentage": 60
+                },
+                {
+                    "hour": 12,
+                    "percentage": 58
+                },
+                {
+                    "hour": 13,
+                    "percentage": 60
+                },
+                {
+                    "hour": 14,
+                    "percentage": 69
+                },
+                {
+                    "hour": 15,
+                    "percentage": 78
+                },
+                {
+                    "hour": 16,
+                    "percentage": 83
+                },
+                {
+                    "hour": 17,
+                    "percentage": 82
+                },
+                {
+                    "hour": 18,
+                    "percentage": 79
+                },
+                {
+                    "hour": 19,
+                    "percentage": 78
+                },
+                {
+                    "hour": 20,
+                    "percentage": 80
+                },
+                {
+                    "hour": 21,
+                    "percentage": 85
+                },
+                {
+                    "hour": 22,
+                    "percentage": 80
+                },
+                {
+                    "hour": 23,
+                    "percentage": 70
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 0,
+                    "percentage": 48
+                },
+                {
+                    "hour": 1,
+                    "percentage": 30
+                },
+                {
+                    "hour": 2,
+                    "percentage": 22
+                },
+                {
+                    "hour": 3,
+                    "percentage": 24
+                },
+                {
+                    "hour": 4,
+                    "percentage": 28
+                },
+                {
+                    "hour": 5,
+                    "percentage": 32
+                },
+                {
+                    "hour": 6,
+                    "percentage": 34
+                },
+                {
+                    "hour": 7,
+                    "percentage": 38
+                },
+                {
+                    "hour": 8,
+                    "percentage": 44
+                },
+                {
+                    "hour": 9,
+                    "percentage": 50
+                },
+                {
+                    "hour": 10,
+                    "percentage": 55
+                },
+                {
+                    "hour": 11,
+                    "percentage": 54
+                },
+                {
+                    "hour": 12,
+                    "percentage": 49
+                },
+                {
+                    "hour": 13,
+                    "percentage": 49
+                },
+                {
+                    "hour": 14,
+                    "percentage": 53
+                },
+                {
+                    "hour": 15,
+                    "percentage": 61
+                },
+                {
+                    "hour": 16,
+                    "percentage": 69
+                },
+                {
+                    "hour": 17,
+                    "percentage": 72
+                },
+                {
+                    "hour": 18,
+                    "percentage": 73
+                },
+                {
+                    "hour": 19,
+                    "percentage": 78
+                },
+                {
+                    "hour": 20,
+                    "percentage": 84
+                },
+                {
+                    "hour": 21,
+                    "percentage": 92
+                },
+                {
+                    "hour": 22,
+                    "percentage": 90
+                },
+                {
+                    "hour": 23,
+                    "percentage": 79
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 0,
+                    "percentage": 51
+                },
+                {
+                    "hour": 1,
+                    "percentage": 33
+                },
+                {
+                    "hour": 2,
+                    "percentage": 22
+                },
+                {
+                    "hour": 3,
+                    "percentage": 22
+                },
+                {
+                    "hour": 4,
+                    "percentage": 26
+                },
+                {
+                    "hour": 5,
+                    "percentage": 30
+                },
+                {
+                    "hour": 6,
+                    "percentage": 33
+                },
+                {
+                    "hour": 7,
+                    "percentage": 37
+                },
+                {
+                    "hour": 8,
+                    "percentage": 41
+                },
+                {
+                    "hour": 9,
+                    "percentage": 47
+                },
+                {
+                    "hour": 10,
+                    "percentage": 52
+                },
+                {
+                    "hour": 11,
+                    "percentage": 53
+                },
+                {
+                    "hour": 12,
+                    "percentage": 51
+                },
+                {
+                    "hour": 13,
+                    "percentage": 51
+                },
+                {
+                    "hour": 14,
+                    "percentage": 56
+                },
+                {
+                    "hour": 15,
+                    "percentage": 63
+                },
+                {
+                    "hour": 16,
+                    "percentage": 70
+                },
+                {
+                    "hour": 17,
+                    "percentage": 73
+                },
+                {
+                    "hour": 18,
+                    "percentage": 74
+                },
+                {
+                    "hour": 19,
+                    "percentage": 79
+                },
+                {
+                    "hour": 20,
+                    "percentage": 86
+                },
+                {
+                    "hour": 21,
+                    "percentage": 96
+                },
+                {
+                    "hour": 22,
+                    "percentage": 95
+                },
+                {
+                    "hour": 23,
+                    "percentage": 83
+                }
+            ],
+            "Kamis": [
+                {
+                    "hour": 0,
+                    "percentage": 46
+                },
+                {
+                    "hour": 1,
+                    "percentage": 30
+                },
+                {
+                    "hour": 2,
+                    "percentage": 23
+                },
+                {
+                    "hour": 3,
+                    "percentage": 25
+                },
+                {
+                    "hour": 4,
+                    "percentage": 29
+                },
+                {
+                    "hour": 5,
+                    "percentage": 35
+                },
+                {
+                    "hour": 6,
+                    "percentage": 42
+                },
+                {
+                    "hour": 7,
+                    "percentage": 45
+                },
+                {
+                    "hour": 8,
+                    "percentage": 48
+                },
+                {
+                    "hour": 9,
+                    "percentage": 50
+                },
+                {
+                    "hour": 10,
+                    "percentage": 55
+                },
+                {
+                    "hour": 11,
+                    "percentage": 56
+                },
+                {
+                    "hour": 12,
+                    "percentage": 55
+                },
+                {
+                    "hour": 13,
+                    "percentage": 56
+                },
+                {
+                    "hour": 14,
+                    "percentage": 61
+                },
+                {
+                    "hour": 15,
+                    "percentage": 70
+                },
+                {
+                    "hour": 16,
+                    "percentage": 80
+                },
+                {
+                    "hour": 17,
+                    "percentage": 84
+                },
+                {
+                    "hour": 18,
+                    "percentage": 85
+                },
+                {
+                    "hour": 19,
+                    "percentage": 86
+                },
+                {
+                    "hour": 20,
+                    "percentage": 88
+                },
+                {
+                    "hour": 21,
+                    "percentage": 92
+                },
+                {
+                    "hour": 22,
+                    "percentage": 89
+                },
+                {
+                    "hour": 23,
+                    "percentage": 76
+                }
+            ],
+            "Jumat": [
+                {
+                    "hour": 0,
+                    "percentage": 49
+                },
+                {
+                    "hour": 1,
+                    "percentage": 33
+                },
+                {
+                    "hour": 2,
+                    "percentage": 24
+                },
+                {
+                    "hour": 3,
+                    "percentage": 26
+                },
+                {
+                    "hour": 4,
+                    "percentage": 28
+                },
+                {
+                    "hour": 5,
+                    "percentage": 32
+                },
+                {
+                    "hour": 6,
+                    "percentage": 35
+                },
+                {
+                    "hour": 7,
+                    "percentage": 38
+                },
+                {
+                    "hour": 8,
+                    "percentage": 42
+                },
+                {
+                    "hour": 9,
+                    "percentage": 47
+                },
+                {
+                    "hour": 10,
+                    "percentage": 49
+                },
+                {
+                    "hour": 11,
+                    "percentage": 50
+                },
+                {
+                    "hour": 12,
+                    "percentage": 48
+                },
+                {
+                    "hour": 14,
+                    "percentage": 54
+                },
+                {
+                    "hour": 15,
+                    "percentage": 64
+                },
+                {
+                    "hour": 16,
+                    "percentage": 73
+                },
+                {
+                    "hour": 17,
+                    "percentage": 77
+                },
+                {
+                    "hour": 18,
+                    "percentage": 74
+                },
+                {
+                    "hour": 19,
+                    "percentage": 76
+                },
+                {
+                    "hour": 20,
+                    "percentage": 81
+                },
+                {
+                    "hour": 21,
+                    "percentage": 89
+                },
+                {
+                    "hour": 22,
+                    "percentage": 89
+                },
+                {
+                    "hour": 23,
+                    "percentage": 78
+                }
+            ],
+            "Sabtu": [
+                {
+                    "hour": 0,
+                    "percentage": 48
+                },
+                {
+                    "hour": 1,
+                    "percentage": 32
+                },
+                {
+                    "hour": 2,
+                    "percentage": 24
+                },
+                {
+                    "hour": 3,
+                    "percentage": 24
+                },
+                {
+                    "hour": 4,
+                    "percentage": 27
+                },
+                {
+                    "hour": 5,
+                    "percentage": 33
+                },
+                {
+                    "hour": 6,
+                    "percentage": 36
+                },
+                {
+                    "hour": 7,
+                    "percentage": 39
+                },
+                {
+                    "hour": 8,
+                    "percentage": 42
+                },
+                {
+                    "hour": 9,
+                    "percentage": 46
+                },
+                {
+                    "hour": 10,
+                    "percentage": 50
+                },
+                {
+                    "hour": 11,
+                    "percentage": 51
+                },
+                {
+                    "hour": 12,
+                    "percentage": 50
+                },
+                {
+                    "hour": 13,
+                    "percentage": 52
+                },
+                {
+                    "hour": 14,
+                    "percentage": 57
+                },
+                {
+                    "hour": 15,
+                    "percentage": 66
+                },
+                {
+                    "hour": 16,
+                    "percentage": 74
+                },
+                {
+                    "hour": 17,
+                    "percentage": 74
+                },
+                {
+                    "hour": 18,
+                    "percentage": 72
+                },
+                {
+                    "hour": 19,
+                    "percentage": 71
+                },
+                {
+                    "hour": 20,
+                    "percentage": 75
+                },
+                {
+                    "hour": 21,
+                    "percentage": 84
+                },
+                {
+                    "hour": 22,
+                    "percentage": 85
+                },
+                {
+                    "hour": 23,
+                    "percentage": 77
+                }
+            ],
+            "Minggu": [
+                {
+                    "hour": 0,
+                    "percentage": 47
+                },
+                {
+                    "hour": 1,
+                    "percentage": 29
+                },
+                {
+                    "hour": 2,
+                    "percentage": 20
+                },
+                {
+                    "hour": 3,
+                    "percentage": 23
+                },
+                {
+                    "hour": 4,
+                    "percentage": 27
+                },
+                {
+                    "hour": 5,
+                    "percentage": 35
+                },
+                {
+                    "hour": 6,
+                    "percentage": 42
+                },
+                {
+                    "hour": 7,
+                    "percentage": 49
+                },
+                {
+                    "hour": 8,
+                    "percentage": 50
+                },
+                {
+                    "hour": 9,
+                    "percentage": 53
+                },
+                {
+                    "hour": 10,
+                    "percentage": 53
+                },
+                {
+                    "hour": 11,
+                    "percentage": 54
+                },
+                {
+                    "hour": 12,
+                    "percentage": 54
+                },
+                {
+                    "hour": 13,
+                    "percentage": 56
+                },
+                {
+                    "hour": 14,
+                    "percentage": 60
+                },
+                {
+                    "hour": 15,
+                    "percentage": 68
+                },
+                {
+                    "hour": 16,
+                    "percentage": 73
+                },
+                {
+                    "hour": 17,
+                    "percentage": 76
+                },
+                {
+                    "hour": 18,
+                    "percentage": 77
+                },
+                {
+                    "hour": 19,
+                    "percentage": 86
+                },
+                {
+                    "hour": 20,
+                    "percentage": 92
+                },
+                {
+                    "hour": 21,
+                    "percentage": 100
+                },
+                {
+                    "hour": 22,
+                    "percentage": 94
+                },
+                {
+                    "hour": 23,
+                    "percentage": 81
+                }
+            ]
+        },
+        "sentiment_score": 3,
+        "summary": "Terminal Pondok Cabe menawarkan pilihan menu yang luas dan lokasi strategis, namun memiliki masalah dalam pengelolaan.",
+        "topics": [
+            "Menu",
+            "Lokasi",
+            "Pengelolaan"
+        ]
+    },
+    {
+        "name": "RSUD Tangerang Selatan",
+        "timestamp": "2026-01-08 13:55",
+        "latitude": "-6.3376386",
+        "longitude": "106.7386767",
+        "popular_times": {},
+        "sentiment_score": 3,
+        "summary": "Ulasan umumnya positif dengan sentimen dominan, menyoroti pelayanan yang memuaskan, kepedulian staff, dan perbaikan yang diinginkan.",
+        "topics": [
+            "Pelayanan",
+            "Staff",
+            "Perbaikan"
+        ]
+    },
+    {
+        "name": "Kantor Walikota",
+        "timestamp": "2026-01-08 13:55",
+        "latitude": "-6.3223832",
+        "longitude": "106.7077614",
+        "popular_times": {},
+        "sentiment_score": 1,
+        "summary": "Ulasan mengandung sentimen negatif terhadap pelayanan dan lingkungan kantor Walikota Tangerang Selatan.",
+        "topics": [
+            "Pelayanan",
+            "Lingkungan",
+            "Kepentingan"
+        ]
+    },
+    {
+        "name": "Dukcapil",
+        "timestamp": "2026-01-08 13:55",
+        "latitude": "-6.3278173",
+        "longitude": "106.6737166",
+        "popular_times": {},
+        "sentiment_score": 1,
+        "summary": "Ulasan umumnya negatif dengan sentimen dominan, mengkritik keterbatasan kuota dan pelayanan yang lambat.",
+        "topics": [
+            "Kuota",
+            "Pelayanan",
+            "Persyaratan"
+        ]
+    },
+    {
+        "name": "Bintaro Xchange",
+        "timestamp": "2026-01-08 13:56",
+        "latitude": "-6.2854481",
+        "longitude": "106.7285448",
+        "popular_times": {
+            "Senin": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 23
+                },
+                {
+                    "hour": 11,
+                    "percentage": 35
+                },
+                {
+                    "hour": 12,
+                    "percentage": 48
+                },
+                {
+                    "hour": 13,
+                    "percentage": 59
+                },
+                {
+                    "hour": 14,
+                    "percentage": 68
+                },
+                {
+                    "hour": 15,
+                    "percentage": 76
+                },
+                {
+                    "hour": 16,
+                    "percentage": 82
+                },
+                {
+                    "hour": 17,
+                    "percentage": 87
+                },
+                {
+                    "hour": 18,
+                    "percentage": 85
+                },
+                {
+                    "hour": 19,
+                    "percentage": 78
+                },
+                {
+                    "hour": 20,
+                    "percentage": 63
+                },
+                {
+                    "hour": 21,
+                    "percentage": 44
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 13
+                },
+                {
+                    "hour": 11,
+                    "percentage": 18
+                },
+                {
+                    "hour": 12,
+                    "percentage": 22
+                },
+                {
+                    "hour": 13,
+                    "percentage": 26
+                },
+                {
+                    "hour": 14,
+                    "percentage": 29
+                },
+                {
+                    "hour": 15,
+                    "percentage": 33
+                },
+                {
+                    "hour": 16,
+                    "percentage": 40
+                },
+                {
+                    "hour": 17,
+                    "percentage": 47
+                },
+                {
+                    "hour": 18,
+                    "percentage": 52
+                },
+                {
+                    "hour": 19,
+                    "percentage": 51
+                },
+                {
+                    "hour": 20,
+                    "percentage": 43
+                },
+                {
+                    "hour": 21,
+                    "percentage": 31
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 14
+                },
+                {
+                    "hour": 11,
+                    "percentage": 19
+                },
+                {
+                    "hour": 12,
+                    "percentage": 24
+                },
+                {
+                    "hour": 13,
+                    "percentage": 28
+                },
+                {
+                    "hour": 14,
+                    "percentage": 31
+                },
+                {
+                    "hour": 15,
+                    "percentage": 35
+                },
+                {
+                    "hour": 16,
+                    "percentage": 41
+                },
+                {
+                    "hour": 17,
+                    "percentage": 48
+                },
+                {
+                    "hour": 18,
+                    "percentage": 53
+                },
+                {
+                    "hour": 19,
+                    "percentage": 53
+                },
+                {
+                    "hour": 20,
+                    "percentage": 45
+                },
+                {
+                    "hour": 21,
+                    "percentage": 32
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Kamis": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 14
+                },
+                {
+                    "hour": 11,
+                    "percentage": 19
+                },
+                {
+                    "hour": 12,
+                    "percentage": 25
+                },
+                {
+                    "hour": 13,
+                    "percentage": 29
+                },
+                {
+                    "hour": 14,
+                    "percentage": 32
+                },
+                {
+                    "hour": 15,
+                    "percentage": 36
+                },
+                {
+                    "hour": 16,
+                    "percentage": 42
+                },
+                {
+                    "hour": 17,
+                    "percentage": 51
+                },
+                {
+                    "hour": 18,
+                    "percentage": 56
+                },
+                {
+                    "hour": 19,
+                    "percentage": 56
+                },
+                {
+                    "hour": 20,
+                    "percentage": 48
+                },
+                {
+                    "hour": 21,
+                    "percentage": 35
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Jumat": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 14
+                },
+                {
+                    "hour": 11,
+                    "percentage": 19
+                },
+                {
+                    "hour": 12,
+                    "percentage": 24
+                },
+                {
+                    "hour": 14,
+                    "percentage": 31
+                },
+                {
+                    "hour": 15,
+                    "percentage": 35
+                },
+                {
+                    "hour": 16,
+                    "percentage": 41
+                },
+                {
+                    "hour": 17,
+                    "percentage": 49
+                },
+                {
+                    "hour": 18,
+                    "percentage": 54
+                },
+                {
+                    "hour": 19,
+                    "percentage": 54
+                },
+                {
+                    "hour": 20,
+                    "percentage": 46
+                },
+                {
+                    "hour": 21,
+                    "percentage": 33
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Sabtu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 16
+                },
+                {
+                    "hour": 11,
+                    "percentage": 23
+                },
+                {
+                    "hour": 12,
+                    "percentage": 30
+                },
+                {
+                    "hour": 13,
+                    "percentage": 34
+                },
+                {
+                    "hour": 14,
+                    "percentage": 37
+                },
+                {
+                    "hour": 15,
+                    "percentage": 41
+                },
+                {
+                    "hour": 16,
+                    "percentage": 48
+                },
+                {
+                    "hour": 17,
+                    "percentage": 57
+                },
+                {
+                    "hour": 18,
+                    "percentage": 65
+                },
+                {
+                    "hour": 19,
+                    "percentage": 67
+                },
+                {
+                    "hour": 20,
+                    "percentage": 60
+                },
+                {
+                    "hour": 21,
+                    "percentage": 45
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Minggu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 21
+                },
+                {
+                    "hour": 11,
+                    "percentage": 32
+                },
+                {
+                    "hour": 12,
+                    "percentage": 44
+                },
+                {
+                    "hour": 13,
+                    "percentage": 55
+                },
+                {
+                    "hour": 14,
+                    "percentage": 65
+                },
+                {
+                    "hour": 15,
+                    "percentage": 74
+                },
+                {
+                    "hour": 16,
+                    "percentage": 84
+                },
+                {
+                    "hour": 17,
+                    "percentage": 93
+                },
+                {
+                    "hour": 18,
+                    "percentage": 99
+                },
+                {
+                    "hour": 19,
+                    "percentage": 100
+                },
+                {
+                    "hour": 20,
+                    "percentage": 89
+                },
+                {
+                    "hour": 21,
+                    "percentage": 67
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ]
+        },
+        "sentiment_score": 1,
+        "summary": "Ulasan ini dominantly negatif dengan perhatian utama pada pengalaman buruk dalam hal pelayanan, kepadatan mall, dan kurangnya fasilitas umum.",
+        "topics": [
+            "Pelayanan",
+            "Keadaan Mall",
+            "Fasilitas Umum"
+        ]
+    },
+    {
+        "name": "Living World",
+        "timestamp": "2026-01-08 13:56",
+        "latitude": "-6.2443767",
+        "longitude": "106.653103",
+        "popular_times": {
+            "Senin": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 42
+                },
+                {
+                    "hour": 11,
+                    "percentage": 57
+                },
+                {
+                    "hour": 12,
+                    "percentage": 68
+                },
+                {
+                    "hour": 13,
+                    "percentage": 76
+                },
+                {
+                    "hour": 14,
+                    "percentage": 82
+                },
+                {
+                    "hour": 15,
+                    "percentage": 85
+                },
+                {
+                    "hour": 16,
+                    "percentage": 90
+                },
+                {
+                    "hour": 17,
+                    "percentage": 94
+                },
+                {
+                    "hour": 18,
+                    "percentage": 96
+                },
+                {
+                    "hour": 19,
+                    "percentage": 90
+                },
+                {
+                    "hour": 20,
+                    "percentage": 74
+                },
+                {
+                    "hour": 21,
+                    "percentage": 50
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 14
+                },
+                {
+                    "hour": 11,
+                    "percentage": 19
+                },
+                {
+                    "hour": 12,
+                    "percentage": 25
+                },
+                {
+                    "hour": 13,
+                    "percentage": 28
+                },
+                {
+                    "hour": 14,
+                    "percentage": 30
+                },
+                {
+                    "hour": 15,
+                    "percentage": 31
+                },
+                {
+                    "hour": 16,
+                    "percentage": 35
+                },
+                {
+                    "hour": 17,
+                    "percentage": 40
+                },
+                {
+                    "hour": 18,
+                    "percentage": 44
+                },
+                {
+                    "hour": 19,
+                    "percentage": 45
+                },
+                {
+                    "hour": 20,
+                    "percentage": 40
+                },
+                {
+                    "hour": 21,
+                    "percentage": 30
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 15
+                },
+                {
+                    "hour": 11,
+                    "percentage": 21
+                },
+                {
+                    "hour": 12,
+                    "percentage": 27
+                },
+                {
+                    "hour": 13,
+                    "percentage": 31
+                },
+                {
+                    "hour": 14,
+                    "percentage": 32
+                },
+                {
+                    "hour": 15,
+                    "percentage": 34
+                },
+                {
+                    "hour": 16,
+                    "percentage": 37
+                },
+                {
+                    "hour": 17,
+                    "percentage": 42
+                },
+                {
+                    "hour": 18,
+                    "percentage": 47
+                },
+                {
+                    "hour": 19,
+                    "percentage": 47
+                },
+                {
+                    "hour": 20,
+                    "percentage": 42
+                },
+                {
+                    "hour": 21,
+                    "percentage": 31
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Kamis": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 15
+                },
+                {
+                    "hour": 11,
+                    "percentage": 22
+                },
+                {
+                    "hour": 12,
+                    "percentage": 28
+                },
+                {
+                    "hour": 13,
+                    "percentage": 31
+                },
+                {
+                    "hour": 14,
+                    "percentage": 32
+                },
+                {
+                    "hour": 15,
+                    "percentage": 34
+                },
+                {
+                    "hour": 16,
+                    "percentage": 38
+                },
+                {
+                    "hour": 17,
+                    "percentage": 44
+                },
+                {
+                    "hour": 18,
+                    "percentage": 49
+                },
+                {
+                    "hour": 19,
+                    "percentage": 50
+                },
+                {
+                    "hour": 20,
+                    "percentage": 45
+                },
+                {
+                    "hour": 21,
+                    "percentage": 34
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Jumat": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 15
+                },
+                {
+                    "hour": 11,
+                    "percentage": 21
+                },
+                {
+                    "hour": 12,
+                    "percentage": 27
+                },
+                {
+                    "hour": 14,
+                    "percentage": 32
+                },
+                {
+                    "hour": 15,
+                    "percentage": 33
+                },
+                {
+                    "hour": 16,
+                    "percentage": 37
+                },
+                {
+                    "hour": 17,
+                    "percentage": 43
+                },
+                {
+                    "hour": 18,
+                    "percentage": 49
+                },
+                {
+                    "hour": 19,
+                    "percentage": 50
+                },
+                {
+                    "hour": 20,
+                    "percentage": 45
+                },
+                {
+                    "hour": 21,
+                    "percentage": 33
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Sabtu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 17
+                },
+                {
+                    "hour": 11,
+                    "percentage": 26
+                },
+                {
+                    "hour": 12,
+                    "percentage": 34
+                },
+                {
+                    "hour": 13,
+                    "percentage": 36
+                },
+                {
+                    "hour": 14,
+                    "percentage": 36
+                },
+                {
+                    "hour": 15,
+                    "percentage": 37
+                },
+                {
+                    "hour": 16,
+                    "percentage": 41
+                },
+                {
+                    "hour": 17,
+                    "percentage": 49
+                },
+                {
+                    "hour": 18,
+                    "percentage": 59
+                },
+                {
+                    "hour": 19,
+                    "percentage": 64
+                },
+                {
+                    "hour": 20,
+                    "percentage": 60
+                },
+                {
+                    "hour": 21,
+                    "percentage": 46
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Minggu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 22
+                },
+                {
+                    "hour": 11,
+                    "percentage": 33
+                },
+                {
+                    "hour": 12,
+                    "percentage": 44
+                },
+                {
+                    "hour": 13,
+                    "percentage": 53
+                },
+                {
+                    "hour": 14,
+                    "percentage": 59
+                },
+                {
+                    "hour": 15,
+                    "percentage": 65
+                },
+                {
+                    "hour": 16,
+                    "percentage": 73
+                },
+                {
+                    "hour": 17,
+                    "percentage": 85
+                },
+                {
+                    "hour": 18,
+                    "percentage": 95
+                },
+                {
+                    "hour": 19,
+                    "percentage": 100
+                },
+                {
+                    "hour": 20,
+                    "percentage": 91
+                },
+                {
+                    "hour": 21,
+                    "percentage": 69
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ]
+        },
+        "sentiment_score": 3,
+        "summary": "Ulasan umumnya positif, menyoroti keamanan, pelayanan yang ramah dan cepat, serta banyaknya promo dan diskon di Living World Alam Sutera.",
+        "topics": [
+            "Promo",
+            "Pelayanan",
+            "Diskon"
+        ]
+    },
+    {
+        "name": "Teras Kota",
+        "timestamp": "2026-01-08 13:56",
+        "latitude": "-6.2955633",
+        "longitude": "106.6649118",
+        "popular_times": {
+            "Senin": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 49
+                },
+                {
+                    "hour": 11,
+                    "percentage": 55
+                },
+                {
+                    "hour": 12,
+                    "percentage": 61
+                },
+                {
+                    "hour": 13,
+                    "percentage": 65
+                },
+                {
+                    "hour": 14,
+                    "percentage": 69
+                },
+                {
+                    "hour": 15,
+                    "percentage": 74
+                },
+                {
+                    "hour": 16,
+                    "percentage": 79
+                },
+                {
+                    "hour": 17,
+                    "percentage": 83
+                },
+                {
+                    "hour": 18,
+                    "percentage": 83
+                },
+                {
+                    "hour": 19,
+                    "percentage": 78
+                },
+                {
+                    "hour": 20,
+                    "percentage": 66
+                },
+                {
+                    "hour": 21,
+                    "percentage": 50
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 40
+                },
+                {
+                    "hour": 11,
+                    "percentage": 47
+                },
+                {
+                    "hour": 12,
+                    "percentage": 54
+                },
+                {
+                    "hour": 13,
+                    "percentage": 56
+                },
+                {
+                    "hour": 14,
+                    "percentage": 56
+                },
+                {
+                    "hour": 15,
+                    "percentage": 60
+                },
+                {
+                    "hour": 16,
+                    "percentage": 68
+                },
+                {
+                    "hour": 17,
+                    "percentage": 79
+                },
+                {
+                    "hour": 18,
+                    "percentage": 85
+                },
+                {
+                    "hour": 19,
+                    "percentage": 82
+                },
+                {
+                    "hour": 20,
+                    "percentage": 70
+                },
+                {
+                    "hour": 21,
+                    "percentage": 54
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 41
+                },
+                {
+                    "hour": 11,
+                    "percentage": 48
+                },
+                {
+                    "hour": 12,
+                    "percentage": 55
+                },
+                {
+                    "hour": 13,
+                    "percentage": 58
+                },
+                {
+                    "hour": 14,
+                    "percentage": 59
+                },
+                {
+                    "hour": 15,
+                    "percentage": 62
+                },
+                {
+                    "hour": 16,
+                    "percentage": 70
+                },
+                {
+                    "hour": 17,
+                    "percentage": 81
+                },
+                {
+                    "hour": 18,
+                    "percentage": 87
+                },
+                {
+                    "hour": 19,
+                    "percentage": 84
+                },
+                {
+                    "hour": 20,
+                    "percentage": 73
+                },
+                {
+                    "hour": 21,
+                    "percentage": 56
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Kamis": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 41
+                },
+                {
+                    "hour": 11,
+                    "percentage": 50
+                },
+                {
+                    "hour": 12,
+                    "percentage": 58
+                },
+                {
+                    "hour": 13,
+                    "percentage": 61
+                },
+                {
+                    "hour": 14,
+                    "percentage": 62
+                },
+                {
+                    "hour": 15,
+                    "percentage": 65
+                },
+                {
+                    "hour": 16,
+                    "percentage": 74
+                },
+                {
+                    "hour": 17,
+                    "percentage": 85
+                },
+                {
+                    "hour": 18,
+                    "percentage": 90
+                },
+                {
+                    "hour": 19,
+                    "percentage": 87
+                },
+                {
+                    "hour": 20,
+                    "percentage": 74
+                },
+                {
+                    "hour": 21,
+                    "percentage": 58
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Jumat": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 42
+                },
+                {
+                    "hour": 11,
+                    "percentage": 50
+                },
+                {
+                    "hour": 12,
+                    "percentage": 57
+                },
+                {
+                    "hour": 14,
+                    "percentage": 61
+                },
+                {
+                    "hour": 15,
+                    "percentage": 66
+                },
+                {
+                    "hour": 16,
+                    "percentage": 74
+                },
+                {
+                    "hour": 17,
+                    "percentage": 85
+                },
+                {
+                    "hour": 18,
+                    "percentage": 91
+                },
+                {
+                    "hour": 19,
+                    "percentage": 88
+                },
+                {
+                    "hour": 20,
+                    "percentage": 76
+                },
+                {
+                    "hour": 21,
+                    "percentage": 59
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Sabtu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 50
+                },
+                {
+                    "hour": 11,
+                    "percentage": 69
+                },
+                {
+                    "hour": 12,
+                    "percentage": 79
+                },
+                {
+                    "hour": 13,
+                    "percentage": 75
+                },
+                {
+                    "hour": 14,
+                    "percentage": 69
+                },
+                {
+                    "hour": 15,
+                    "percentage": 69
+                },
+                {
+                    "hour": 16,
+                    "percentage": 76
+                },
+                {
+                    "hour": 17,
+                    "percentage": 88
+                },
+                {
+                    "hour": 18,
+                    "percentage": 95
+                },
+                {
+                    "hour": 19,
+                    "percentage": 95
+                },
+                {
+                    "hour": 20,
+                    "percentage": 85
+                },
+                {
+                    "hour": 21,
+                    "percentage": 70
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Minggu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 0
+                },
+                {
+                    "hour": 8,
+                    "percentage": 0
+                },
+                {
+                    "hour": 9,
+                    "percentage": 0
+                },
+                {
+                    "hour": 10,
+                    "percentage": 46
+                },
+                {
+                    "hour": 11,
+                    "percentage": 56
+                },
+                {
+                    "hour": 12,
+                    "percentage": 64
+                },
+                {
+                    "hour": 13,
+                    "percentage": 69
+                },
+                {
+                    "hour": 14,
+                    "percentage": 74
+                },
+                {
+                    "hour": 15,
+                    "percentage": 80
+                },
+                {
+                    "hour": 16,
+                    "percentage": 87
+                },
+                {
+                    "hour": 17,
+                    "percentage": 94
+                },
+                {
+                    "hour": 18,
+                    "percentage": 98
+                },
+                {
+                    "hour": 19,
+                    "percentage": 100
+                },
+                {
+                    "hour": 20,
+                    "percentage": 92
+                },
+                {
+                    "hour": 21,
+                    "percentage": 76
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ]
+        },
+        "sentiment_score": 3,
+        "summary": "Ulasan mengenai Teraskota BSD cenderung positif, menyoroti suasana yang nyaman dan luas, fasilitas umum seperti masjid yang terawat, serta tempat duduk yang cukup banyak. Namun ada beberapa kritik tentang aturan ojol dan kelebihan ruang introvert.",
+        "topics": [
+            "Suasananya",
+            "Fasilitas Umum",
+            "Ruang Duduk"
+        ]
+    },
+    {
+        "name": "Taman Kota BSD",
+        "timestamp": "2026-01-08 13:56",
+        "latitude": "-6.2880094",
+        "longitude": "106.6759069",
+        "popular_times": {
+            "Senin": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 79
+                },
+                {
+                    "hour": 8,
+                    "percentage": 99
+                },
+                {
+                    "hour": 9,
+                    "percentage": 100
+                },
+                {
+                    "hour": 10,
+                    "percentage": 82
+                },
+                {
+                    "hour": 11,
+                    "percentage": 61
+                },
+                {
+                    "hour": 12,
+                    "percentage": 45
+                },
+                {
+                    "hour": 13,
+                    "percentage": 38
+                },
+                {
+                    "hour": 14,
+                    "percentage": 39
+                },
+                {
+                    "hour": 15,
+                    "percentage": 43
+                },
+                {
+                    "hour": 16,
+                    "percentage": 45
+                },
+                {
+                    "hour": 17,
+                    "percentage": 0
+                },
+                {
+                    "hour": 18,
+                    "percentage": 0
+                },
+                {
+                    "hour": 19,
+                    "percentage": 0
+                },
+                {
+                    "hour": 20,
+                    "percentage": 0
+                },
+                {
+                    "hour": 21,
+                    "percentage": 0
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 23
+                },
+                {
+                    "hour": 8,
+                    "percentage": 28
+                },
+                {
+                    "hour": 9,
+                    "percentage": 29
+                },
+                {
+                    "hour": 10,
+                    "percentage": 29
+                },
+                {
+                    "hour": 11,
+                    "percentage": 30
+                },
+                {
+                    "hour": 12,
+                    "percentage": 31
+                },
+                {
+                    "hour": 13,
+                    "percentage": 30
+                },
+                {
+                    "hour": 14,
+                    "percentage": 32
+                },
+                {
+                    "hour": 15,
+                    "percentage": 32
+                },
+                {
+                    "hour": 16,
+                    "percentage": 30
+                },
+                {
+                    "hour": 17,
+                    "percentage": 0
+                },
+                {
+                    "hour": 18,
+                    "percentage": 0
+                },
+                {
+                    "hour": 19,
+                    "percentage": 0
+                },
+                {
+                    "hour": 20,
+                    "percentage": 0
+                },
+                {
+                    "hour": 21,
+                    "percentage": 0
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 25
+                },
+                {
+                    "hour": 8,
+                    "percentage": 29
+                },
+                {
+                    "hour": 9,
+                    "percentage": 31
+                },
+                {
+                    "hour": 10,
+                    "percentage": 32
+                },
+                {
+                    "hour": 11,
+                    "percentage": 34
+                },
+                {
+                    "hour": 12,
+                    "percentage": 33
+                },
+                {
+                    "hour": 13,
+                    "percentage": 30
+                },
+                {
+                    "hour": 14,
+                    "percentage": 29
+                },
+                {
+                    "hour": 15,
+                    "percentage": 28
+                },
+                {
+                    "hour": 16,
+                    "percentage": 27
+                },
+                {
+                    "hour": 17,
+                    "percentage": 0
+                },
+                {
+                    "hour": 18,
+                    "percentage": 0
+                },
+                {
+                    "hour": 19,
+                    "percentage": 0
+                },
+                {
+                    "hour": 20,
+                    "percentage": 0
+                },
+                {
+                    "hour": 21,
+                    "percentage": 0
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Kamis": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 25
+                },
+                {
+                    "hour": 8,
+                    "percentage": 31
+                },
+                {
+                    "hour": 9,
+                    "percentage": 32
+                },
+                {
+                    "hour": 10,
+                    "percentage": 32
+                },
+                {
+                    "hour": 11,
+                    "percentage": 33
+                },
+                {
+                    "hour": 12,
+                    "percentage": 33
+                },
+                {
+                    "hour": 13,
+                    "percentage": 33
+                },
+                {
+                    "hour": 14,
+                    "percentage": 33
+                },
+                {
+                    "hour": 15,
+                    "percentage": 31
+                },
+                {
+                    "hour": 16,
+                    "percentage": 29
+                },
+                {
+                    "hour": 17,
+                    "percentage": 0
+                },
+                {
+                    "hour": 18,
+                    "percentage": 0
+                },
+                {
+                    "hour": 19,
+                    "percentage": 0
+                },
+                {
+                    "hour": 20,
+                    "percentage": 0
+                },
+                {
+                    "hour": 21,
+                    "percentage": 0
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Jumat": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 21
+                },
+                {
+                    "hour": 8,
+                    "percentage": 26
+                },
+                {
+                    "hour": 9,
+                    "percentage": 29
+                },
+                {
+                    "hour": 10,
+                    "percentage": 30
+                },
+                {
+                    "hour": 11,
+                    "percentage": 31
+                },
+                {
+                    "hour": 12,
+                    "percentage": 31
+                },
+                {
+                    "hour": 14,
+                    "percentage": 30
+                },
+                {
+                    "hour": 15,
+                    "percentage": 28
+                },
+                {
+                    "hour": 16,
+                    "percentage": 26
+                },
+                {
+                    "hour": 17,
+                    "percentage": 0
+                },
+                {
+                    "hour": 18,
+                    "percentage": 0
+                },
+                {
+                    "hour": 19,
+                    "percentage": 0
+                },
+                {
+                    "hour": 20,
+                    "percentage": 0
+                },
+                {
+                    "hour": 21,
+                    "percentage": 0
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Sabtu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 25
+                },
+                {
+                    "hour": 8,
+                    "percentage": 30
+                },
+                {
+                    "hour": 9,
+                    "percentage": 32
+                },
+                {
+                    "hour": 10,
+                    "percentage": 32
+                },
+                {
+                    "hour": 11,
+                    "percentage": 34
+                },
+                {
+                    "hour": 12,
+                    "percentage": 33
+                },
+                {
+                    "hour": 13,
+                    "percentage": 31
+                },
+                {
+                    "hour": 14,
+                    "percentage": 30
+                },
+                {
+                    "hour": 15,
+                    "percentage": 29
+                },
+                {
+                    "hour": 16,
+                    "percentage": 27
+                },
+                {
+                    "hour": 17,
+                    "percentage": 0
+                },
+                {
+                    "hour": 18,
+                    "percentage": 0
+                },
+                {
+                    "hour": 19,
+                    "percentage": 0
+                },
+                {
+                    "hour": 20,
+                    "percentage": 0
+                },
+                {
+                    "hour": 21,
+                    "percentage": 0
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Minggu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 42
+                },
+                {
+                    "hour": 8,
+                    "percentage": 51
+                },
+                {
+                    "hour": 9,
+                    "percentage": 52
+                },
+                {
+                    "hour": 10,
+                    "percentage": 49
+                },
+                {
+                    "hour": 11,
+                    "percentage": 44
+                },
+                {
+                    "hour": 12,
+                    "percentage": 39
+                },
+                {
+                    "hour": 13,
+                    "percentage": 35
+                },
+                {
+                    "hour": 14,
+                    "percentage": 35
+                },
+                {
+                    "hour": 15,
+                    "percentage": 35
+                },
+                {
+                    "hour": 16,
+                    "percentage": 34
+                },
+                {
+                    "hour": 17,
+                    "percentage": 0
+                },
+                {
+                    "hour": 18,
+                    "percentage": 0
+                },
+                {
+                    "hour": 19,
+                    "percentage": 0
+                },
+                {
+                    "hour": 20,
+                    "percentage": 0
+                },
+                {
+                    "hour": 21,
+                    "percentage": 0
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ]
+        },
+        "sentiment_score": 3,
+        "summary": "Ulasan mengenai Taman Kota BSD umumnya positif, menyoroti kebersihan dan fasilitas yang baik, meskipun masih ada beberapa area perlu diperbaiki.",
+        "topics": [
+            "Kebersihan",
+            "Fasilitas",
+            "Perawatan"
+        ]
+    },
+    {
+        "name": "Taman Kota BSD 2",
+        "timestamp": "2026-01-08 13:57",
+        "latitude": "-6.3292468",
+        "longitude": "106.6833105",
+        "popular_times": {
+            "Senin": [
+                {
+                    "hour": 0,
+                    "percentage": 11
+                },
+                {
+                    "hour": 1,
+                    "percentage": 7
+                },
+                {
+                    "hour": 2,
+                    "percentage": 5
+                },
+                {
+                    "hour": 3,
+                    "percentage": 5
+                },
+                {
+                    "hour": 4,
+                    "percentage": 9
+                },
+                {
+                    "hour": 5,
+                    "percentage": 22
+                },
+                {
+                    "hour": 6,
+                    "percentage": 49
+                },
+                {
+                    "hour": 7,
+                    "percentage": 81
+                },
+                {
+                    "hour": 8,
+                    "percentage": 99
+                },
+                {
+                    "hour": 9,
+                    "percentage": 100
+                },
+                {
+                    "hour": 10,
+                    "percentage": 91
+                },
+                {
+                    "hour": 11,
+                    "percentage": 83
+                },
+                {
+                    "hour": 12,
+                    "percentage": 77
+                },
+                {
+                    "hour": 13,
+                    "percentage": 73
+                },
+                {
+                    "hour": 14,
+                    "percentage": 73
+                },
+                {
+                    "hour": 15,
+                    "percentage": 75
+                },
+                {
+                    "hour": 16,
+                    "percentage": 76
+                },
+                {
+                    "hour": 17,
+                    "percentage": 67
+                },
+                {
+                    "hour": 18,
+                    "percentage": 49
+                },
+                {
+                    "hour": 19,
+                    "percentage": 39
+                },
+                {
+                    "hour": 20,
+                    "percentage": 32
+                },
+                {
+                    "hour": 21,
+                    "percentage": 28
+                },
+                {
+                    "hour": 22,
+                    "percentage": 23
+                },
+                {
+                    "hour": 23,
+                    "percentage": 18
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 0,
+                    "percentage": 9
+                },
+                {
+                    "hour": 1,
+                    "percentage": 6
+                },
+                {
+                    "hour": 2,
+                    "percentage": 5
+                },
+                {
+                    "hour": 3,
+                    "percentage": 5
+                },
+                {
+                    "hour": 4,
+                    "percentage": 4
+                },
+                {
+                    "hour": 5,
+                    "percentage": 5
+                },
+                {
+                    "hour": 6,
+                    "percentage": 9
+                },
+                {
+                    "hour": 7,
+                    "percentage": 16
+                },
+                {
+                    "hour": 8,
+                    "percentage": 24
+                },
+                {
+                    "hour": 9,
+                    "percentage": 33
+                },
+                {
+                    "hour": 10,
+                    "percentage": 40
+                },
+                {
+                    "hour": 11,
+                    "percentage": 44
+                },
+                {
+                    "hour": 12,
+                    "percentage": 43
+                },
+                {
+                    "hour": 13,
+                    "percentage": 41
+                },
+                {
+                    "hour": 14,
+                    "percentage": 39
+                },
+                {
+                    "hour": 15,
+                    "percentage": 41
+                },
+                {
+                    "hour": 16,
+                    "percentage": 42
+                },
+                {
+                    "hour": 17,
+                    "percentage": 43
+                },
+                {
+                    "hour": 18,
+                    "percentage": 38
+                },
+                {
+                    "hour": 19,
+                    "percentage": 33
+                },
+                {
+                    "hour": 20,
+                    "percentage": 29
+                },
+                {
+                    "hour": 21,
+                    "percentage": 25
+                },
+                {
+                    "hour": 22,
+                    "percentage": 20
+                },
+                {
+                    "hour": 23,
+                    "percentage": 15
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 0,
+                    "percentage": 10
+                },
+                {
+                    "hour": 1,
+                    "percentage": 6
+                },
+                {
+                    "hour": 2,
+                    "percentage": 5
+                },
+                {
+                    "hour": 3,
+                    "percentage": 4
+                },
+                {
+                    "hour": 4,
+                    "percentage": 4
+                },
+                {
+                    "hour": 5,
+                    "percentage": 5
+                },
+                {
+                    "hour": 6,
+                    "percentage": 9
+                },
+                {
+                    "hour": 7,
+                    "percentage": 16
+                },
+                {
+                    "hour": 8,
+                    "percentage": 23
+                },
+                {
+                    "hour": 9,
+                    "percentage": 31
+                },
+                {
+                    "hour": 10,
+                    "percentage": 37
+                },
+                {
+                    "hour": 11,
+                    "percentage": 41
+                },
+                {
+                    "hour": 12,
+                    "percentage": 40
+                },
+                {
+                    "hour": 13,
+                    "percentage": 39
+                },
+                {
+                    "hour": 14,
+                    "percentage": 40
+                },
+                {
+                    "hour": 15,
+                    "percentage": 41
+                },
+                {
+                    "hour": 16,
+                    "percentage": 41
+                },
+                {
+                    "hour": 17,
+                    "percentage": 41
+                },
+                {
+                    "hour": 18,
+                    "percentage": 37
+                },
+                {
+                    "hour": 19,
+                    "percentage": 34
+                },
+                {
+                    "hour": 20,
+                    "percentage": 30
+                },
+                {
+                    "hour": 21,
+                    "percentage": 27
+                },
+                {
+                    "hour": 22,
+                    "percentage": 21
+                },
+                {
+                    "hour": 23,
+                    "percentage": 16
+                }
+            ],
+            "Kamis": [
+                {
+                    "hour": 0,
+                    "percentage": 11
+                },
+                {
+                    "hour": 1,
+                    "percentage": 7
+                },
+                {
+                    "hour": 2,
+                    "percentage": 5
+                },
+                {
+                    "hour": 3,
+                    "percentage": 4
+                },
+                {
+                    "hour": 4,
+                    "percentage": 4
+                },
+                {
+                    "hour": 5,
+                    "percentage": 6
+                },
+                {
+                    "hour": 6,
+                    "percentage": 10
+                },
+                {
+                    "hour": 7,
+                    "percentage": 17
+                },
+                {
+                    "hour": 8,
+                    "percentage": 25
+                },
+                {
+                    "hour": 9,
+                    "percentage": 35
+                },
+                {
+                    "hour": 10,
+                    "percentage": 43
+                },
+                {
+                    "hour": 11,
+                    "percentage": 48
+                },
+                {
+                    "hour": 12,
+                    "percentage": 46
+                },
+                {
+                    "hour": 13,
+                    "percentage": 43
+                },
+                {
+                    "hour": 14,
+                    "percentage": 41
+                },
+                {
+                    "hour": 15,
+                    "percentage": 40
+                },
+                {
+                    "hour": 16,
+                    "percentage": 41
+                },
+                {
+                    "hour": 17,
+                    "percentage": 39
+                },
+                {
+                    "hour": 18,
+                    "percentage": 36
+                },
+                {
+                    "hour": 19,
+                    "percentage": 33
+                },
+                {
+                    "hour": 20,
+                    "percentage": 30
+                },
+                {
+                    "hour": 21,
+                    "percentage": 27
+                },
+                {
+                    "hour": 22,
+                    "percentage": 23
+                },
+                {
+                    "hour": 23,
+                    "percentage": 17
+                }
+            ],
+            "Jumat": [
+                {
+                    "hour": 0,
+                    "percentage": 10
+                },
+                {
+                    "hour": 1,
+                    "percentage": 6
+                },
+                {
+                    "hour": 2,
+                    "percentage": 4
+                },
+                {
+                    "hour": 3,
+                    "percentage": 4
+                },
+                {
+                    "hour": 4,
+                    "percentage": 5
+                },
+                {
+                    "hour": 5,
+                    "percentage": 6
+                },
+                {
+                    "hour": 6,
+                    "percentage": 10
+                },
+                {
+                    "hour": 7,
+                    "percentage": 15
+                },
+                {
+                    "hour": 8,
+                    "percentage": 23
+                },
+                {
+                    "hour": 9,
+                    "percentage": 32
+                },
+                {
+                    "hour": 10,
+                    "percentage": 40
+                },
+                {
+                    "hour": 11,
+                    "percentage": 43
+                },
+                {
+                    "hour": 12,
+                    "percentage": 44
+                },
+                {
+                    "hour": 14,
+                    "percentage": 41
+                },
+                {
+                    "hour": 15,
+                    "percentage": 40
+                },
+                {
+                    "hour": 16,
+                    "percentage": 39
+                },
+                {
+                    "hour": 17,
+                    "percentage": 39
+                },
+                {
+                    "hour": 18,
+                    "percentage": 34
+                },
+                {
+                    "hour": 19,
+                    "percentage": 30
+                },
+                {
+                    "hour": 20,
+                    "percentage": 26
+                },
+                {
+                    "hour": 21,
+                    "percentage": 25
+                },
+                {
+                    "hour": 22,
+                    "percentage": 21
+                },
+                {
+                    "hour": 23,
+                    "percentage": 17
+                }
+            ],
+            "Sabtu": [
+                {
+                    "hour": 0,
+                    "percentage": 13
+                },
+                {
+                    "hour": 1,
+                    "percentage": 9
+                },
+                {
+                    "hour": 2,
+                    "percentage": 6
+                },
+                {
+                    "hour": 3,
+                    "percentage": 5
+                },
+                {
+                    "hour": 4,
+                    "percentage": 6
+                },
+                {
+                    "hour": 5,
+                    "percentage": 8
+                },
+                {
+                    "hour": 6,
+                    "percentage": 13
+                },
+                {
+                    "hour": 7,
+                    "percentage": 19
+                },
+                {
+                    "hour": 8,
+                    "percentage": 25
+                },
+                {
+                    "hour": 9,
+                    "percentage": 30
+                },
+                {
+                    "hour": 10,
+                    "percentage": 33
+                },
+                {
+                    "hour": 11,
+                    "percentage": 36
+                },
+                {
+                    "hour": 12,
+                    "percentage": 39
+                },
+                {
+                    "hour": 13,
+                    "percentage": 40
+                },
+                {
+                    "hour": 14,
+                    "percentage": 41
+                },
+                {
+                    "hour": 15,
+                    "percentage": 41
+                },
+                {
+                    "hour": 16,
+                    "percentage": 40
+                },
+                {
+                    "hour": 17,
+                    "percentage": 37
+                },
+                {
+                    "hour": 18,
+                    "percentage": 35
+                },
+                {
+                    "hour": 19,
+                    "percentage": 35
+                },
+                {
+                    "hour": 20,
+                    "percentage": 34
+                },
+                {
+                    "hour": 21,
+                    "percentage": 33
+                },
+                {
+                    "hour": 22,
+                    "percentage": 28
+                },
+                {
+                    "hour": 23,
+                    "percentage": 22
+                }
+            ],
+            "Minggu": [
+                {
+                    "hour": 0,
+                    "percentage": 16
+                },
+                {
+                    "hour": 1,
+                    "percentage": 10
+                },
+                {
+                    "hour": 2,
+                    "percentage": 7
+                },
+                {
+                    "hour": 3,
+                    "percentage": 6
+                },
+                {
+                    "hour": 4,
+                    "percentage": 7
+                },
+                {
+                    "hour": 5,
+                    "percentage": 13
+                },
+                {
+                    "hour": 6,
+                    "percentage": 24
+                },
+                {
+                    "hour": 7,
+                    "percentage": 39
+                },
+                {
+                    "hour": 8,
+                    "percentage": 50
+                },
+                {
+                    "hour": 9,
+                    "percentage": 55
+                },
+                {
+                    "hour": 10,
+                    "percentage": 58
+                },
+                {
+                    "hour": 11,
+                    "percentage": 61
+                },
+                {
+                    "hour": 12,
+                    "percentage": 60
+                },
+                {
+                    "hour": 13,
+                    "percentage": 58
+                },
+                {
+                    "hour": 14,
+                    "percentage": 58
+                },
+                {
+                    "hour": 15,
+                    "percentage": 60
+                },
+                {
+                    "hour": 16,
+                    "percentage": 60
+                },
+                {
+                    "hour": 17,
+                    "percentage": 60
+                },
+                {
+                    "hour": 18,
+                    "percentage": 54
+                },
+                {
+                    "hour": 19,
+                    "percentage": 50
+                },
+                {
+                    "hour": 20,
+                    "percentage": 45
+                },
+                {
+                    "hour": 21,
+                    "percentage": 40
+                },
+                {
+                    "hour": 22,
+                    "percentage": 33
+                },
+                {
+                    "hour": 23,
+                    "percentage": 26
+                }
+            ]
+        },
+        "sentiment_score": 3,
+        "summary": "Ulasan mengenai Taman Kota BSD 2 cenderung positif dengan sentimen yang terasa santai dan nyaman, namun juga menyebutkan perlu peningkatan perawatan.",
+        "topics": [
+            "Taman",
+            "Pengunjung",
+            "Perawatan"
+        ]
+    },
+    {
+        "name": "Taman Kota BSD 3",
+        "timestamp": "2026-01-08 13:57",
+        "latitude": "-6.3058201",
+        "longitude": "106.6498359",
+        "popular_times": {
+            "Senin": [
+                {
+                    "hour": 0,
+                    "percentage": 15
+                },
+                {
+                    "hour": 1,
+                    "percentage": 13
+                },
+                {
+                    "hour": 2,
+                    "percentage": 16
+                },
+                {
+                    "hour": 3,
+                    "percentage": 16
+                },
+                {
+                    "hour": 4,
+                    "percentage": 16
+                },
+                {
+                    "hour": 5,
+                    "percentage": 12
+                },
+                {
+                    "hour": 6,
+                    "percentage": 16
+                },
+                {
+                    "hour": 7,
+                    "percentage": 22
+                },
+                {
+                    "hour": 8,
+                    "percentage": 28
+                },
+                {
+                    "hour": 9,
+                    "percentage": 30
+                },
+                {
+                    "hour": 10,
+                    "percentage": 30
+                },
+                {
+                    "hour": 11,
+                    "percentage": 27
+                },
+                {
+                    "hour": 12,
+                    "percentage": 27
+                },
+                {
+                    "hour": 13,
+                    "percentage": 34
+                },
+                {
+                    "hour": 14,
+                    "percentage": 43
+                },
+                {
+                    "hour": 15,
+                    "percentage": 44
+                },
+                {
+                    "hour": 16,
+                    "percentage": 43
+                },
+                {
+                    "hour": 17,
+                    "percentage": 43
+                },
+                {
+                    "hour": 18,
+                    "percentage": 50
+                },
+                {
+                    "hour": 19,
+                    "percentage": 46
+                },
+                {
+                    "hour": 20,
+                    "percentage": 48
+                },
+                {
+                    "hour": 21,
+                    "percentage": 44
+                },
+                {
+                    "hour": 22,
+                    "percentage": 40
+                },
+                {
+                    "hour": 23,
+                    "percentage": 26
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 0,
+                    "percentage": 22
+                },
+                {
+                    "hour": 1,
+                    "percentage": 16
+                },
+                {
+                    "hour": 2,
+                    "percentage": 12
+                },
+                {
+                    "hour": 3,
+                    "percentage": 6
+                },
+                {
+                    "hour": 4,
+                    "percentage": 4
+                },
+                {
+                    "hour": 5,
+                    "percentage": 9
+                },
+                {
+                    "hour": 6,
+                    "percentage": 16
+                },
+                {
+                    "hour": 7,
+                    "percentage": 22
+                },
+                {
+                    "hour": 8,
+                    "percentage": 30
+                },
+                {
+                    "hour": 9,
+                    "percentage": 37
+                },
+                {
+                    "hour": 10,
+                    "percentage": 48
+                },
+                {
+                    "hour": 11,
+                    "percentage": 46
+                },
+                {
+                    "hour": 12,
+                    "percentage": 50
+                },
+                {
+                    "hour": 13,
+                    "percentage": 57
+                },
+                {
+                    "hour": 14,
+                    "percentage": 67
+                },
+                {
+                    "hour": 15,
+                    "percentage": 77
+                },
+                {
+                    "hour": 16,
+                    "percentage": 79
+                },
+                {
+                    "hour": 17,
+                    "percentage": 86
+                },
+                {
+                    "hour": 18,
+                    "percentage": 83
+                },
+                {
+                    "hour": 19,
+                    "percentage": 80
+                },
+                {
+                    "hour": 20,
+                    "percentage": 67
+                },
+                {
+                    "hour": 21,
+                    "percentage": 55
+                },
+                {
+                    "hour": 22,
+                    "percentage": 40
+                },
+                {
+                    "hour": 23,
+                    "percentage": 30
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 0,
+                    "percentage": 25
+                },
+                {
+                    "hour": 1,
+                    "percentage": 15
+                },
+                {
+                    "hour": 2,
+                    "percentage": 13
+                },
+                {
+                    "hour": 3,
+                    "percentage": 16
+                },
+                {
+                    "hour": 4,
+                    "percentage": 21
+                },
+                {
+                    "hour": 5,
+                    "percentage": 30
+                },
+                {
+                    "hour": 6,
+                    "percentage": 32
+                },
+                {
+                    "hour": 7,
+                    "percentage": 44
+                },
+                {
+                    "hour": 8,
+                    "percentage": 53
+                },
+                {
+                    "hour": 9,
+                    "percentage": 60
+                },
+                {
+                    "hour": 10,
+                    "percentage": 60
+                },
+                {
+                    "hour": 11,
+                    "percentage": 53
+                },
+                {
+                    "hour": 12,
+                    "percentage": 51
+                },
+                {
+                    "hour": 13,
+                    "percentage": 50
+                },
+                {
+                    "hour": 14,
+                    "percentage": 54
+                },
+                {
+                    "hour": 15,
+                    "percentage": 71
+                },
+                {
+                    "hour": 16,
+                    "percentage": 87
+                },
+                {
+                    "hour": 17,
+                    "percentage": 100
+                },
+                {
+                    "hour": 18,
+                    "percentage": 92
+                },
+                {
+                    "hour": 19,
+                    "percentage": 79
+                },
+                {
+                    "hour": 20,
+                    "percentage": 67
+                },
+                {
+                    "hour": 21,
+                    "percentage": 60
+                },
+                {
+                    "hour": 22,
+                    "percentage": 46
+                },
+                {
+                    "hour": 23,
+                    "percentage": 39
+                }
+            ],
+            "Kamis": [
+                {
+                    "hour": 0,
+                    "percentage": 24
+                },
+                {
+                    "hour": 1,
+                    "percentage": 9
+                },
+                {
+                    "hour": 2,
+                    "percentage": 6
+                },
+                {
+                    "hour": 3,
+                    "percentage": 9
+                },
+                {
+                    "hour": 4,
+                    "percentage": 18
+                },
+                {
+                    "hour": 5,
+                    "percentage": 21
+                },
+                {
+                    "hour": 6,
+                    "percentage": 24
+                },
+                {
+                    "hour": 7,
+                    "percentage": 31
+                },
+                {
+                    "hour": 8,
+                    "percentage": 44
+                },
+                {
+                    "hour": 9,
+                    "percentage": 63
+                },
+                {
+                    "hour": 10,
+                    "percentage": 74
+                },
+                {
+                    "hour": 11,
+                    "percentage": 71
+                },
+                {
+                    "hour": 12,
+                    "percentage": 66
+                },
+                {
+                    "hour": 13,
+                    "percentage": 56
+                },
+                {
+                    "hour": 14,
+                    "percentage": 63
+                },
+                {
+                    "hour": 15,
+                    "percentage": 74
+                },
+                {
+                    "hour": 16,
+                    "percentage": 87
+                },
+                {
+                    "hour": 17,
+                    "percentage": 87
+                },
+                {
+                    "hour": 18,
+                    "percentage": 79
+                },
+                {
+                    "hour": 19,
+                    "percentage": 71
+                },
+                {
+                    "hour": 20,
+                    "percentage": 66
+                },
+                {
+                    "hour": 21,
+                    "percentage": 55
+                },
+                {
+                    "hour": 22,
+                    "percentage": 54
+                },
+                {
+                    "hour": 23,
+                    "percentage": 38
+                }
+            ],
+            "Jumat": [
+                {
+                    "hour": 0,
+                    "percentage": 27
+                },
+                {
+                    "hour": 1,
+                    "percentage": 22
+                },
+                {
+                    "hour": 2,
+                    "percentage": 12
+                },
+                {
+                    "hour": 3,
+                    "percentage": 8
+                },
+                {
+                    "hour": 4,
+                    "percentage": 6
+                },
+                {
+                    "hour": 5,
+                    "percentage": 12
+                },
+                {
+                    "hour": 6,
+                    "percentage": 18
+                },
+                {
+                    "hour": 7,
+                    "percentage": 28
+                },
+                {
+                    "hour": 8,
+                    "percentage": 39
+                },
+                {
+                    "hour": 9,
+                    "percentage": 55
+                },
+                {
+                    "hour": 10,
+                    "percentage": 67
+                },
+                {
+                    "hour": 11,
+                    "percentage": 71
+                },
+                {
+                    "hour": 12,
+                    "percentage": 67
+                },
+                {
+                    "hour": 14,
+                    "percentage": 57
+                },
+                {
+                    "hour": 15,
+                    "percentage": 69
+                },
+                {
+                    "hour": 16,
+                    "percentage": 77
+                },
+                {
+                    "hour": 17,
+                    "percentage": 83
+                },
+                {
+                    "hour": 18,
+                    "percentage": 77
+                },
+                {
+                    "hour": 19,
+                    "percentage": 66
+                },
+                {
+                    "hour": 20,
+                    "percentage": 56
+                },
+                {
+                    "hour": 21,
+                    "percentage": 49
+                },
+                {
+                    "hour": 22,
+                    "percentage": 44
+                },
+                {
+                    "hour": 23,
+                    "percentage": 34
+                }
+            ],
+            "Sabtu": [
+                {
+                    "hour": 0,
+                    "percentage": 14
+                },
+                {
+                    "hour": 1,
+                    "percentage": 8
+                },
+                {
+                    "hour": 2,
+                    "percentage": 6
+                },
+                {
+                    "hour": 3,
+                    "percentage": 6
+                },
+                {
+                    "hour": 4,
+                    "percentage": 9
+                },
+                {
+                    "hour": 5,
+                    "percentage": 16
+                },
+                {
+                    "hour": 6,
+                    "percentage": 27
+                },
+                {
+                    "hour": 7,
+                    "percentage": 33
+                },
+                {
+                    "hour": 8,
+                    "percentage": 42
+                },
+                {
+                    "hour": 9,
+                    "percentage": 50
+                },
+                {
+                    "hour": 10,
+                    "percentage": 55
+                },
+                {
+                    "hour": 11,
+                    "percentage": 51
+                },
+                {
+                    "hour": 12,
+                    "percentage": 53
+                },
+                {
+                    "hour": 13,
+                    "percentage": 48
+                },
+                {
+                    "hour": 14,
+                    "percentage": 56
+                },
+                {
+                    "hour": 15,
+                    "percentage": 72
+                },
+                {
+                    "hour": 16,
+                    "percentage": 84
+                },
+                {
+                    "hour": 17,
+                    "percentage": 78
+                },
+                {
+                    "hour": 18,
+                    "percentage": 57
+                },
+                {
+                    "hour": 19,
+                    "percentage": 44
+                },
+                {
+                    "hour": 20,
+                    "percentage": 36
+                },
+                {
+                    "hour": 21,
+                    "percentage": 37
+                },
+                {
+                    "hour": 22,
+                    "percentage": 32
+                },
+                {
+                    "hour": 23,
+                    "percentage": 28
+                }
+            ],
+            "Minggu": [
+                {
+                    "hour": 0,
+                    "percentage": 24
+                },
+                {
+                    "hour": 1,
+                    "percentage": 20
+                },
+                {
+                    "hour": 2,
+                    "percentage": 19
+                },
+                {
+                    "hour": 3,
+                    "percentage": 20
+                },
+                {
+                    "hour": 4,
+                    "percentage": 25
+                },
+                {
+                    "hour": 5,
+                    "percentage": 30
+                },
+                {
+                    "hour": 6,
+                    "percentage": 37
+                },
+                {
+                    "hour": 7,
+                    "percentage": 44
+                },
+                {
+                    "hour": 8,
+                    "percentage": 40
+                },
+                {
+                    "hour": 9,
+                    "percentage": 38
+                },
+                {
+                    "hour": 10,
+                    "percentage": 44
+                },
+                {
+                    "hour": 11,
+                    "percentage": 55
+                },
+                {
+                    "hour": 12,
+                    "percentage": 56
+                },
+                {
+                    "hour": 13,
+                    "percentage": 61
+                },
+                {
+                    "hour": 14,
+                    "percentage": 65
+                },
+                {
+                    "hour": 15,
+                    "percentage": 71
+                },
+                {
+                    "hour": 16,
+                    "percentage": 74
+                },
+                {
+                    "hour": 17,
+                    "percentage": 69
+                },
+                {
+                    "hour": 18,
+                    "percentage": 65
+                },
+                {
+                    "hour": 19,
+                    "percentage": 56
+                },
+                {
+                    "hour": 20,
+                    "percentage": 48
+                },
+                {
+                    "hour": 21,
+                    "percentage": 43
+                },
+                {
+                    "hour": 22,
+                    "percentage": 33
+                },
+                {
+                    "hour": 23,
+                    "percentage": 28
+                }
+            ]
+        },
+        "sentiment_score": 1,
+        "summary": "Ulasan umumnya negatif dengan sentimen dominan, menyoroti kurang terawatnya taman dan kekurangan fasilitas.",
+        "topics": [
+            "Kondisi Taman",
+            "Fasilitas",
+            "Pelayanan"
         ]
     }
 ]
