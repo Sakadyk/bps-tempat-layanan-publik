@@ -62,11 +62,9 @@ df = load_data()
 if df is None:
     st.error("File 'data_dashboard.json' tidak ditemukan.")
     st.stop()
-    
-now = datetime.now(ZoneInfo("Asia/Jakarta"))
 
 # Waktu Saat Ini
-now = datetime.now()
+now = datetime.now(ZoneInfo("Asia/Jakarta"))
 days_map = {0: "Senin", 1: "Selasa", 2: "Rabu", 3: "Kamis", 4: "Jumat", 5: "Sabtu", 6: "Minggu"}
 curr_day = days_map[now.weekday()]
 curr_hour = now.hour
@@ -283,3 +281,4 @@ else:
             st.text("-")
 
 st.caption("Dashboard Monitoring v2.3 - Fixed Deprecation Warnings")
+
