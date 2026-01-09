@@ -4,6 +4,7 @@ import json
 import plotly.express as px
 import os
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 # ==========================================
 # 1. KONFIGURASI HALAMAN
@@ -61,6 +62,8 @@ df = load_data()
 if df is None:
     st.error("File 'data_dashboard.json' tidak ditemukan.")
     st.stop()
+    
+now = datetime.now(ZoneInfo("Asia/Jakarta"))
 
 # Waktu Saat Ini
 now = datetime.now()
