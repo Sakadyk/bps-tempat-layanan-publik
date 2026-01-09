@@ -1,7 +1,7 @@
 [
     {
         "name": "Stasiun Sudimara",
-        "timestamp": "2026-01-08 13:54",
+        "timestamp": "2026-01-09 09:03",
         "latitude": "-6.2969768",
         "longitude": "106.7101947",
         "popular_times": {
@@ -451,6 +451,10 @@
                     "percentage": 20
                 },
                 {
+                    "hour": 13,
+                    "percentage": 20
+                },
+                {
                     "hour": 14,
                     "percentage": 23
                 },
@@ -527,10 +531,6 @@
                 {
                     "hour": 8,
                     "percentage": 42
-                },
-                {
-                    "hour": 9,
-                    "percentage": 32
                 },
                 {
                     "hour": 10,
@@ -689,16 +689,16 @@
             ]
         },
         "sentiment_score": 1,
-        "summary": "Ulasan umumnya negatif dengan sentimen dominan bersifat kecewa dan tidak puas terutama karena antrian panjang, pelayanan yang buruk, serta satpam yang tidak sopan.",
+        "summary": "Ulasan umumnya negatif dengan sentimen dominan bersifat kecewa dan tidak puas terhadap pelayanan, meskipun ada beberapa aspek positif.",
         "topics": [
-            "Antrian",
             "Pelayanan",
-            "Satpam"
+            "Kebersihan",
+            "Antrian"
         ]
     },
     {
         "name": "Stasiun Jurang Mangu",
-        "timestamp": "2026-01-08 13:54",
+        "timestamp": "2026-01-09 09:03",
         "latitude": "-6.2887899",
         "longitude": "106.7291221",
         "popular_times": {
@@ -1148,6 +1148,10 @@
                     "percentage": 22
                 },
                 {
+                    "hour": 13,
+                    "percentage": 22
+                },
+                {
                     "hour": 14,
                     "percentage": 25
                 },
@@ -1224,10 +1228,6 @@
                 {
                     "hour": 8,
                     "percentage": 53
-                },
-                {
-                    "hour": 9,
-                    "percentage": 41
                 },
                 {
                     "hour": 10,
@@ -1395,9 +1395,9 @@
     },
     {
         "name": "Stasiun Rawa Buntu",
-        "timestamp": "2026-01-08 13:55",
+        "timestamp": "2026-01-09 09:03",
         "latitude": "-6.3149825",
-        "longitude": "106.6762688",
+        "longitude": "106.6736939",
         "popular_times": {
             "Senin": [
                 {
@@ -1845,6 +1845,10 @@
                     "percentage": 18
                 },
                 {
+                    "hour": 13,
+                    "percentage": 18
+                },
+                {
                     "hour": 14,
                     "percentage": 21
                 },
@@ -1921,10 +1925,6 @@
                 {
                     "hour": 8,
                     "percentage": 44
-                },
-                {
-                    "hour": 9,
-                    "percentage": 33
                 },
                 {
                     "hour": 10,
@@ -2083,16 +2083,16 @@
             ]
         },
         "sentiment_score": 1,
-        "summary": "Ulasan mengungkapkan banyak masalah di Stasiun Rawa Buntu, termasuk kondisi jalan rusak, parkiran yang buruk, dan kurangnya perbaikan umum.",
+        "summary": "Ulasan umumnya negatif dengan sentimen dominan, menyoroti masalah seperti fasilitas yang buruk dan keadaan jalan yang rusak di Stasiun Rawa Buntu.",
         "topics": [
-            "Kondisi Jalan",
-            "Parkir Mobil",
-            "Perbaikan Umum"
+            "Fasilitas",
+            "Jalan",
+            "Kebersihan"
         ]
     },
     {
         "name": "Terminal Pondok Cabe",
-        "timestamp": "2026-01-08 13:55",
+        "timestamp": "2026-01-09 09:04",
         "latitude": "-6.3583009",
         "longitude": "106.7545537",
         "popular_times": {
@@ -2542,6 +2542,10 @@
                     "percentage": 48
                 },
                 {
+                    "hour": 13,
+                    "percentage": 49
+                },
+                {
                     "hour": 14,
                     "percentage": 54
                 },
@@ -2618,10 +2622,6 @@
                 {
                     "hour": 8,
                     "percentage": 42
-                },
-                {
-                    "hour": 9,
-                    "percentage": 46
                 },
                 {
                     "hour": 10,
@@ -2780,58 +2780,58 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Terminal Pondok Cabe menawarkan pilihan menu yang luas dan lokasi strategis, namun memiliki masalah dalam pengelolaan.",
+        "summary": "Ulasan umumnya positif dengan sentimen yang dominan, menyoroti luas dan keamanan terminal, pilihan menu, serta lokasi strategis.",
         "topics": [
+            "Luas",
             "Menu",
-            "Lokasi",
-            "Pengelolaan"
+            "Lokasi"
         ]
     },
     {
         "name": "RSUD Tangerang Selatan",
-        "timestamp": "2026-01-08 13:55",
+        "timestamp": "2026-01-09 09:04",
         "latitude": "-6.3376386",
-        "longitude": "106.7386767",
+        "longitude": "106.7361018",
         "popular_times": {},
         "sentiment_score": 3,
-        "summary": "Ulasan umumnya positif dengan sentimen dominan, menyoroti pelayanan yang memuaskan, kepedulian staff, dan perbaikan yang diinginkan.",
+        "summary": "Ulasan umumnya positif dengan sentimen dominan, menyoroti pelayanan yang memuaskan dan perawat yang ramah, meskipun ada beberapa masalah seperti antrian panjang dan kurangnya kejelasan dalam memberikan instruksi medis.",
         "topics": [
             "Pelayanan",
-            "Staff",
-            "Perbaikan"
+            "Perawat",
+            "Antrian"
         ]
     },
     {
         "name": "Kantor Walikota",
-        "timestamp": "2026-01-08 13:55",
+        "timestamp": "2026-01-09 09:04",
         "latitude": "-6.3223832",
         "longitude": "106.7077614",
         "popular_times": {},
         "sentiment_score": 1,
-        "summary": "Ulasan mengandung sentimen negatif terhadap pelayanan dan lingkungan kantor Walikota Tangerang Selatan.",
+        "summary": "Ulasan mengandung sentimen dominan negatif tentang pelayanan dan lingkungan Kota Tangerang Selatan.",
         "topics": [
-            "Pelayanan",
+            "Pelayanan Publik",
             "Lingkungan",
-            "Kepentingan"
+            "Kualitas Pemerintahan"
         ]
     },
     {
         "name": "Dukcapil",
-        "timestamp": "2026-01-08 13:55",
+        "timestamp": "2026-01-09 09:04",
         "latitude": "-6.3278173",
         "longitude": "106.6737166",
         "popular_times": {},
         "sentiment_score": 1,
-        "summary": "Ulasan umumnya negatif dengan sentimen dominan, mengkritik keterbatasan kuota dan pelayanan yang lambat.",
+        "summary": "Ulasan umumnya negatif dengan sentimen dominan, mengkritik pelayanan yang lambat dan kurang ramah.",
         "topics": [
-            "Kuota",
             "Pelayanan",
-            "Persyaratan"
+            "Antrian",
+            "Keterbatasan Kuota"
         ]
     },
     {
         "name": "Bintaro Xchange",
-        "timestamp": "2026-01-08 13:56",
+        "timestamp": "2026-01-09 09:05",
         "latitude": "-6.2854481",
         "longitude": "106.7285448",
         "popular_times": {
@@ -3161,6 +3161,10 @@
                     "percentage": 24
                 },
                 {
+                    "hour": 13,
+                    "percentage": 28
+                },
+                {
                     "hour": 14,
                     "percentage": 31
                 },
@@ -3351,16 +3355,16 @@
             ]
         },
         "sentiment_score": 1,
-        "summary": "Ulasan ini dominantly negatif dengan perhatian utama pada pengalaman buruk dalam hal pelayanan, kepadatan mall, dan kurangnya fasilitas umum.",
+        "summary": "Ulasan ini dominantly negatif dengan sentimen yang cenderung mengecewakan, mencakup pengalaman buruk di tempat makan dan toko UBS Gold, serta masalah kebersihan dan antrian panjang.",
         "topics": [
             "Pelayanan",
-            "Keadaan Mall",
-            "Fasilitas Umum"
+            "Kebersihan",
+            "Antrian"
         ]
     },
     {
         "name": "Living World",
-        "timestamp": "2026-01-08 13:56",
+        "timestamp": "2026-01-09 09:05",
         "latitude": "-6.2443767",
         "longitude": "106.653103",
         "popular_times": {
@@ -3690,6 +3694,10 @@
                     "percentage": 27
                 },
                 {
+                    "hour": 13,
+                    "percentage": 31
+                },
+                {
                     "hour": 14,
                     "percentage": 32
                 },
@@ -3880,18 +3888,18 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Ulasan umumnya positif, menyoroti keamanan, pelayanan yang ramah dan cepat, serta banyaknya promo dan diskon di Living World Alam Sutera.",
+        "summary": "Ulasan umumnya positif, menyoroti mall yang luas dan nyaman, pelayanan ramah, banyak promo, serta variasi barang di Informa Living World Alam Sutera.",
         "topics": [
-            "Promo",
+            "Mall",
             "Pelayanan",
-            "Diskon"
+            "Promo"
         ]
     },
     {
         "name": "Teras Kota",
-        "timestamp": "2026-01-08 13:56",
+        "timestamp": "2026-01-09 09:05",
         "latitude": "-6.2955633",
-        "longitude": "106.6649118",
+        "longitude": "106.6674867",
         "popular_times": {
             "Senin": [
                 {
@@ -4219,6 +4227,10 @@
                     "percentage": 57
                 },
                 {
+                    "hour": 13,
+                    "percentage": 60
+                },
+                {
                     "hour": 14,
                     "percentage": 61
                 },
@@ -4409,16 +4421,16 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Ulasan mengenai Teraskota BSD cenderung positif, menyoroti suasana yang nyaman dan luas, fasilitas umum seperti masjid yang terawat, serta tempat duduk yang cukup banyak. Namun ada beberapa kritik tentang aturan ojol dan kelebihan ruang introvert.",
+        "summary": "Teras Kota BSD dikenal sebagai mall yang nyaman dan ramah pengunjung, dengan fasilitas tempat duduk yang cukup banyak. Namun, masalah antrian panjang di beberapa restoran menjadi kendala utama.",
         "topics": [
-            "Suasananya",
-            "Fasilitas Umum",
-            "Ruang Duduk"
+            "Antrian",
+            "Restoran",
+            "Fasilitas Tempat Duduk"
         ]
     },
     {
         "name": "Taman Kota BSD",
-        "timestamp": "2026-01-08 13:56",
+        "timestamp": "2026-01-09 09:05",
         "latitude": "-6.2880094",
         "longitude": "106.6759069",
         "popular_times": {
@@ -4748,6 +4760,10 @@
                     "percentage": 31
                 },
                 {
+                    "hour": 13,
+                    "percentage": 30
+                },
+                {
                     "hour": 14,
                     "percentage": 30
                 },
@@ -4800,10 +4816,6 @@
                 {
                     "hour": 8,
                     "percentage": 30
-                },
-                {
-                    "hour": 9,
-                    "percentage": 32
                 },
                 {
                     "hour": 10,
@@ -4938,16 +4950,16 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Ulasan mengenai Taman Kota BSD umumnya positif, menyoroti kebersihan dan fasilitas yang baik, meskipun masih ada beberapa area perlu diperbaiki.",
+        "summary": "Ulasan umumnya positif tentang Taman Kota BSD, menyoroti kebersihan yang baik, fasilitas olahraga lengkap, dan luas area taman. Namun, ada beberapa masalah seperti jalanan yang masih licin setelah hujan.",
         "topics": [
             "Kebersihan",
-            "Fasilitas",
-            "Perawatan"
+            "Fasilitas Olahraga",
+            "Luas Area"
         ]
     },
     {
         "name": "Taman Kota BSD 2",
-        "timestamp": "2026-01-08 13:57",
+        "timestamp": "2026-01-09 09:05",
         "latitude": "-6.3292468",
         "longitude": "106.6833105",
         "popular_times": {
@@ -5397,6 +5409,10 @@
                     "percentage": 44
                 },
                 {
+                    "hour": 13,
+                    "percentage": 43
+                },
+                {
                     "hour": 14,
                     "percentage": 41
                 },
@@ -5473,10 +5489,6 @@
                 {
                     "hour": 8,
                     "percentage": 25
-                },
-                {
-                    "hour": 9,
-                    "percentage": 30
                 },
                 {
                     "hour": 10,
@@ -5635,7 +5647,7 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Ulasan mengenai Taman Kota BSD 2 cenderung positif dengan sentimen yang terasa santai dan nyaman, namun juga menyebutkan perlu peningkatan perawatan.",
+        "summary": "Ulasan mengenai Taman Kota BSD 2 cenderung positif dengan sentimen yang terasa santai dan nyaman, meskipun ada beberapa masalah seperti kurangnya perawatan dan ramainya tempat pada waktu tertentu.",
         "topics": [
             "Taman",
             "Pengunjung",
@@ -5644,9 +5656,9 @@
     },
     {
         "name": "Taman Kota BSD 3",
-        "timestamp": "2026-01-08 13:57",
+        "timestamp": "2026-01-09 09:06",
         "latitude": "-6.3058201",
-        "longitude": "106.6498359",
+        "longitude": "106.647261",
         "popular_times": {
             "Senin": [
                 {
@@ -6094,6 +6106,10 @@
                     "percentage": 67
                 },
                 {
+                    "hour": 13,
+                    "percentage": 59
+                },
+                {
                     "hour": 14,
                     "percentage": 57
                 },
@@ -6170,10 +6186,6 @@
                 {
                     "hour": 8,
                     "percentage": 42
-                },
-                {
-                    "hour": 9,
-                    "percentage": 50
                 },
                 {
                     "hour": 10,
@@ -6336,7 +6348,1233 @@
         "topics": [
             "Kondisi Taman",
             "Fasilitas",
-            "Pelayanan"
+            "Pemeliharaan"
+        ]
+    },
+    {
+        "name": "Pasar Modern BSD",
+        "timestamp": "2026-01-09 09:06",
+        "latitude": "-6.3045281",
+        "longitude": "106.6848223",
+        "popular_times": {
+            "Senin": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 69
+                },
+                {
+                    "hour": 8,
+                    "percentage": 89
+                },
+                {
+                    "hour": 9,
+                    "percentage": 97
+                },
+                {
+                    "hour": 10,
+                    "percentage": 93
+                },
+                {
+                    "hour": 11,
+                    "percentage": 82
+                },
+                {
+                    "hour": 12,
+                    "percentage": 68
+                },
+                {
+                    "hour": 13,
+                    "percentage": 54
+                },
+                {
+                    "hour": 14,
+                    "percentage": 42
+                },
+                {
+                    "hour": 15,
+                    "percentage": 35
+                },
+                {
+                    "hour": 16,
+                    "percentage": 35
+                },
+                {
+                    "hour": 17,
+                    "percentage": 41
+                },
+                {
+                    "hour": 18,
+                    "percentage": 49
+                },
+                {
+                    "hour": 19,
+                    "percentage": 53
+                },
+                {
+                    "hour": 20,
+                    "percentage": 47
+                },
+                {
+                    "hour": 21,
+                    "percentage": 36
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 51
+                },
+                {
+                    "hour": 8,
+                    "percentage": 62
+                },
+                {
+                    "hour": 9,
+                    "percentage": 67
+                },
+                {
+                    "hour": 10,
+                    "percentage": 67
+                },
+                {
+                    "hour": 11,
+                    "percentage": 64
+                },
+                {
+                    "hour": 12,
+                    "percentage": 59
+                },
+                {
+                    "hour": 13,
+                    "percentage": 51
+                },
+                {
+                    "hour": 14,
+                    "percentage": 43
+                },
+                {
+                    "hour": 15,
+                    "percentage": 39
+                },
+                {
+                    "hour": 16,
+                    "percentage": 40
+                },
+                {
+                    "hour": 17,
+                    "percentage": 43
+                },
+                {
+                    "hour": 18,
+                    "percentage": 46
+                },
+                {
+                    "hour": 19,
+                    "percentage": 46
+                },
+                {
+                    "hour": 20,
+                    "percentage": 40
+                },
+                {
+                    "hour": 21,
+                    "percentage": 30
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 54
+                },
+                {
+                    "hour": 8,
+                    "percentage": 65
+                },
+                {
+                    "hour": 9,
+                    "percentage": 69
+                },
+                {
+                    "hour": 10,
+                    "percentage": 68
+                },
+                {
+                    "hour": 11,
+                    "percentage": 64
+                },
+                {
+                    "hour": 12,
+                    "percentage": 59
+                },
+                {
+                    "hour": 13,
+                    "percentage": 51
+                },
+                {
+                    "hour": 14,
+                    "percentage": 44
+                },
+                {
+                    "hour": 15,
+                    "percentage": 40
+                },
+                {
+                    "hour": 16,
+                    "percentage": 39
+                },
+                {
+                    "hour": 17,
+                    "percentage": 43
+                },
+                {
+                    "hour": 18,
+                    "percentage": 46
+                },
+                {
+                    "hour": 19,
+                    "percentage": 45
+                },
+                {
+                    "hour": 20,
+                    "percentage": 39
+                },
+                {
+                    "hour": 21,
+                    "percentage": 30
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Kamis": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 53
+                },
+                {
+                    "hour": 8,
+                    "percentage": 65
+                },
+                {
+                    "hour": 9,
+                    "percentage": 70
+                },
+                {
+                    "hour": 10,
+                    "percentage": 69
+                },
+                {
+                    "hour": 11,
+                    "percentage": 66
+                },
+                {
+                    "hour": 12,
+                    "percentage": 60
+                },
+                {
+                    "hour": 13,
+                    "percentage": 53
+                },
+                {
+                    "hour": 14,
+                    "percentage": 45
+                },
+                {
+                    "hour": 15,
+                    "percentage": 40
+                },
+                {
+                    "hour": 16,
+                    "percentage": 40
+                },
+                {
+                    "hour": 17,
+                    "percentage": 43
+                },
+                {
+                    "hour": 18,
+                    "percentage": 46
+                },
+                {
+                    "hour": 19,
+                    "percentage": 46
+                },
+                {
+                    "hour": 20,
+                    "percentage": 42
+                },
+                {
+                    "hour": 21,
+                    "percentage": 33
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Jumat": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 51
+                },
+                {
+                    "hour": 8,
+                    "percentage": 61
+                },
+                {
+                    "hour": 9,
+                    "percentage": 66
+                },
+                {
+                    "hour": 10,
+                    "percentage": 67
+                },
+                {
+                    "hour": 11,
+                    "percentage": 66
+                },
+                {
+                    "hour": 12,
+                    "percentage": 61
+                },
+                {
+                    "hour": 13,
+                    "percentage": 53
+                },
+                {
+                    "hour": 14,
+                    "percentage": 45
+                },
+                {
+                    "hour": 15,
+                    "percentage": 40
+                },
+                {
+                    "hour": 16,
+                    "percentage": 39
+                },
+                {
+                    "hour": 17,
+                    "percentage": 43
+                },
+                {
+                    "hour": 18,
+                    "percentage": 46
+                },
+                {
+                    "hour": 19,
+                    "percentage": 46
+                },
+                {
+                    "hour": 20,
+                    "percentage": 40
+                },
+                {
+                    "hour": 21,
+                    "percentage": 31
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Sabtu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 55
+                },
+                {
+                    "hour": 8,
+                    "percentage": 67
+                },
+                {
+                    "hour": 10,
+                    "percentage": 72
+                },
+                {
+                    "hour": 11,
+                    "percentage": 70
+                },
+                {
+                    "hour": 12,
+                    "percentage": 64
+                },
+                {
+                    "hour": 13,
+                    "percentage": 55
+                },
+                {
+                    "hour": 14,
+                    "percentage": 46
+                },
+                {
+                    "hour": 15,
+                    "percentage": 40
+                },
+                {
+                    "hour": 16,
+                    "percentage": 38
+                },
+                {
+                    "hour": 17,
+                    "percentage": 42
+                },
+                {
+                    "hour": 18,
+                    "percentage": 46
+                },
+                {
+                    "hour": 19,
+                    "percentage": 49
+                },
+                {
+                    "hour": 20,
+                    "percentage": 47
+                },
+                {
+                    "hour": 21,
+                    "percentage": 39
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ],
+            "Minggu": [
+                {
+                    "hour": 6,
+                    "percentage": 0
+                },
+                {
+                    "hour": 7,
+                    "percentage": 72
+                },
+                {
+                    "hour": 8,
+                    "percentage": 92
+                },
+                {
+                    "hour": 9,
+                    "percentage": 100
+                },
+                {
+                    "hour": 10,
+                    "percentage": 95
+                },
+                {
+                    "hour": 11,
+                    "percentage": 84
+                },
+                {
+                    "hour": 12,
+                    "percentage": 72
+                },
+                {
+                    "hour": 13,
+                    "percentage": 60
+                },
+                {
+                    "hour": 14,
+                    "percentage": 49
+                },
+                {
+                    "hour": 15,
+                    "percentage": 42
+                },
+                {
+                    "hour": 16,
+                    "percentage": 40
+                },
+                {
+                    "hour": 17,
+                    "percentage": 46
+                },
+                {
+                    "hour": 18,
+                    "percentage": 56
+                },
+                {
+                    "hour": 19,
+                    "percentage": 63
+                },
+                {
+                    "hour": 20,
+                    "percentage": 59
+                },
+                {
+                    "hour": 21,
+                    "percentage": 48
+                },
+                {
+                    "hour": 22,
+                    "percentage": 0
+                },
+                {
+                    "hour": 23,
+                    "percentage": 0
+                }
+            ]
+        },
+        "sentiment_score": 3,
+        "summary": "Pasar Modern BSD dinilai positif dengan suasana yang rapi dan bersih, pilihan makanan yang lengkap, serta layanan yang memadai. Namun ada beberapa kekurangan seperti harga yang mahal.",
+        "topics": [
+            "Suasana",
+            "Layanan",
+            "Harga"
+        ]
+    },
+    {
+        "name": "Alun-Alun Pamulang",
+        "timestamp": "2026-01-09 09:06",
+        "latitude": "-6.3443974",
+        "longitude": "106.7349785",
+        "popular_times": {
+            "Senin": [
+                {
+                    "hour": 0,
+                    "percentage": 13
+                },
+                {
+                    "hour": 1,
+                    "percentage": 6
+                },
+                {
+                    "hour": 2,
+                    "percentage": 2
+                },
+                {
+                    "hour": 3,
+                    "percentage": 2
+                },
+                {
+                    "hour": 4,
+                    "percentage": 6
+                },
+                {
+                    "hour": 5,
+                    "percentage": 15
+                },
+                {
+                    "hour": 6,
+                    "percentage": 28
+                },
+                {
+                    "hour": 7,
+                    "percentage": 38
+                },
+                {
+                    "hour": 8,
+                    "percentage": 38
+                },
+                {
+                    "hour": 9,
+                    "percentage": 30
+                },
+                {
+                    "hour": 10,
+                    "percentage": 21
+                },
+                {
+                    "hour": 11,
+                    "percentage": 15
+                },
+                {
+                    "hour": 12,
+                    "percentage": 12
+                },
+                {
+                    "hour": 13,
+                    "percentage": 11
+                },
+                {
+                    "hour": 14,
+                    "percentage": 13
+                },
+                {
+                    "hour": 15,
+                    "percentage": 20
+                },
+                {
+                    "hour": 16,
+                    "percentage": 30
+                },
+                {
+                    "hour": 17,
+                    "percentage": 43
+                },
+                {
+                    "hour": 18,
+                    "percentage": 50
+                },
+                {
+                    "hour": 19,
+                    "percentage": 56
+                },
+                {
+                    "hour": 20,
+                    "percentage": 57
+                },
+                {
+                    "hour": 21,
+                    "percentage": 51
+                },
+                {
+                    "hour": 22,
+                    "percentage": 39
+                },
+                {
+                    "hour": 23,
+                    "percentage": 25
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 0,
+                    "percentage": 10
+                },
+                {
+                    "hour": 1,
+                    "percentage": 5
+                },
+                {
+                    "hour": 2,
+                    "percentage": 2
+                },
+                {
+                    "hour": 3,
+                    "percentage": 2
+                },
+                {
+                    "hour": 4,
+                    "percentage": 3
+                },
+                {
+                    "hour": 5,
+                    "percentage": 7
+                },
+                {
+                    "hour": 6,
+                    "percentage": 11
+                },
+                {
+                    "hour": 7,
+                    "percentage": 15
+                },
+                {
+                    "hour": 8,
+                    "percentage": 15
+                },
+                {
+                    "hour": 9,
+                    "percentage": 14
+                },
+                {
+                    "hour": 10,
+                    "percentage": 12
+                },
+                {
+                    "hour": 11,
+                    "percentage": 11
+                },
+                {
+                    "hour": 12,
+                    "percentage": 10
+                },
+                {
+                    "hour": 13,
+                    "percentage": 10
+                },
+                {
+                    "hour": 14,
+                    "percentage": 11
+                },
+                {
+                    "hour": 15,
+                    "percentage": 13
+                },
+                {
+                    "hour": 16,
+                    "percentage": 19
+                },
+                {
+                    "hour": 17,
+                    "percentage": 26
+                },
+                {
+                    "hour": 18,
+                    "percentage": 33
+                },
+                {
+                    "hour": 19,
+                    "percentage": 39
+                },
+                {
+                    "hour": 20,
+                    "percentage": 42
+                },
+                {
+                    "hour": 21,
+                    "percentage": 40
+                },
+                {
+                    "hour": 22,
+                    "percentage": 32
+                },
+                {
+                    "hour": 23,
+                    "percentage": 21
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 0,
+                    "percentage": 10
+                },
+                {
+                    "hour": 1,
+                    "percentage": 5
+                },
+                {
+                    "hour": 2,
+                    "percentage": 2
+                },
+                {
+                    "hour": 3,
+                    "percentage": 2
+                },
+                {
+                    "hour": 4,
+                    "percentage": 3
+                },
+                {
+                    "hour": 5,
+                    "percentage": 7
+                },
+                {
+                    "hour": 6,
+                    "percentage": 11
+                },
+                {
+                    "hour": 7,
+                    "percentage": 14
+                },
+                {
+                    "hour": 8,
+                    "percentage": 13
+                },
+                {
+                    "hour": 9,
+                    "percentage": 12
+                },
+                {
+                    "hour": 10,
+                    "percentage": 11
+                },
+                {
+                    "hour": 11,
+                    "percentage": 10
+                },
+                {
+                    "hour": 12,
+                    "percentage": 10
+                },
+                {
+                    "hour": 13,
+                    "percentage": 11
+                },
+                {
+                    "hour": 14,
+                    "percentage": 12
+                },
+                {
+                    "hour": 15,
+                    "percentage": 15
+                },
+                {
+                    "hour": 16,
+                    "percentage": 19
+                },
+                {
+                    "hour": 17,
+                    "percentage": 23
+                },
+                {
+                    "hour": 18,
+                    "percentage": 28
+                },
+                {
+                    "hour": 19,
+                    "percentage": 33
+                },
+                {
+                    "hour": 20,
+                    "percentage": 36
+                },
+                {
+                    "hour": 21,
+                    "percentage": 35
+                },
+                {
+                    "hour": 22,
+                    "percentage": 29
+                },
+                {
+                    "hour": 23,
+                    "percentage": 20
+                }
+            ],
+            "Kamis": [
+                {
+                    "hour": 0,
+                    "percentage": 11
+                },
+                {
+                    "hour": 1,
+                    "percentage": 5
+                },
+                {
+                    "hour": 2,
+                    "percentage": 2
+                },
+                {
+                    "hour": 3,
+                    "percentage": 1
+                },
+                {
+                    "hour": 4,
+                    "percentage": 3
+                },
+                {
+                    "hour": 5,
+                    "percentage": 6
+                },
+                {
+                    "hour": 6,
+                    "percentage": 10
+                },
+                {
+                    "hour": 7,
+                    "percentage": 14
+                },
+                {
+                    "hour": 8,
+                    "percentage": 14
+                },
+                {
+                    "hour": 9,
+                    "percentage": 13
+                },
+                {
+                    "hour": 10,
+                    "percentage": 12
+                },
+                {
+                    "hour": 11,
+                    "percentage": 11
+                },
+                {
+                    "hour": 12,
+                    "percentage": 11
+                },
+                {
+                    "hour": 13,
+                    "percentage": 11
+                },
+                {
+                    "hour": 14,
+                    "percentage": 13
+                },
+                {
+                    "hour": 15,
+                    "percentage": 15
+                },
+                {
+                    "hour": 16,
+                    "percentage": 19
+                },
+                {
+                    "hour": 17,
+                    "percentage": 25
+                },
+                {
+                    "hour": 18,
+                    "percentage": 30
+                },
+                {
+                    "hour": 19,
+                    "percentage": 37
+                },
+                {
+                    "hour": 20,
+                    "percentage": 40
+                },
+                {
+                    "hour": 21,
+                    "percentage": 39
+                },
+                {
+                    "hour": 22,
+                    "percentage": 32
+                },
+                {
+                    "hour": 23,
+                    "percentage": 22
+                }
+            ],
+            "Jumat": [
+                {
+                    "hour": 0,
+                    "percentage": 10
+                },
+                {
+                    "hour": 1,
+                    "percentage": 5
+                },
+                {
+                    "hour": 2,
+                    "percentage": 2
+                },
+                {
+                    "hour": 3,
+                    "percentage": 2
+                },
+                {
+                    "hour": 4,
+                    "percentage": 3
+                },
+                {
+                    "hour": 5,
+                    "percentage": 7
+                },
+                {
+                    "hour": 6,
+                    "percentage": 11
+                },
+                {
+                    "hour": 7,
+                    "percentage": 14
+                },
+                {
+                    "hour": 8,
+                    "percentage": 14
+                },
+                {
+                    "hour": 9,
+                    "percentage": 12
+                },
+                {
+                    "hour": 10,
+                    "percentage": 11
+                },
+                {
+                    "hour": 11,
+                    "percentage": 10
+                },
+                {
+                    "hour": 12,
+                    "percentage": 10
+                },
+                {
+                    "hour": 13,
+                    "percentage": 11
+                },
+                {
+                    "hour": 14,
+                    "percentage": 12
+                },
+                {
+                    "hour": 15,
+                    "percentage": 16
+                },
+                {
+                    "hour": 16,
+                    "percentage": 21
+                },
+                {
+                    "hour": 17,
+                    "percentage": 26
+                },
+                {
+                    "hour": 18,
+                    "percentage": 30
+                },
+                {
+                    "hour": 19,
+                    "percentage": 33
+                },
+                {
+                    "hour": 20,
+                    "percentage": 35
+                },
+                {
+                    "hour": 21,
+                    "percentage": 33
+                },
+                {
+                    "hour": 22,
+                    "percentage": 27
+                },
+                {
+                    "hour": 23,
+                    "percentage": 19
+                }
+            ],
+            "Sabtu": [
+                {
+                    "hour": 0,
+                    "percentage": 14
+                },
+                {
+                    "hour": 1,
+                    "percentage": 6
+                },
+                {
+                    "hour": 2,
+                    "percentage": 3
+                },
+                {
+                    "hour": 3,
+                    "percentage": 2
+                },
+                {
+                    "hour": 4,
+                    "percentage": 4
+                },
+                {
+                    "hour": 5,
+                    "percentage": 8
+                },
+                {
+                    "hour": 6,
+                    "percentage": 13
+                },
+                {
+                    "hour": 7,
+                    "percentage": 16
+                },
+                {
+                    "hour": 8,
+                    "percentage": 17
+                },
+                {
+                    "hour": 10,
+                    "percentage": 15
+                },
+                {
+                    "hour": 11,
+                    "percentage": 16
+                },
+                {
+                    "hour": 12,
+                    "percentage": 15
+                },
+                {
+                    "hour": 13,
+                    "percentage": 13
+                },
+                {
+                    "hour": 14,
+                    "percentage": 12
+                },
+                {
+                    "hour": 15,
+                    "percentage": 13
+                },
+                {
+                    "hour": 16,
+                    "percentage": 16
+                },
+                {
+                    "hour": 17,
+                    "percentage": 21
+                },
+                {
+                    "hour": 18,
+                    "percentage": 27
+                },
+                {
+                    "hour": 19,
+                    "percentage": 36
+                },
+                {
+                    "hour": 20,
+                    "percentage": 42
+                },
+                {
+                    "hour": 21,
+                    "percentage": 43
+                },
+                {
+                    "hour": 22,
+                    "percentage": 36
+                },
+                {
+                    "hour": 23,
+                    "percentage": 26
+                }
+            ],
+            "Minggu": [
+                {
+                    "hour": 0,
+                    "percentage": 28
+                },
+                {
+                    "hour": 1,
+                    "percentage": 12
+                },
+                {
+                    "hour": 2,
+                    "percentage": 4
+                },
+                {
+                    "hour": 3,
+                    "percentage": 3
+                },
+                {
+                    "hour": 4,
+                    "percentage": 5
+                },
+                {
+                    "hour": 5,
+                    "percentage": 11
+                },
+                {
+                    "hour": 6,
+                    "percentage": 22
+                },
+                {
+                    "hour": 7,
+                    "percentage": 30
+                },
+                {
+                    "hour": 8,
+                    "percentage": 31
+                },
+                {
+                    "hour": 9,
+                    "percentage": 26
+                },
+                {
+                    "hour": 10,
+                    "percentage": 20
+                },
+                {
+                    "hour": 11,
+                    "percentage": 16
+                },
+                {
+                    "hour": 12,
+                    "percentage": 14
+                },
+                {
+                    "hour": 13,
+                    "percentage": 15
+                },
+                {
+                    "hour": 14,
+                    "percentage": 18
+                },
+                {
+                    "hour": 15,
+                    "percentage": 26
+                },
+                {
+                    "hour": 16,
+                    "percentage": 35
+                },
+                {
+                    "hour": 17,
+                    "percentage": 45
+                },
+                {
+                    "hour": 18,
+                    "percentage": 57
+                },
+                {
+                    "hour": 19,
+                    "percentage": 77
+                },
+                {
+                    "hour": 20,
+                    "percentage": 96
+                },
+                {
+                    "hour": 21,
+                    "percentage": 100
+                },
+                {
+                    "hour": 22,
+                    "percentage": 83
+                },
+                {
+                    "hour": 23,
+                    "percentage": 56
+                }
+            ]
+        },
+        "sentiment_score": 3,
+        "summary": "Alun-Alun Pamulang dinilai luas dan cocok untuk kegiatan ekstrakurikuler, namun membutuhkan peningkatan dalam hal papan larangan merokok yang jelas dan area anak yang bersih.",
+        "topics": [
+            "Luas",
+            "Pelayanan",
+            "Anak"
         ]
     }
 ]
