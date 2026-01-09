@@ -80,6 +80,9 @@ df['current_busy_level'] = df.apply(lambda x: get_live_busyness(x, curr_day, cur
 # ==========================================
 st.sidebar.header("🎛️ Kontrol Dashboard")
 
+# Pilihan Tampilan
+view_mode = st.sidebar.radio("Mode Tampilan:", ["🗺️ Peta Sebaran", "🔍 Detail Lokasi"])
+
 # Widget Informasi Waktu
 st.sidebar.markdown("### 🕒 Waktu Saat Ini")
 st.sidebar.info(f"{curr_day}, {curr_hour}:00 WIB")
@@ -87,15 +90,42 @@ st.sidebar.info(f"{curr_day}, {curr_hour}:00 WIB")
 st.sidebar.markdown("### 📅 Data Diupdate Per")
 st.sidebar.warning(f"{latest_scrape_time}")
 
-st.sidebar.divider()
-
-# Pilihan Tampilan
-view_mode = st.sidebar.radio("Mode Tampilan:", ["🗺️ Peta Sebaran", "🔍 Detail Lokasi"])
-
-# Jika mode detail, pilih lokasinya
+# Jika mode detail, ganti Selectbox dengan Dataframe Selector
 selected_loc_name = None
 if view_mode == "🔍 Detail Lokasi":
-    selected_loc_name = st.sidebar.selectbox("Pilih Lokasi:", df['name'].unique())
+    st.sidebar.markdown("### 📋 Pilih Lokasi")
+    
+    # 1. Siapkan data ringkas untuk tabel navigasi
+    # Kita buat copy agar tidak merusak df utama
+    nav_df = df[['name', 'sentiment_label', 'current_busy_level']].copy()
+    nav_df.columns = ['Lokasi', 'Sentimen', 'Ramai'] # Rename kolom biar rapi
+    
+    # 2. Tampilkan Tabel Interaktif dengan fitur Seleksi
+    event = st.sidebar.dataframe(
+        nav_df,
+        column_config={
+            "Ramai": st.column_config.ProgressColumn(
+                "Ramai", 
+                format="%d%%", 
+                min_value=0, 
+                max_value=100,
+            ),
+            "Sentimen": st.column_config.TextColumn("Sentimen"),
+        },
+        width="stretch",
+        hide_index=True,
+        on_select="rerun",      # <--- Ini kuncinya: Rerun saat diklik
+        selection_mode="single-row" # Hanya boleh pilih 1 baris
+    )
+
+    # 3. Logika Pengambilan Nama dari Baris yang Diklik
+    # event.selection.rows mengembalikan list index baris yang dipilih (contoh: [2])
+    if len(event.selection.rows) > 0:
+        selected_index = event.selection.rows[0]
+        selected_loc_name = df.iloc[selected_index]['name']
+    else:
+        # Default: Jika tidak ada yang diklik, pilih lokasi pertama otomatis
+        selected_loc_name = df.iloc[0]['name']
 
 # ==========================================
 # 5. LAYOUT UTAMA
@@ -255,7 +285,6 @@ else:
                     )
                     fig.update_traces(marker_color=colors)
                     fig.update_layout(xaxis=dict(tickmode='linear'), margin=dict(l=20, r=20, t=40, b=20))
-                    # FIX: width="stretch" menggantikan use_container_width=True
                     st.plotly_chart(fig, width="stretch")
                 else:
                     st.info(f"Tempat ini tutup/tidak ada data pada hari {selected_chart_day}.")
@@ -281,4 +310,3 @@ else:
             st.text("-")
 
 st.caption("Dashboard Monitoring v2.3 - Fixed Deprecation Warnings")
-
