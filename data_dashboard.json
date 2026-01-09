@@ -1,7 +1,7 @@
 [
     {
         "name": "Stasiun Sudimara",
-        "timestamp": "2026-01-09 09:03",
+        "timestamp": "2026-01-09 10:26",
         "latitude": "-6.2969768",
         "longitude": "106.7101947",
         "popular_times": {
@@ -533,8 +533,8 @@
                     "percentage": 42
                 },
                 {
-                    "hour": 10,
-                    "percentage": 25
+                    "hour": 9,
+                    "percentage": 32
                 },
                 {
                     "hour": 11,
@@ -689,18 +689,18 @@
             ]
         },
         "sentiment_score": 1,
-        "summary": "Ulasan umumnya negatif dengan sentimen dominan bersifat kecewa dan tidak puas terhadap pelayanan, meskipun ada beberapa aspek positif.",
+        "summary": "Ulasan umumnya negatif dengan sentimen dominan bersifat kecewa dan tidak puas terhadap pelayanan di Stasiun Sudimara.",
         "topics": [
             "Pelayanan",
             "Kebersihan",
-            "Antrian"
+            "Satpam"
         ]
     },
     {
         "name": "Stasiun Jurang Mangu",
-        "timestamp": "2026-01-09 09:03",
+        "timestamp": "2026-01-09 10:26",
         "latitude": "-6.2887899",
-        "longitude": "106.7291221",
+        "longitude": "106.7265472",
         "popular_times": {
             "Senin": [
                 {
@@ -1230,8 +1230,8 @@
                     "percentage": 53
                 },
                 {
-                    "hour": 10,
-                    "percentage": 30
+                    "hour": 9,
+                    "percentage": 41
                 },
                 {
                     "hour": 11,
@@ -1386,7 +1386,7 @@
             ]
         },
         "sentiment_score": 1,
-        "summary": "Ulasan mengandung sentimen negatif dengan topik utama seperti pelayanan petugas, kebocoran eskalator, dan ketidaknyamanan parkiran.",
+        "summary": "Ulasan mengandung sentimen negatif dominan dengan topik utama seperti pelayanan petugas, kebocoran eskalator, dan ketidaknyamanan parkiran.",
         "topics": [
             "Pelayanan Petugas",
             "Eskalator",
@@ -1395,7 +1395,7 @@
     },
     {
         "name": "Stasiun Rawa Buntu",
-        "timestamp": "2026-01-09 09:03",
+        "timestamp": "2026-01-09 10:26",
         "latitude": "-6.3149825",
         "longitude": "106.6736939",
         "popular_times": {
@@ -1927,8 +1927,8 @@
                     "percentage": 44
                 },
                 {
-                    "hour": 10,
-                    "percentage": 24
+                    "hour": 9,
+                    "percentage": 33
                 },
                 {
                     "hour": 11,
@@ -2083,16 +2083,16 @@
             ]
         },
         "sentiment_score": 1,
-        "summary": "Ulasan umumnya negatif dengan sentimen dominan, menyoroti masalah seperti fasilitas yang buruk dan keadaan jalan yang rusak di Stasiun Rawa Buntu.",
+        "summary": "Ulasan umumnya negatif dengan sentimen dominan, menyoroti masalah seperti fasilitas yang buruk, kebocoran toilet, dan jalanan rusak di Stasiun Rawa Buntu.",
         "topics": [
             "Fasilitas",
-            "Jalan",
-            "Kebersihan"
+            "Kebersihan",
+            "Jalanan"
         ]
     },
     {
         "name": "Terminal Pondok Cabe",
-        "timestamp": "2026-01-09 09:04",
+        "timestamp": "2026-01-09 10:26",
         "latitude": "-6.3583009",
         "longitude": "106.7545537",
         "popular_times": {
@@ -2624,8 +2624,8 @@
                     "percentage": 42
                 },
                 {
-                    "hour": 10,
-                    "percentage": 50
+                    "hour": 9,
+                    "percentage": 46
                 },
                 {
                     "hour": 11,
@@ -2780,60 +2780,60 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Ulasan umumnya positif dengan sentimen yang dominan, menyoroti luas dan keamanan terminal, pilihan menu, serta lokasi strategis.",
+        "summary": "Ulasan umumnya positif dengan sentimen yang dominan, menyoroti luas dan keamanan terminal Pondok Cabe serta pelayanan yang baik.",
         "topics": [
-            "Luas",
-            "Menu",
-            "Lokasi"
+            "Lokasi",
+            "Pelayanan",
+            "Menu"
         ]
     },
     {
         "name": "RSUD Tangerang Selatan",
-        "timestamp": "2026-01-09 09:04",
+        "timestamp": "2026-01-09 10:26",
         "latitude": "-6.3376386",
         "longitude": "106.7361018",
         "popular_times": {},
         "sentiment_score": 3,
-        "summary": "Ulasan umumnya positif dengan sentimen dominan, menyoroti pelayanan yang memuaskan dan perawat yang ramah, meskipun ada beberapa masalah seperti antrian panjang dan kurangnya kejelasan dalam memberikan instruksi medis.",
+        "summary": "Ulasan umumnya positif dengan sentimen dominan, menyoroti pelayanan yang memuaskan, kepedulian staff, dan perbaikan yang terus dilakukan oleh RSUD Tangerang Selatan.",
         "topics": [
             "Pelayanan",
-            "Perawat",
-            "Antrian"
+            "Staff",
+            "Perbaikan"
         ]
     },
     {
         "name": "Kantor Walikota",
-        "timestamp": "2026-01-09 09:04",
+        "timestamp": "2026-01-09 10:27",
         "latitude": "-6.3223832",
         "longitude": "106.7077614",
         "popular_times": {},
         "sentiment_score": 1,
-        "summary": "Ulasan mengandung sentimen dominan negatif tentang pelayanan dan lingkungan Kota Tangerang Selatan.",
+        "summary": "Ulasan dominan berisi komentar negatif tentang pelayanan dan lingkungan Kota Tangerang Selatan, termasuk masalah sampah, kebocoran, dan kurangnya perhatian dari pemerintah.",
         "topics": [
             "Pelayanan Publik",
             "Lingkungan",
-            "Kualitas Pemerintahan"
+            "Perubahan"
         ]
     },
     {
         "name": "Dukcapil",
-        "timestamp": "2026-01-09 09:04",
+        "timestamp": "2026-01-09 10:27",
         "latitude": "-6.3278173",
-        "longitude": "106.6737166",
+        "longitude": "106.6711417",
         "popular_times": {},
         "sentiment_score": 1,
-        "summary": "Ulasan umumnya negatif dengan sentimen dominan, mengkritik pelayanan yang lambat dan kurang ramah.",
+        "summary": "Ulasan umumnya negatif dengan sentimen dominan, mengkritik keterbatasan layanan dan pelayanan Dukcapil.",
         "topics": [
+            "Keterbatasan Kuota",
             "Pelayanan",
-            "Antrian",
-            "Keterbatasan Kuota"
+            "Antrian"
         ]
     },
     {
         "name": "Bintaro Xchange",
-        "timestamp": "2026-01-09 09:05",
+        "timestamp": "2026-01-09 10:27",
         "latitude": "-6.2854481",
-        "longitude": "106.7285448",
+        "longitude": "106.7259699",
         "popular_times": {
             "Senin": [
                 {
@@ -3223,10 +3223,6 @@
                     "percentage": 0
                 },
                 {
-                    "hour": 10,
-                    "percentage": 16
-                },
-                {
                     "hour": 11,
                     "percentage": 23
                 },
@@ -3355,16 +3351,16 @@
             ]
         },
         "sentiment_score": 1,
-        "summary": "Ulasan ini dominantly negatif dengan sentimen yang cenderung mengecewakan, mencakup pengalaman buruk di tempat makan dan toko UBS Gold, serta masalah kebersihan dan antrian panjang.",
+        "summary": "Ulasan ini dominantly negatif dengan sentimen yang cenderung mengecewakan, mencakup pengalaman buruk dalam pelayanan dan lingkungan yang tidak nyaman.",
         "topics": [
             "Pelayanan",
-            "Kebersihan",
-            "Antrian"
+            "Interior Resto",
+            "Lokasi"
         ]
     },
     {
         "name": "Living World",
-        "timestamp": "2026-01-09 09:05",
+        "timestamp": "2026-01-09 10:27",
         "latitude": "-6.2443767",
         "longitude": "106.653103",
         "popular_times": {
@@ -3756,10 +3752,6 @@
                     "percentage": 0
                 },
                 {
-                    "hour": 10,
-                    "percentage": 17
-                },
-                {
                     "hour": 11,
                     "percentage": 26
                 },
@@ -3888,7 +3880,7 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Ulasan umumnya positif, menyoroti mall yang luas dan nyaman, pelayanan ramah, banyak promo, serta variasi barang di Informa Living World Alam Sutera.",
+        "summary": "Ulasan umumnya positif, menyoroti kelebihan seperti mall yang luas dan nyaman, pelayanan ramah, banyak promo, serta banyak pilihan barang di Informa Living World Alam Sutera.",
         "topics": [
             "Mall",
             "Pelayanan",
@@ -3897,7 +3889,7 @@
     },
     {
         "name": "Teras Kota",
-        "timestamp": "2026-01-09 09:05",
+        "timestamp": "2026-01-09 10:28",
         "latitude": "-6.2955633",
         "longitude": "106.6674867",
         "popular_times": {
@@ -4289,10 +4281,6 @@
                     "percentage": 0
                 },
                 {
-                    "hour": 10,
-                    "percentage": 50
-                },
-                {
                     "hour": 11,
                     "percentage": 69
                 },
@@ -4421,16 +4409,16 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Teras Kota BSD dikenal sebagai mall yang nyaman dan ramah pengunjung, dengan fasilitas tempat duduk yang cukup banyak. Namun, masalah antrian panjang di beberapa restoran menjadi kendala utama.",
+        "summary": "Mall Teraskota BSD dinilai nyaman dan strategis, dengan pilihan makanan yang beragam. Namun, ada beberapa masalah seperti antrian panjang di loket pembayaran dan pengepungan di area ojol.",
         "topics": [
             "Antrian",
-            "Restoran",
-            "Fasilitas Tempat Duduk"
+            "Loket",
+            "Kebersihan"
         ]
     },
     {
         "name": "Taman Kota BSD",
-        "timestamp": "2026-01-09 09:05",
+        "timestamp": "2026-01-09 10:28",
         "latitude": "-6.2880094",
         "longitude": "106.6759069",
         "popular_times": {
@@ -4818,7 +4806,7 @@
                     "percentage": 30
                 },
                 {
-                    "hour": 10,
+                    "hour": 9,
                     "percentage": 32
                 },
                 {
@@ -4959,9 +4947,9 @@
     },
     {
         "name": "Taman Kota BSD 2",
-        "timestamp": "2026-01-09 09:05",
+        "timestamp": "2026-01-09 10:28",
         "latitude": "-6.3292468",
-        "longitude": "106.6833105",
+        "longitude": "106.6807356",
         "popular_times": {
             "Senin": [
                 {
@@ -5491,8 +5479,8 @@
                     "percentage": 25
                 },
                 {
-                    "hour": 10,
-                    "percentage": 33
+                    "hour": 9,
+                    "percentage": 30
                 },
                 {
                     "hour": 11,
@@ -5647,7 +5635,7 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Ulasan mengenai Taman Kota BSD 2 cenderung positif dengan sentimen yang terasa santai dan nyaman, meskipun ada beberapa masalah seperti kurangnya perawatan dan ramainya tempat pada waktu tertentu.",
+        "summary": "Ulasan mengenai Taman Kota BSD 2 cenderung positif dengan sentimen yang terasa santai dan nyaman, meskipun ada beberapa masalah seperti kurangnya perawatan dan kebersihan.",
         "topics": [
             "Taman",
             "Pengunjung",
@@ -5656,9 +5644,9 @@
     },
     {
         "name": "Taman Kota BSD 3",
-        "timestamp": "2026-01-09 09:06",
+        "timestamp": "2026-01-09 10:28",
         "latitude": "-6.3058201",
-        "longitude": "106.647261",
+        "longitude": "106.6498359",
         "popular_times": {
             "Senin": [
                 {
@@ -6188,8 +6176,8 @@
                     "percentage": 42
                 },
                 {
-                    "hour": 10,
-                    "percentage": 55
+                    "hour": 9,
+                    "percentage": 50
                 },
                 {
                     "hour": 11,
@@ -6344,16 +6332,16 @@
             ]
         },
         "sentiment_score": 1,
-        "summary": "Ulasan umumnya negatif dengan sentimen dominan, menyoroti kurang terawatnya taman dan kekurangan fasilitas.",
+        "summary": "Ulasan umumnya negatif dengan sentimen dominan, menyoroti kurang terawatnya taman dan banyaknya sampah, meskipun beberapa poin positif seperti suasana yang sepi dan nyaman.",
         "topics": [
             "Kondisi Taman",
             "Fasilitas",
-            "Pemeliharaan"
+            "Kebersihan"
         ]
     },
     {
         "name": "Pasar Modern BSD",
-        "timestamp": "2026-01-09 09:06",
+        "timestamp": "2026-01-09 10:28",
         "latitude": "-6.3045281",
         "longitude": "106.6848223",
         "popular_times": {
@@ -6741,7 +6729,7 @@
                     "percentage": 67
                 },
                 {
-                    "hour": 10,
+                    "hour": 9,
                     "percentage": 72
                 },
                 {
@@ -6873,16 +6861,16 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Pasar Modern BSD dinilai positif dengan suasana yang rapi dan bersih, pilihan makanan yang lengkap, serta layanan yang memadai. Namun ada beberapa kekurangan seperti harga yang mahal.",
+        "summary": "Pasar Modern BSD dinilai positif dengan suasana yang rapi dan bersih, menyajikan aneka makanan dan minuman berkualitas. Namun ada beberapa kekurangan seperti harga yang mahal.",
         "topics": [
             "Suasana",
-            "Layanan",
+            "Produk",
             "Harga"
         ]
     },
     {
         "name": "Alun-Alun Pamulang",
-        "timestamp": "2026-01-09 09:06",
+        "timestamp": "2026-01-09 10:29",
         "latitude": "-6.3443974",
         "longitude": "106.7349785",
         "popular_times": {
@@ -7414,8 +7402,8 @@
                     "percentage": 17
                 },
                 {
-                    "hour": 10,
-                    "percentage": 15
+                    "hour": 9,
+                    "percentage": 16
                 },
                 {
                     "hour": 11,
@@ -7570,11 +7558,11 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Alun-Alun Pamulang dinilai luas dan cocok untuk kegiatan ekstrakurikuler, namun membutuhkan peningkatan dalam hal papan larangan merokok yang jelas dan area anak yang bersih.",
+        "summary": "Alun-Alun Pamulang dinilai luas dan cocok untuk latihan ekstrakurikuler, memiliki banyak pilihan jajanan dan tempat nongkrong. Namun, masih ada beberapa masalah seperti kurangnya papan larangan merokok yang jelas dan area bermain anak yang membutuhkan perbaikan.",
         "topics": [
             "Luas",
-            "Pelayanan",
-            "Anak"
+            "Pilihan Jajanan",
+            "Area Bermain Anak"
         ]
     }
 ]
