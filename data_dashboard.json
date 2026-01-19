@@ -1,7 +1,7 @@
 [
     {
         "name": "Stasiun Sudimara",
-        "timestamp": "2026-01-09 10:26",
+        "timestamp": "2026-01-19 08:29",
         "latitude": "-6.2969768",
         "longitude": "106.7101947",
         "popular_times": {
@@ -32,7 +32,7 @@
                 },
                 {
                     "hour": 6,
-                    "percentage": 16
+                    "percentage": 15
                 },
                 {
                     "hour": 7,
@@ -44,7 +44,7 @@
                 },
                 {
                     "hour": 9,
-                    "percentage": 24
+                    "percentage": 25
                 },
                 {
                     "hour": 10,
@@ -64,7 +64,7 @@
                 },
                 {
                     "hour": 14,
-                    "percentage": 26
+                    "percentage": 27
                 },
                 {
                     "hour": 15,
@@ -96,17 +96,17 @@
                 },
                 {
                     "hour": 22,
-                    "percentage": 26
+                    "percentage": 27
                 },
                 {
                     "hour": 23,
-                    "percentage": 18
+                    "percentage": 19
                 }
             ],
             "Selasa": [
                 {
                     "hour": 0,
-                    "percentage": 10
+                    "percentage": 11
                 },
                 {
                     "hour": 1,
@@ -137,12 +137,8 @@
                     "percentage": 55
                 },
                 {
-                    "hour": 8,
-                    "percentage": 46
-                },
-                {
                     "hour": 9,
-                    "percentage": 34
+                    "percentage": 35
                 },
                 {
                     "hour": 10,
@@ -154,7 +150,7 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 20
+                    "percentage": 21
                 },
                 {
                     "hour": 13,
@@ -170,11 +166,11 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 58
+                    "percentage": 57
                 },
                 {
                     "hour": 17,
-                    "percentage": 87
+                    "percentage": 86
                 },
                 {
                     "hour": 18,
@@ -198,7 +194,7 @@
                 },
                 {
                     "hour": 23,
-                    "percentage": 22
+                    "percentage": 23
                 }
             ],
             "Rabu": [
@@ -224,11 +220,11 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 32
+                    "percentage": 31
                 },
                 {
                     "hour": 6,
-                    "percentage": 51
+                    "percentage": 50
                 },
                 {
                     "hour": 7,
@@ -244,7 +240,7 @@
                 },
                 {
                     "hour": 10,
-                    "percentage": 25
+                    "percentage": 26
                 },
                 {
                     "hour": 11,
@@ -252,15 +248,15 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 19
+                    "percentage": 20
                 },
                 {
                     "hour": 13,
-                    "percentage": 19
+                    "percentage": 20
                 },
                 {
                     "hour": 14,
-                    "percentage": 22
+                    "percentage": 23
                 },
                 {
                     "hour": 15,
@@ -276,11 +272,11 @@
                 },
                 {
                     "hour": 18,
-                    "percentage": 95
+                    "percentage": 96
                 },
                 {
                     "hour": 19,
-                    "percentage": 91
+                    "percentage": 92
                 },
                 {
                     "hour": 20,
@@ -302,7 +298,7 @@
             "Kamis": [
                 {
                     "hour": 0,
-                    "percentage": 11
+                    "percentage": 12
                 },
                 {
                     "hour": 1,
@@ -322,15 +318,15 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 30
+                    "percentage": 29
                 },
                 {
                     "hour": 6,
-                    "percentage": 48
+                    "percentage": 47
                 },
                 {
                     "hour": 7,
-                    "percentage": 53
+                    "percentage": 52
                 },
                 {
                     "hour": 8,
@@ -350,27 +346,27 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 20
+                    "percentage": 21
                 },
                 {
                     "hour": 13,
-                    "percentage": 20
+                    "percentage": 21
                 },
                 {
                     "hour": 14,
-                    "percentage": 24
+                    "percentage": 25
                 },
                 {
                     "hour": 15,
-                    "percentage": 35
+                    "percentage": 36
                 },
                 {
                     "hour": 16,
-                    "percentage": 55
+                    "percentage": 56
                 },
                 {
                     "hour": 17,
-                    "percentage": 80
+                    "percentage": 81
                 },
                 {
                     "hour": 18,
@@ -378,7 +374,7 @@
                 },
                 {
                     "hour": 19,
-                    "percentage": 89
+                    "percentage": 88
                 },
                 {
                     "hour": 20,
@@ -416,27 +412,27 @@
                 },
                 {
                     "hour": 4,
-                    "percentage": 13
+                    "percentage": 12
                 },
                 {
                     "hour": 5,
-                    "percentage": 28
+                    "percentage": 26
                 },
                 {
                     "hour": 6,
-                    "percentage": 45
+                    "percentage": 40
                 },
                 {
                     "hour": 7,
-                    "percentage": 50
+                    "percentage": 45
                 },
                 {
                     "hour": 8,
-                    "percentage": 44
+                    "percentage": 40
                 },
                 {
                     "hour": 9,
-                    "percentage": 33
+                    "percentage": 32
                 },
                 {
                     "hour": 10,
@@ -444,51 +440,51 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 22
-                },
-                {
-                    "hour": 12,
-                    "percentage": 20
-                },
-                {
-                    "hour": 13,
-                    "percentage": 20
-                },
-                {
-                    "hour": 14,
                     "percentage": 23
                 },
                 {
+                    "hour": 12,
+                    "percentage": 22
+                },
+                {
+                    "hour": 13,
+                    "percentage": 21
+                },
+                {
+                    "hour": 14,
+                    "percentage": 24
+                },
+                {
                     "hour": 15,
-                    "percentage": 35
+                    "percentage": 34
                 },
                 {
                     "hour": 16,
-                    "percentage": 57
-                },
-                {
-                    "hour": 17,
-                    "percentage": 84
-                },
-                {
-                    "hour": 18,
-                    "percentage": 94
-                },
-                {
-                    "hour": 19,
-                    "percentage": 90
-                },
-                {
-                    "hour": 20,
-                    "percentage": 72
-                },
-                {
-                    "hour": 21,
                     "percentage": 54
                 },
                 {
+                    "hour": 17,
+                    "percentage": 77
+                },
+                {
+                    "hour": 18,
+                    "percentage": 86
+                },
+                {
+                    "hour": 19,
+                    "percentage": 82
+                },
+                {
+                    "hour": 20,
+                    "percentage": 67
+                },
+                {
+                    "hour": 21,
+                    "percentage": 51
+                },
+                {
                     "hour": 22,
-                    "percentage": 37
+                    "percentage": 35
                 },
                 {
                     "hour": 23,
@@ -514,27 +510,31 @@
                 },
                 {
                     "hour": 4,
-                    "percentage": 13
+                    "percentage": 12
                 },
                 {
                     "hour": 5,
-                    "percentage": 27
+                    "percentage": 26
                 },
                 {
                     "hour": 6,
-                    "percentage": 42
+                    "percentage": 40
                 },
                 {
                     "hour": 7,
-                    "percentage": 48
+                    "percentage": 46
                 },
                 {
                     "hour": 8,
-                    "percentage": 42
+                    "percentage": 40
                 },
                 {
                     "hour": 9,
                     "percentage": 32
+                },
+                {
+                    "hour": 10,
+                    "percentage": 25
                 },
                 {
                     "hour": 11,
@@ -546,53 +546,53 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 21
+                    "percentage": 22
                 },
                 {
                     "hour": 14,
-                    "percentage": 24
+                    "percentage": 25
                 },
                 {
                     "hour": 15,
-                    "percentage": 35
+                    "percentage": 34
                 },
                 {
                     "hour": 16,
-                    "percentage": 53
+                    "percentage": 51
                 },
                 {
                     "hour": 17,
-                    "percentage": 77
+                    "percentage": 74
                 },
                 {
                     "hour": 18,
-                    "percentage": 89
+                    "percentage": 85
                 },
                 {
                     "hour": 19,
-                    "percentage": 87
+                    "percentage": 84
                 },
                 {
                     "hour": 20,
-                    "percentage": 75
+                    "percentage": 72
                 },
                 {
                     "hour": 21,
-                    "percentage": 59
+                    "percentage": 57
                 },
                 {
                     "hour": 22,
-                    "percentage": 43
+                    "percentage": 42
                 },
                 {
                     "hour": 23,
-                    "percentage": 28
+                    "percentage": 27
                 }
             ],
             "Minggu": [
                 {
                     "hour": 0,
-                    "percentage": 11
+                    "percentage": 12
                 },
                 {
                     "hour": 1,
@@ -616,15 +616,15 @@
                 },
                 {
                     "hour": 6,
-                    "percentage": 23
+                    "percentage": 22
                 },
                 {
                     "hour": 7,
-                    "percentage": 30
+                    "percentage": 29
                 },
                 {
                     "hour": 8,
-                    "percentage": 31
+                    "percentage": 30
                 },
                 {
                     "hour": 9,
@@ -648,7 +648,7 @@
                 },
                 {
                     "hour": 14,
-                    "percentage": 31
+                    "percentage": 32
                 },
                 {
                     "hour": 15,
@@ -684,23 +684,19 @@
                 },
                 {
                     "hour": 23,
-                    "percentage": 22
+                    "percentage": 23
                 }
             ]
         },
         "sentiment_score": 1,
-        "summary": "Ulasan umumnya negatif dengan sentimen dominan bersifat kecewa dan tidak puas terhadap pelayanan di Stasiun Sudimara.",
-        "topics": [
-            "Pelayanan",
-            "Kebersihan",
-            "Satpam"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Stasiun Jurang Mangu",
-        "timestamp": "2026-01-09 10:26",
+        "timestamp": "2026-01-19 08:29",
         "latitude": "-6.2887899",
-        "longitude": "106.7265472",
+        "longitude": "106.7291221",
         "popular_times": {
             "Senin": [
                 {
@@ -725,15 +721,15 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 8
+                    "percentage": 7
                 },
                 {
                     "hour": 6,
-                    "percentage": 13
+                    "percentage": 12
                 },
                 {
                     "hour": 7,
-                    "percentage": 18
+                    "percentage": 17
                 },
                 {
                     "hour": 8,
@@ -741,7 +737,7 @@
                 },
                 {
                     "hour": 9,
-                    "percentage": 25
+                    "percentage": 24
                 },
                 {
                     "hour": 10,
@@ -765,7 +761,7 @@
                 },
                 {
                     "hour": 15,
-                    "percentage": 33
+                    "percentage": 34
                 },
                 {
                     "hour": 16,
@@ -773,11 +769,11 @@
                 },
                 {
                     "hour": 17,
-                    "percentage": 41
+                    "percentage": 42
                 },
                 {
                     "hour": 18,
-                    "percentage": 42
+                    "percentage": 43
                 },
                 {
                     "hour": 19,
@@ -789,11 +785,11 @@
                 },
                 {
                     "hour": 21,
-                    "percentage": 36
+                    "percentage": 37
                 },
                 {
                     "hour": 22,
-                    "percentage": 29
+                    "percentage": 30
                 },
                 {
                     "hour": 23,
@@ -827,15 +823,11 @@
                 },
                 {
                     "hour": 6,
-                    "percentage": 53
+                    "percentage": 52
                 },
                 {
                     "hour": 7,
                     "percentage": 63
-                },
-                {
-                    "hour": 8,
-                    "percentage": 58
                 },
                 {
                     "hour": 9,
@@ -847,19 +839,19 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 23
+                    "percentage": 24
                 },
                 {
                     "hour": 12,
-                    "percentage": 21
+                    "percentage": 22
                 },
                 {
                     "hour": 13,
-                    "percentage": 21
+                    "percentage": 22
                 },
                 {
                     "hour": 14,
-                    "percentage": 24
+                    "percentage": 25
                 },
                 {
                     "hour": 15,
@@ -875,11 +867,11 @@
                 },
                 {
                     "hour": 18,
-                    "percentage": 100
+                    "percentage": 99
                 },
                 {
                     "hour": 19,
-                    "percentage": 94
+                    "percentage": 93
                 },
                 {
                     "hour": 20,
@@ -891,7 +883,7 @@
                 },
                 {
                     "hour": 22,
-                    "percentage": 35
+                    "percentage": 36
                 },
                 {
                     "hour": 23,
@@ -921,27 +913,27 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 30
+                    "percentage": 29
                 },
                 {
                     "hour": 6,
-                    "percentage": 52
+                    "percentage": 51
                 },
                 {
                     "hour": 7,
-                    "percentage": 64
+                    "percentage": 62
                 },
                 {
                     "hour": 8,
-                    "percentage": 59
+                    "percentage": 58
                 },
                 {
                     "hour": 9,
-                    "percentage": 44
+                    "percentage": 43
                 },
                 {
                     "hour": 10,
-                    "percentage": 30
+                    "percentage": 31
                 },
                 {
                     "hour": 11,
@@ -957,7 +949,7 @@
                 },
                 {
                     "hour": 14,
-                    "percentage": 24
+                    "percentage": 25
                 },
                 {
                     "hour": 15,
@@ -969,11 +961,11 @@
                 },
                 {
                     "hour": 17,
-                    "percentage": 85
+                    "percentage": 86
                 },
                 {
                     "hour": 18,
-                    "percentage": 99
+                    "percentage": 100
                 },
                 {
                     "hour": 19,
@@ -985,7 +977,7 @@
                 },
                 {
                     "hour": 21,
-                    "percentage": 55
+                    "percentage": 54
                 },
                 {
                     "hour": 22,
@@ -999,7 +991,7 @@
             "Kamis": [
                 {
                     "hour": 0,
-                    "percentage": 10
+                    "percentage": 11
                 },
                 {
                     "hour": 1,
@@ -1019,19 +1011,19 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 29
+                    "percentage": 28
                 },
                 {
                     "hour": 6,
-                    "percentage": 50
+                    "percentage": 49
                 },
                 {
                     "hour": 7,
-                    "percentage": 61
+                    "percentage": 60
                 },
                 {
                     "hour": 8,
-                    "percentage": 58
+                    "percentage": 57
                 },
                 {
                     "hour": 9,
@@ -1051,15 +1043,15 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 23
+                    "percentage": 24
                 },
                 {
                     "hour": 14,
-                    "percentage": 25
+                    "percentage": 27
                 },
                 {
                     "hour": 15,
-                    "percentage": 36
+                    "percentage": 37
                 },
                 {
                     "hour": 16,
@@ -1071,11 +1063,11 @@
                 },
                 {
                     "hour": 18,
-                    "percentage": 95
+                    "percentage": 94
                 },
                 {
                     "hour": 19,
-                    "percentage": 91
+                    "percentage": 89
                 },
                 {
                     "hour": 20,
@@ -1087,11 +1079,11 @@
                 },
                 {
                     "hour": 22,
-                    "percentage": 37
+                    "percentage": 38
                 },
                 {
                     "hour": 23,
-                    "percentage": 22
+                    "percentage": 23
                 }
             ],
             "Jumat": [
@@ -1109,31 +1101,31 @@
                 },
                 {
                     "hour": 3,
-                    "percentage": 4
+                    "percentage": 3
                 },
                 {
                     "hour": 4,
-                    "percentage": 12
+                    "percentage": 11
                 },
                 {
                     "hour": 5,
-                    "percentage": 29
+                    "percentage": 26
                 },
                 {
                     "hour": 6,
-                    "percentage": 50
+                    "percentage": 44
                 },
                 {
                     "hour": 7,
-                    "percentage": 60
+                    "percentage": 54
                 },
                 {
                     "hour": 8,
-                    "percentage": 57
+                    "percentage": 52
                 },
                 {
                     "hour": 9,
-                    "percentage": 43
+                    "percentage": 41
                 },
                 {
                     "hour": 10,
@@ -1141,19 +1133,19 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 25
+                    "percentage": 26
                 },
                 {
                     "hour": 12,
-                    "percentage": 22
+                    "percentage": 24
                 },
                 {
                     "hour": 13,
-                    "percentage": 22
+                    "percentage": 24
                 },
                 {
                     "hour": 14,
-                    "percentage": 25
+                    "percentage": 26
                 },
                 {
                     "hour": 15,
@@ -1161,35 +1153,35 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 54
+                    "percentage": 52
                 },
                 {
                     "hour": 17,
-                    "percentage": 81
+                    "percentage": 75
                 },
                 {
                     "hour": 18,
-                    "percentage": 94
+                    "percentage": 86
                 },
                 {
                     "hour": 19,
-                    "percentage": 89
+                    "percentage": 82
                 },
                 {
                     "hour": 20,
-                    "percentage": 73
+                    "percentage": 68
                 },
                 {
                     "hour": 21,
-                    "percentage": 55
+                    "percentage": 52
                 },
                 {
                     "hour": 22,
-                    "percentage": 38
+                    "percentage": 37
                 },
                 {
                     "hour": 23,
-                    "percentage": 23
+                    "percentage": 22
                 }
             ],
             "Sabtu": [
@@ -1211,27 +1203,31 @@
                 },
                 {
                     "hour": 4,
-                    "percentage": 11
+                    "percentage": 10
                 },
                 {
                     "hour": 5,
-                    "percentage": 26
+                    "percentage": 25
                 },
                 {
                     "hour": 6,
-                    "percentage": 46
+                    "percentage": 43
                 },
                 {
                     "hour": 7,
-                    "percentage": 56
-                },
-                {
-                    "hour": 8,
                     "percentage": 53
                 },
                 {
+                    "hour": 8,
+                    "percentage": 51
+                },
+                {
                     "hour": 9,
-                    "percentage": 41
+                    "percentage": 40
+                },
+                {
+                    "hour": 10,
+                    "percentage": 30
                 },
                 {
                     "hour": 11,
@@ -1239,11 +1235,11 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 23
+                    "percentage": 24
                 },
                 {
                     "hour": 13,
-                    "percentage": 24
+                    "percentage": 25
                 },
                 {
                     "hour": 14,
@@ -1255,31 +1251,31 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 53
+                    "percentage": 52
                 },
                 {
                     "hour": 17,
-                    "percentage": 77
+                    "percentage": 74
                 },
                 {
                     "hour": 18,
-                    "percentage": 89
+                    "percentage": 86
                 },
                 {
                     "hour": 19,
-                    "percentage": 88
+                    "percentage": 84
                 },
                 {
                     "hour": 20,
-                    "percentage": 76
+                    "percentage": 73
                 },
                 {
                     "hour": 21,
-                    "percentage": 60
+                    "percentage": 59
                 },
                 {
                     "hour": 22,
-                    "percentage": 44
+                    "percentage": 43
                 },
                 {
                     "hour": 23,
@@ -1313,15 +1309,15 @@
                 },
                 {
                     "hour": 6,
-                    "percentage": 19
+                    "percentage": 18
                 },
                 {
                     "hour": 7,
-                    "percentage": 26
+                    "percentage": 25
                 },
                 {
                     "hour": 8,
-                    "percentage": 29
+                    "percentage": 28
                 },
                 {
                     "hour": 9,
@@ -1357,15 +1353,15 @@
                 },
                 {
                     "hour": 17,
-                    "percentage": 50
+                    "percentage": 49
                 },
                 {
                     "hour": 18,
-                    "percentage": 51
+                    "percentage": 50
                 },
                 {
                     "hour": 19,
-                    "percentage": 49
+                    "percentage": 48
                 },
                 {
                     "hour": 20,
@@ -1385,19 +1381,15 @@
                 }
             ]
         },
-        "sentiment_score": 1,
-        "summary": "Ulasan mengandung sentimen negatif dominan dengan topik utama seperti pelayanan petugas, kebocoran eskalator, dan ketidaknyamanan parkiran.",
-        "topics": [
-            "Pelayanan Petugas",
-            "Eskalator",
-            "Parkir"
-        ]
+        "sentiment_score": 3,
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Stasiun Rawa Buntu",
-        "timestamp": "2026-01-09 10:26",
+        "timestamp": "2026-01-19 08:29",
         "latitude": "-6.3149825",
-        "longitude": "106.6736939",
+        "longitude": "106.6762688",
         "popular_times": {
             "Senin": [
                 {
@@ -1446,7 +1438,7 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 20
+                    "percentage": 21
                 },
                 {
                     "hour": 12,
@@ -1531,16 +1523,12 @@
                     "percentage": 56
                 },
                 {
-                    "hour": 8,
-                    "percentage": 50
-                },
-                {
                     "hour": 9,
                     "percentage": 37
                 },
                 {
                     "hour": 10,
-                    "percentage": 25
+                    "percentage": 26
                 },
                 {
                     "hour": 11,
@@ -1548,7 +1536,7 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 18
+                    "percentage": 19
                 },
                 {
                     "hour": 13,
@@ -1560,7 +1548,7 @@
                 },
                 {
                     "hour": 15,
-                    "percentage": 30
+                    "percentage": 31
                 },
                 {
                     "hour": 16,
@@ -1576,11 +1564,11 @@
                 },
                 {
                     "hour": 19,
-                    "percentage": 99
+                    "percentage": 98
                 },
                 {
                     "hour": 20,
-                    "percentage": 81
+                    "percentage": 80
                 },
                 {
                     "hour": 21,
@@ -1622,7 +1610,7 @@
                 },
                 {
                     "hour": 6,
-                    "percentage": 47
+                    "percentage": 46
                 },
                 {
                     "hour": 7,
@@ -1634,11 +1622,11 @@
                 },
                 {
                     "hour": 9,
-                    "percentage": 36
+                    "percentage": 37
                 },
                 {
                     "hour": 10,
-                    "percentage": 25
+                    "percentage": 26
                 },
                 {
                     "hour": 11,
@@ -1670,7 +1658,7 @@
                 },
                 {
                     "hour": 18,
-                    "percentage": 99
+                    "percentage": 98
                 },
                 {
                     "hour": 19,
@@ -1704,7 +1692,7 @@
                 },
                 {
                     "hour": 2,
-                    "percentage": 2
+                    "percentage": 3
                 },
                 {
                     "hour": 3,
@@ -1716,19 +1704,19 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 26
+                    "percentage": 25
                 },
                 {
                     "hour": 6,
-                    "percentage": 44
+                    "percentage": 43
                 },
                 {
                     "hour": 7,
-                    "percentage": 53
+                    "percentage": 52
                 },
                 {
                     "hour": 8,
-                    "percentage": 48
+                    "percentage": 47
                 },
                 {
                     "hour": 9,
@@ -1744,27 +1732,27 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 18
-                },
-                {
-                    "hour": 13,
                     "percentage": 19
                 },
                 {
+                    "hour": 13,
+                    "percentage": 20
+                },
+                {
                     "hour": 14,
-                    "percentage": 22
+                    "percentage": 23
                 },
                 {
                     "hour": 15,
-                    "percentage": 32
+                    "percentage": 33
                 },
                 {
                     "hour": 16,
-                    "percentage": 51
+                    "percentage": 52
                 },
                 {
                     "hour": 17,
-                    "percentage": 78
+                    "percentage": 79
                 },
                 {
                     "hour": 18,
@@ -1772,11 +1760,11 @@
                 },
                 {
                     "hour": 19,
-                    "percentage": 95
+                    "percentage": 94
                 },
                 {
                     "hour": 20,
-                    "percentage": 80
+                    "percentage": 79
                 },
                 {
                     "hour": 21,
@@ -1810,27 +1798,27 @@
                 },
                 {
                     "hour": 4,
-                    "percentage": 11
+                    "percentage": 10
                 },
                 {
                     "hour": 5,
-                    "percentage": 26
+                    "percentage": 23
                 },
                 {
                     "hour": 6,
-                    "percentage": 44
+                    "percentage": 39
                 },
                 {
                     "hour": 7,
-                    "percentage": 53
-                },
-                {
-                    "hour": 8,
                     "percentage": 48
                 },
                 {
+                    "hour": 8,
+                    "percentage": 44
+                },
+                {
                     "hour": 9,
-                    "percentage": 36
+                    "percentage": 34
                 },
                 {
                     "hour": 10,
@@ -1842,11 +1830,11 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 18
+                    "percentage": 19
                 },
                 {
                     "hour": 13,
-                    "percentage": 18
+                    "percentage": 19
                 },
                 {
                     "hour": 14,
@@ -1858,35 +1846,35 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 50
+                    "percentage": 47
                 },
                 {
                     "hour": 17,
-                    "percentage": 78
+                    "percentage": 71
                 },
                 {
                     "hour": 18,
-                    "percentage": 95
+                    "percentage": 87
                 },
                 {
                     "hour": 19,
-                    "percentage": 94
+                    "percentage": 86
                 },
                 {
                     "hour": 20,
-                    "percentage": 79
+                    "percentage": 73
                 },
                 {
                     "hour": 21,
-                    "percentage": 59
+                    "percentage": 55
                 },
                 {
                     "hour": 22,
-                    "percentage": 41
+                    "percentage": 39
                 },
                 {
                     "hour": 23,
-                    "percentage": 25
+                    "percentage": 24
                 }
             ],
             "Sabtu": [
@@ -1908,27 +1896,31 @@
                 },
                 {
                     "hour": 4,
-                    "percentage": 11
+                    "percentage": 10
                 },
                 {
                     "hour": 5,
-                    "percentage": 24
+                    "percentage": 23
                 },
                 {
                     "hour": 6,
-                    "percentage": 40
+                    "percentage": 38
                 },
                 {
                     "hour": 7,
-                    "percentage": 48
+                    "percentage": 46
                 },
                 {
                     "hour": 8,
-                    "percentage": 44
+                    "percentage": 42
                 },
                 {
                     "hour": 9,
-                    "percentage": 33
+                    "percentage": 32
+                },
+                {
+                    "hour": 10,
+                    "percentage": 24
                 },
                 {
                     "hour": 11,
@@ -1940,7 +1932,7 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 19
+                    "percentage": 20
                 },
                 {
                     "hour": 14,
@@ -1952,41 +1944,41 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 50
+                    "percentage": 49
                 },
                 {
                     "hour": 17,
-                    "percentage": 76
+                    "percentage": 73
                 },
                 {
                     "hour": 18,
-                    "percentage": 94
+                    "percentage": 90
                 },
                 {
                     "hour": 19,
-                    "percentage": 94
+                    "percentage": 90
                 },
                 {
                     "hour": 20,
-                    "percentage": 82
+                    "percentage": 78
                 },
                 {
                     "hour": 21,
-                    "percentage": 64
+                    "percentage": 62
                 },
                 {
                     "hour": 22,
-                    "percentage": 47
+                    "percentage": 46
                 },
                 {
                     "hour": 23,
-                    "percentage": 30
+                    "percentage": 29
                 }
             ],
             "Minggu": [
                 {
                     "hour": 0,
-                    "percentage": 11
+                    "percentage": 12
                 },
                 {
                     "hour": 1,
@@ -2006,19 +1998,19 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 11
+                    "percentage": 10
                 },
                 {
                     "hour": 6,
-                    "percentage": 18
+                    "percentage": 17
                 },
                 {
                     "hour": 7,
-                    "percentage": 24
+                    "percentage": 23
                 },
                 {
                     "hour": 8,
-                    "percentage": 26
+                    "percentage": 25
                 },
                 {
                     "hour": 9,
@@ -2030,7 +2022,7 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 24
+                    "percentage": 25
                 },
                 {
                     "hour": 12,
@@ -2083,223 +2075,23 @@
             ]
         },
         "sentiment_score": 1,
-        "summary": "Ulasan umumnya negatif dengan sentimen dominan, menyoroti masalah seperti fasilitas yang buruk, kebocoran toilet, dan jalanan rusak di Stasiun Rawa Buntu.",
-        "topics": [
-            "Fasilitas",
-            "Kebersihan",
-            "Jalanan"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Terminal Pondok Cabe",
-        "timestamp": "2026-01-09 10:26",
+        "timestamp": "2026-01-19 08:29",
         "latitude": "-6.3583009",
         "longitude": "106.7545537",
         "popular_times": {
             "Senin": [
                 {
                     "hour": 0,
-                    "percentage": 42
-                },
-                {
-                    "hour": 1,
-                    "percentage": 28
-                },
-                {
-                    "hour": 2,
-                    "percentage": 20
-                },
-                {
-                    "hour": 3,
-                    "percentage": 21
-                },
-                {
-                    "hour": 4,
-                    "percentage": 25
-                },
-                {
-                    "hour": 5,
-                    "percentage": 32
-                },
-                {
-                    "hour": 6,
-                    "percentage": 40
-                },
-                {
-                    "hour": 7,
-                    "percentage": 49
-                },
-                {
-                    "hour": 8,
-                    "percentage": 55
-                },
-                {
-                    "hour": 9,
-                    "percentage": 60
-                },
-                {
-                    "hour": 10,
-                    "percentage": 62
-                },
-                {
-                    "hour": 11,
-                    "percentage": 60
-                },
-                {
-                    "hour": 12,
-                    "percentage": 58
-                },
-                {
-                    "hour": 13,
-                    "percentage": 60
-                },
-                {
-                    "hour": 14,
-                    "percentage": 69
-                },
-                {
-                    "hour": 15,
-                    "percentage": 78
-                },
-                {
-                    "hour": 16,
-                    "percentage": 83
-                },
-                {
-                    "hour": 17,
-                    "percentage": 82
-                },
-                {
-                    "hour": 18,
-                    "percentage": 79
-                },
-                {
-                    "hour": 19,
-                    "percentage": 78
-                },
-                {
-                    "hour": 20,
-                    "percentage": 80
-                },
-                {
-                    "hour": 21,
-                    "percentage": 85
-                },
-                {
-                    "hour": 22,
-                    "percentage": 80
-                },
-                {
-                    "hour": 23,
-                    "percentage": 70
-                }
-            ],
-            "Selasa": [
-                {
-                    "hour": 0,
-                    "percentage": 48
-                },
-                {
-                    "hour": 1,
-                    "percentage": 30
-                },
-                {
-                    "hour": 2,
-                    "percentage": 22
-                },
-                {
-                    "hour": 3,
-                    "percentage": 24
-                },
-                {
-                    "hour": 4,
-                    "percentage": 28
-                },
-                {
-                    "hour": 5,
-                    "percentage": 32
-                },
-                {
-                    "hour": 6,
-                    "percentage": 34
-                },
-                {
-                    "hour": 7,
-                    "percentage": 38
-                },
-                {
-                    "hour": 8,
                     "percentage": 44
                 },
                 {
-                    "hour": 9,
-                    "percentage": 50
-                },
-                {
-                    "hour": 10,
-                    "percentage": 55
-                },
-                {
-                    "hour": 11,
-                    "percentage": 54
-                },
-                {
-                    "hour": 12,
-                    "percentage": 49
-                },
-                {
-                    "hour": 13,
-                    "percentage": 49
-                },
-                {
-                    "hour": 14,
-                    "percentage": 53
-                },
-                {
-                    "hour": 15,
-                    "percentage": 61
-                },
-                {
-                    "hour": 16,
-                    "percentage": 69
-                },
-                {
-                    "hour": 17,
-                    "percentage": 72
-                },
-                {
-                    "hour": 18,
-                    "percentage": 73
-                },
-                {
-                    "hour": 19,
-                    "percentage": 78
-                },
-                {
-                    "hour": 20,
-                    "percentage": 84
-                },
-                {
-                    "hour": 21,
-                    "percentage": 92
-                },
-                {
-                    "hour": 22,
-                    "percentage": 90
-                },
-                {
-                    "hour": 23,
-                    "percentage": 79
-                }
-            ],
-            "Rabu": [
-                {
-                    "hour": 0,
-                    "percentage": 51
-                },
-                {
                     "hour": 1,
-                    "percentage": 33
+                    "percentage": 29
                 },
                 {
                     "hour": 2,
@@ -2315,59 +2107,59 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 30
+                    "percentage": 34
                 },
                 {
                     "hour": 6,
-                    "percentage": 33
+                    "percentage": 42
                 },
                 {
                     "hour": 7,
-                    "percentage": 37
+                    "percentage": 51
                 },
                 {
                     "hour": 8,
-                    "percentage": 41
-                },
-                {
-                    "hour": 9,
-                    "percentage": 47
-                },
-                {
-                    "hour": 10,
-                    "percentage": 52
-                },
-                {
-                    "hour": 11,
-                    "percentage": 53
-                },
-                {
-                    "hour": 12,
-                    "percentage": 51
-                },
-                {
-                    "hour": 13,
-                    "percentage": 51
-                },
-                {
-                    "hour": 14,
                     "percentage": 56
                 },
                 {
-                    "hour": 15,
+                    "hour": 9,
+                    "percentage": 61
+                },
+                {
+                    "hour": 10,
                     "percentage": 63
                 },
                 {
+                    "hour": 11,
+                    "percentage": 61
+                },
+                {
+                    "hour": 12,
+                    "percentage": 58
+                },
+                {
+                    "hour": 13,
+                    "percentage": 60
+                },
+                {
+                    "hour": 14,
+                    "percentage": 68
+                },
+                {
+                    "hour": 15,
+                    "percentage": 76
+                },
+                {
                     "hour": 16,
-                    "percentage": 70
+                    "percentage": 83
                 },
                 {
                     "hour": 17,
-                    "percentage": 73
+                    "percentage": 83
                 },
                 {
                     "hour": 18,
-                    "percentage": 74
+                    "percentage": 80
                 },
                 {
                     "hour": 19,
@@ -2375,19 +2167,211 @@
                 },
                 {
                     "hour": 20,
-                    "percentage": 86
+                    "percentage": 81
                 },
                 {
                     "hour": 21,
-                    "percentage": 96
+                    "percentage": 86
                 },
                 {
                     "hour": 22,
-                    "percentage": 95
+                    "percentage": 83
                 },
                 {
                     "hour": 23,
-                    "percentage": 83
+                    "percentage": 73
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 0,
+                    "percentage": 49
+                },
+                {
+                    "hour": 1,
+                    "percentage": 31
+                },
+                {
+                    "hour": 2,
+                    "percentage": 23
+                },
+                {
+                    "hour": 3,
+                    "percentage": 24
+                },
+                {
+                    "hour": 4,
+                    "percentage": 29
+                },
+                {
+                    "hour": 5,
+                    "percentage": 34
+                },
+                {
+                    "hour": 6,
+                    "percentage": 36
+                },
+                {
+                    "hour": 7,
+                    "percentage": 39
+                },
+                {
+                    "hour": 9,
+                    "percentage": 49
+                },
+                {
+                    "hour": 10,
+                    "percentage": 55
+                },
+                {
+                    "hour": 11,
+                    "percentage": 56
+                },
+                {
+                    "hour": 12,
+                    "percentage": 54
+                },
+                {
+                    "hour": 13,
+                    "percentage": 54
+                },
+                {
+                    "hour": 14,
+                    "percentage": 56
+                },
+                {
+                    "hour": 15,
+                    "percentage": 64
+                },
+                {
+                    "hour": 16,
+                    "percentage": 71
+                },
+                {
+                    "hour": 17,
+                    "percentage": 74
+                },
+                {
+                    "hour": 18,
+                    "percentage": 74
+                },
+                {
+                    "hour": 19,
+                    "percentage": 80
+                },
+                {
+                    "hour": 20,
+                    "percentage": 87
+                },
+                {
+                    "hour": 21,
+                    "percentage": 95
+                },
+                {
+                    "hour": 22,
+                    "percentage": 94
+                },
+                {
+                    "hour": 23,
+                    "percentage": 81
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 0,
+                    "percentage": 50
+                },
+                {
+                    "hour": 1,
+                    "percentage": 33
+                },
+                {
+                    "hour": 2,
+                    "percentage": 23
+                },
+                {
+                    "hour": 3,
+                    "percentage": 24
+                },
+                {
+                    "hour": 4,
+                    "percentage": 27
+                },
+                {
+                    "hour": 5,
+                    "percentage": 32
+                },
+                {
+                    "hour": 6,
+                    "percentage": 36
+                },
+                {
+                    "hour": 7,
+                    "percentage": 39
+                },
+                {
+                    "hour": 8,
+                    "percentage": 43
+                },
+                {
+                    "hour": 9,
+                    "percentage": 48
+                },
+                {
+                    "hour": 10,
+                    "percentage": 53
+                },
+                {
+                    "hour": 11,
+                    "percentage": 54
+                },
+                {
+                    "hour": 12,
+                    "percentage": 51
+                },
+                {
+                    "hour": 13,
+                    "percentage": 52
+                },
+                {
+                    "hour": 14,
+                    "percentage": 57
+                },
+                {
+                    "hour": 15,
+                    "percentage": 65
+                },
+                {
+                    "hour": 16,
+                    "percentage": 72
+                },
+                {
+                    "hour": 17,
+                    "percentage": 75
+                },
+                {
+                    "hour": 18,
+                    "percentage": 76
+                },
+                {
+                    "hour": 19,
+                    "percentage": 82
+                },
+                {
+                    "hour": 20,
+                    "percentage": 89
+                },
+                {
+                    "hour": 21,
+                    "percentage": 100
+                },
+                {
+                    "hour": 22,
+                    "percentage": 99
+                },
+                {
+                    "hour": 23,
+                    "percentage": 85
                 }
             ],
             "Kamis": [
@@ -2409,11 +2393,11 @@
                 },
                 {
                     "hour": 4,
-                    "percentage": 29
+                    "percentage": 30
                 },
                 {
                     "hour": 5,
-                    "percentage": 35
+                    "percentage": 36
                 },
                 {
                     "hour": 6,
@@ -2429,11 +2413,11 @@
                 },
                 {
                     "hour": 9,
-                    "percentage": 50
+                    "percentage": 51
                 },
                 {
                     "hour": 10,
-                    "percentage": 55
+                    "percentage": 56
                 },
                 {
                     "hour": 11,
@@ -2441,15 +2425,15 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 55
+                    "percentage": 54
                 },
                 {
                     "hour": 13,
-                    "percentage": 56
+                    "percentage": 54
                 },
                 {
                     "hour": 14,
-                    "percentage": 61
+                    "percentage": 60
                 },
                 {
                     "hour": 15,
@@ -2457,23 +2441,23 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 80
+                    "percentage": 79
                 },
                 {
                     "hour": 17,
-                    "percentage": 84
+                    "percentage": 83
                 },
                 {
                     "hour": 18,
-                    "percentage": 85
+                    "percentage": 83
                 },
                 {
                     "hour": 19,
-                    "percentage": 86
+                    "percentage": 84
                 },
                 {
                     "hour": 20,
-                    "percentage": 88
+                    "percentage": 87
                 },
                 {
                     "hour": 21,
@@ -2481,85 +2465,85 @@
                 },
                 {
                     "hour": 22,
-                    "percentage": 89
+                    "percentage": 90
                 },
                 {
                     "hour": 23,
-                    "percentage": 76
+                    "percentage": 77
                 }
             ],
             "Jumat": [
                 {
                     "hour": 0,
-                    "percentage": 49
-                },
-                {
-                    "hour": 1,
-                    "percentage": 33
-                },
-                {
-                    "hour": 2,
-                    "percentage": 24
-                },
-                {
-                    "hour": 3,
-                    "percentage": 26
-                },
-                {
-                    "hour": 4,
-                    "percentage": 28
-                },
-                {
-                    "hour": 5,
-                    "percentage": 32
-                },
-                {
-                    "hour": 6,
-                    "percentage": 35
-                },
-                {
-                    "hour": 7,
-                    "percentage": 38
-                },
-                {
-                    "hour": 8,
-                    "percentage": 42
-                },
-                {
-                    "hour": 9,
-                    "percentage": 47
-                },
-                {
-                    "hour": 10,
-                    "percentage": 49
-                },
-                {
-                    "hour": 11,
                     "percentage": 50
                 },
                 {
-                    "hour": 12,
+                    "hour": 1,
+                    "percentage": 34
+                },
+                {
+                    "hour": 2,
+                    "percentage": 25
+                },
+                {
+                    "hour": 3,
+                    "percentage": 27
+                },
+                {
+                    "hour": 4,
+                    "percentage": 30
+                },
+                {
+                    "hour": 5,
+                    "percentage": 34
+                },
+                {
+                    "hour": 6,
+                    "percentage": 37
+                },
+                {
+                    "hour": 7,
+                    "percentage": 40
+                },
+                {
+                    "hour": 8,
+                    "percentage": 43
+                },
+                {
+                    "hour": 9,
                     "percentage": 48
                 },
                 {
+                    "hour": 10,
+                    "percentage": 51
+                },
+                {
+                    "hour": 11,
+                    "percentage": 53
+                },
+                {
+                    "hour": 12,
+                    "percentage": 52
+                },
+                {
                     "hour": 13,
-                    "percentage": 49
+                    "percentage": 52
                 },
                 {
                     "hour": 14,
-                    "percentage": 54
+                    "percentage": 58
                 },
                 {
                     "hour": 15,
-                    "percentage": 64
+                    "percentage": 69
                 },
                 {
                     "hour": 16,
-                    "percentage": 73
+                    "percentage": 76
                 },
                 {
                     "hour": 17,
-                    "percentage": 77
+                    "percentage": 78
                 },
                 {
                     "hour": 18,
@@ -2571,25 +2555,25 @@
                 },
                 {
                     "hour": 20,
-                    "percentage": 81
+                    "percentage": 83
                 },
                 {
                     "hour": 21,
-                    "percentage": 89
+                    "percentage": 92
                 },
                 {
                     "hour": 22,
-                    "percentage": 89
+                    "percentage": 91
                 },
                 {
                     "hour": 23,
-                    "percentage": 78
+                    "percentage": 80
                 }
             ],
             "Sabtu": [
                 {
                     "hour": 0,
-                    "percentage": 48
+                    "percentage": 49
                 },
                 {
                     "hour": 1,
@@ -2617,15 +2601,117 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 39
+                    "percentage": 40
                 },
                 {
                     "hour": 8,
-                    "percentage": 42
+                    "percentage": 45
                 },
                 {
                     "hour": 9,
-                    "percentage": 46
+                    "percentage": 49
+                },
+                {
+                    "hour": 10,
+                    "percentage": 53
+                },
+                {
+                    "hour": 11,
+                    "percentage": 53
+                },
+                {
+                    "hour": 12,
+                    "percentage": 51
+                },
+                {
+                    "hour": 13,
+                    "percentage": 52
+                },
+                {
+                    "hour": 14,
+                    "percentage": 58
+                },
+                {
+                    "hour": 15,
+                    "percentage": 66
+                },
+                {
+                    "hour": 16,
+                    "percentage": 75
+                },
+                {
+                    "hour": 17,
+                    "percentage": 74
+                },
+                {
+                    "hour": 18,
+                    "percentage": 73
+                },
+                {
+                    "hour": 19,
+                    "percentage": 73
+                },
+                {
+                    "hour": 20,
+                    "percentage": 77
+                },
+                {
+                    "hour": 21,
+                    "percentage": 85
+                },
+                {
+                    "hour": 22,
+                    "percentage": 86
+                },
+                {
+                    "hour": 23,
+                    "percentage": 77
+                }
+            ],
+            "Minggu": [
+                {
+                    "hour": 0,
+                    "percentage": 49
+                },
+                {
+                    "hour": 1,
+                    "percentage": 30
+                },
+                {
+                    "hour": 2,
+                    "percentage": 21
+                },
+                {
+                    "hour": 3,
+                    "percentage": 24
+                },
+                {
+                    "hour": 4,
+                    "percentage": 28
+                },
+                {
+                    "hour": 5,
+                    "percentage": 35
+                },
+                {
+                    "hour": 6,
+                    "percentage": 41
+                },
+                {
+                    "hour": 7,
+                    "percentage": 47
+                },
+                {
+                    "hour": 8,
+                    "percentage": 48
+                },
+                {
+                    "hour": 9,
+                    "percentage": 51
+                },
+                {
+                    "hour": 10,
+                    "percentage": 51
                 },
                 {
                     "hour": 11,
@@ -2637,105 +2723,7 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 52
-                },
-                {
-                    "hour": 14,
-                    "percentage": 57
-                },
-                {
-                    "hour": 15,
-                    "percentage": 66
-                },
-                {
-                    "hour": 16,
-                    "percentage": 74
-                },
-                {
-                    "hour": 17,
-                    "percentage": 74
-                },
-                {
-                    "hour": 18,
-                    "percentage": 72
-                },
-                {
-                    "hour": 19,
-                    "percentage": 71
-                },
-                {
-                    "hour": 20,
-                    "percentage": 75
-                },
-                {
-                    "hour": 21,
-                    "percentage": 84
-                },
-                {
-                    "hour": 22,
-                    "percentage": 85
-                },
-                {
-                    "hour": 23,
-                    "percentage": 77
-                }
-            ],
-            "Minggu": [
-                {
-                    "hour": 0,
-                    "percentage": 47
-                },
-                {
-                    "hour": 1,
-                    "percentage": 29
-                },
-                {
-                    "hour": 2,
-                    "percentage": 20
-                },
-                {
-                    "hour": 3,
-                    "percentage": 23
-                },
-                {
-                    "hour": 4,
-                    "percentage": 27
-                },
-                {
-                    "hour": 5,
-                    "percentage": 35
-                },
-                {
-                    "hour": 6,
-                    "percentage": 42
-                },
-                {
-                    "hour": 7,
-                    "percentage": 49
-                },
-                {
-                    "hour": 8,
-                    "percentage": 50
-                },
-                {
-                    "hour": 9,
                     "percentage": 53
-                },
-                {
-                    "hour": 10,
-                    "percentage": 53
-                },
-                {
-                    "hour": 11,
-                    "percentage": 54
-                },
-                {
-                    "hour": 12,
-                    "percentage": 54
-                },
-                {
-                    "hour": 13,
-                    "percentage": 56
                 },
                 {
                     "hour": 14,
@@ -2751,23 +2739,23 @@
                 },
                 {
                     "hour": 17,
-                    "percentage": 76
+                    "percentage": 75
                 },
                 {
                     "hour": 18,
-                    "percentage": 77
+                    "percentage": 74
                 },
                 {
                     "hour": 19,
-                    "percentage": 86
+                    "percentage": 81
                 },
                 {
                     "hour": 20,
-                    "percentage": 92
+                    "percentage": 87
                 },
                 {
                     "hour": 21,
-                    "percentage": 100
+                    "percentage": 97
                 },
                 {
                     "hour": 22,
@@ -2775,65 +2763,49 @@
                 },
                 {
                     "hour": 23,
-                    "percentage": 81
+                    "percentage": 82
                 }
             ]
         },
         "sentiment_score": 3,
-        "summary": "Ulasan umumnya positif dengan sentimen yang dominan, menyoroti luas dan keamanan terminal Pondok Cabe serta pelayanan yang baik.",
-        "topics": [
-            "Lokasi",
-            "Pelayanan",
-            "Menu"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "RSUD Tangerang Selatan",
-        "timestamp": "2026-01-09 10:26",
+        "timestamp": "2026-01-19 08:29",
         "latitude": "-6.3376386",
-        "longitude": "106.7361018",
+        "longitude": "106.7386767",
         "popular_times": {},
         "sentiment_score": 3,
-        "summary": "Ulasan umumnya positif dengan sentimen dominan, menyoroti pelayanan yang memuaskan, kepedulian staff, dan perbaikan yang terus dilakukan oleh RSUD Tangerang Selatan.",
-        "topics": [
-            "Pelayanan",
-            "Staff",
-            "Perbaikan"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Kantor Walikota",
-        "timestamp": "2026-01-09 10:27",
+        "timestamp": "2026-01-19 08:30",
         "latitude": "-6.3223832",
         "longitude": "106.7077614",
         "popular_times": {},
         "sentiment_score": 1,
-        "summary": "Ulasan dominan berisi komentar negatif tentang pelayanan dan lingkungan Kota Tangerang Selatan, termasuk masalah sampah, kebocoran, dan kurangnya perhatian dari pemerintah.",
-        "topics": [
-            "Pelayanan Publik",
-            "Lingkungan",
-            "Perubahan"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Dukcapil",
-        "timestamp": "2026-01-09 10:27",
+        "timestamp": "2026-01-19 08:30",
         "latitude": "-6.3278173",
-        "longitude": "106.6711417",
+        "longitude": "106.6737166",
         "popular_times": {},
         "sentiment_score": 1,
-        "summary": "Ulasan umumnya negatif dengan sentimen dominan, mengkritik keterbatasan layanan dan pelayanan Dukcapil.",
-        "topics": [
-            "Keterbatasan Kuota",
-            "Pelayanan",
-            "Antrian"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Bintaro Xchange",
-        "timestamp": "2026-01-09 10:27",
+        "timestamp": "2026-01-19 08:30",
         "latitude": "-6.2854481",
-        "longitude": "106.7259699",
+        "longitude": "106.7285448",
         "popular_times": {
             "Senin": [
                 {
@@ -2870,7 +2842,7 @@
                 },
                 {
                     "hour": 14,
-                    "percentage": 68
+                    "percentage": 69
                 },
                 {
                     "hour": 15,
@@ -2886,15 +2858,15 @@
                 },
                 {
                     "hour": 18,
-                    "percentage": 85
+                    "percentage": 86
                 },
                 {
                     "hour": 19,
-                    "percentage": 78
+                    "percentage": 79
                 },
                 {
                     "hour": 20,
-                    "percentage": 63
+                    "percentage": 64
                 },
                 {
                     "hour": 21,
@@ -2936,43 +2908,43 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 22
+                    "percentage": 24
                 },
                 {
                     "hour": 13,
-                    "percentage": 26
+                    "percentage": 28
                 },
                 {
                     "hour": 14,
-                    "percentage": 29
+                    "percentage": 32
                 },
                 {
                     "hour": 15,
-                    "percentage": 33
+                    "percentage": 36
                 },
                 {
                     "hour": 16,
-                    "percentage": 40
+                    "percentage": 42
                 },
                 {
                     "hour": 17,
-                    "percentage": 47
+                    "percentage": 50
                 },
                 {
                     "hour": 18,
-                    "percentage": 52
+                    "percentage": 55
                 },
                 {
                     "hour": 19,
-                    "percentage": 51
+                    "percentage": 54
                 },
                 {
                     "hour": 20,
-                    "percentage": 43
+                    "percentage": 45
                 },
                 {
                     "hour": 21,
-                    "percentage": 31
+                    "percentage": 32
                 },
                 {
                     "hour": 22,
@@ -3006,47 +2978,47 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 19
+                    "percentage": 20
                 },
                 {
                     "hour": 12,
-                    "percentage": 24
+                    "percentage": 25
                 },
                 {
                     "hour": 13,
-                    "percentage": 28
+                    "percentage": 30
                 },
                 {
                     "hour": 14,
-                    "percentage": 31
+                    "percentage": 33
                 },
                 {
                     "hour": 15,
-                    "percentage": 35
+                    "percentage": 37
                 },
                 {
                     "hour": 16,
-                    "percentage": 41
+                    "percentage": 43
                 },
                 {
                     "hour": 17,
-                    "percentage": 48
+                    "percentage": 51
                 },
                 {
                     "hour": 18,
-                    "percentage": 53
+                    "percentage": 56
                 },
                 {
                     "hour": 19,
-                    "percentage": 53
+                    "percentage": 55
                 },
                 {
                     "hour": 20,
-                    "percentage": 45
+                    "percentage": 47
                 },
                 {
                     "hour": 21,
-                    "percentage": 32
+                    "percentage": 34
                 },
                 {
                     "hour": 22,
@@ -3080,47 +3052,47 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 19
+                    "percentage": 20
                 },
                 {
                     "hour": 12,
-                    "percentage": 25
+                    "percentage": 26
                 },
                 {
                     "hour": 13,
-                    "percentage": 29
+                    "percentage": 31
                 },
                 {
                     "hour": 14,
-                    "percentage": 32
+                    "percentage": 35
                 },
                 {
                     "hour": 15,
-                    "percentage": 36
+                    "percentage": 39
                 },
                 {
                     "hour": 16,
-                    "percentage": 42
+                    "percentage": 45
                 },
                 {
                     "hour": 17,
-                    "percentage": 51
+                    "percentage": 53
                 },
                 {
                     "hour": 18,
-                    "percentage": 56
+                    "percentage": 58
                 },
                 {
                     "hour": 19,
-                    "percentage": 56
+                    "percentage": 58
                 },
                 {
                     "hour": 20,
-                    "percentage": 48
+                    "percentage": 51
                 },
                 {
                     "hour": 21,
-                    "percentage": 35
+                    "percentage": 38
                 },
                 {
                     "hour": 22,
@@ -3150,51 +3122,51 @@
                 },
                 {
                     "hour": 10,
-                    "percentage": 14
+                    "percentage": 15
                 },
                 {
                     "hour": 11,
-                    "percentage": 19
+                    "percentage": 22
                 },
                 {
                     "hour": 12,
-                    "percentage": 24
+                    "percentage": 30
                 },
                 {
                     "hour": 13,
-                    "percentage": 28
+                    "percentage": 36
                 },
                 {
                     "hour": 14,
-                    "percentage": 31
+                    "percentage": 40
                 },
                 {
                     "hour": 15,
-                    "percentage": 35
+                    "percentage": 45
                 },
                 {
                     "hour": 16,
-                    "percentage": 41
+                    "percentage": 52
                 },
                 {
                     "hour": 17,
-                    "percentage": 49
+                    "percentage": 59
                 },
                 {
                     "hour": 18,
-                    "percentage": 54
+                    "percentage": 64
                 },
                 {
                     "hour": 19,
-                    "percentage": 54
+                    "percentage": 62
                 },
                 {
                     "hour": 20,
-                    "percentage": 46
+                    "percentage": 53
                 },
                 {
                     "hour": 21,
-                    "percentage": 33
+                    "percentage": 38
                 },
                 {
                     "hour": 22,
@@ -3223,48 +3195,52 @@
                     "percentage": 0
                 },
                 {
+                    "hour": 10,
+                    "percentage": 16
+                },
+                {
                     "hour": 11,
-                    "percentage": 23
+                    "percentage": 24
                 },
                 {
                     "hour": 12,
-                    "percentage": 30
+                    "percentage": 32
                 },
                 {
                     "hour": 13,
-                    "percentage": 34
-                },
-                {
-                    "hour": 14,
                     "percentage": 37
                 },
                 {
-                    "hour": 15,
+                    "hour": 14,
                     "percentage": 41
                 },
                 {
+                    "hour": 15,
+                    "percentage": 46
+                },
+                {
                     "hour": 16,
-                    "percentage": 48
+                    "percentage": 53
                 },
                 {
                     "hour": 17,
-                    "percentage": 57
+                    "percentage": 62
                 },
                 {
                     "hour": 18,
-                    "percentage": 65
+                    "percentage": 68
                 },
                 {
                     "hour": 19,
-                    "percentage": 67
+                    "percentage": 70
                 },
                 {
                     "hour": 20,
-                    "percentage": 60
+                    "percentage": 62
                 },
                 {
                     "hour": 21,
-                    "percentage": 45
+                    "percentage": 46
                 },
                 {
                     "hour": 22,
@@ -3294,35 +3270,35 @@
                 },
                 {
                     "hour": 10,
-                    "percentage": 21
+                    "percentage": 22
                 },
                 {
                     "hour": 11,
-                    "percentage": 32
+                    "percentage": 33
                 },
                 {
                     "hour": 12,
-                    "percentage": 44
+                    "percentage": 45
                 },
                 {
                     "hour": 13,
-                    "percentage": 55
+                    "percentage": 56
                 },
                 {
                     "hour": 14,
-                    "percentage": 65
+                    "percentage": 66
                 },
                 {
                     "hour": 15,
-                    "percentage": 74
+                    "percentage": 76
                 },
                 {
                     "hour": 16,
-                    "percentage": 84
+                    "percentage": 85
                 },
                 {
                     "hour": 17,
-                    "percentage": 93
+                    "percentage": 94
                 },
                 {
                     "hour": 18,
@@ -3350,17 +3326,13 @@
                 }
             ]
         },
-        "sentiment_score": 1,
-        "summary": "Ulasan ini dominantly negatif dengan sentimen yang cenderung mengecewakan, mencakup pengalaman buruk dalam pelayanan dan lingkungan yang tidak nyaman.",
-        "topics": [
-            "Pelayanan",
-            "Interior Resto",
-            "Lokasi"
-        ]
+        "sentiment_score": 2,
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Living World",
-        "timestamp": "2026-01-09 10:27",
+        "timestamp": "2026-01-19 08:30",
         "latitude": "-6.2443767",
         "longitude": "106.653103",
         "popular_times": {
@@ -3387,7 +3359,7 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 57
+                    "percentage": 56
                 },
                 {
                     "hour": 12,
@@ -3403,31 +3375,31 @@
                 },
                 {
                     "hour": 15,
-                    "percentage": 85
+                    "percentage": 86
                 },
                 {
                     "hour": 16,
-                    "percentage": 90
+                    "percentage": 91
                 },
                 {
                     "hour": 17,
-                    "percentage": 94
+                    "percentage": 95
                 },
                 {
                     "hour": 18,
-                    "percentage": 96
+                    "percentage": 97
                 },
                 {
                     "hour": 19,
-                    "percentage": 90
+                    "percentage": 92
                 },
                 {
                     "hour": 20,
-                    "percentage": 74
+                    "percentage": 75
                 },
                 {
                     "hour": 21,
-                    "percentage": 50
+                    "percentage": 51
                 },
                 {
                     "hour": 22,
@@ -3461,7 +3433,7 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 19
+                    "percentage": 20
                 },
                 {
                     "hour": 12,
@@ -3469,39 +3441,39 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 28
+                    "percentage": 29
                 },
                 {
                     "hour": 14,
-                    "percentage": 30
-                },
-                {
-                    "hour": 15,
                     "percentage": 31
                 },
                 {
+                    "hour": 15,
+                    "percentage": 33
+                },
+                {
                     "hour": 16,
-                    "percentage": 35
+                    "percentage": 36
                 },
                 {
                     "hour": 17,
-                    "percentage": 40
+                    "percentage": 41
                 },
                 {
                     "hour": 18,
-                    "percentage": 44
+                    "percentage": 46
                 },
                 {
                     "hour": 19,
-                    "percentage": 45
+                    "percentage": 47
                 },
                 {
                     "hour": 20,
-                    "percentage": 40
+                    "percentage": 41
                 },
                 {
                     "hour": 21,
-                    "percentage": 30
+                    "percentage": 31
                 },
                 {
                     "hour": 22,
@@ -3535,47 +3507,47 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 21
+                    "percentage": 22
                 },
                 {
                     "hour": 12,
-                    "percentage": 27
+                    "percentage": 28
                 },
                 {
                     "hour": 13,
-                    "percentage": 31
-                },
-                {
-                    "hour": 14,
                     "percentage": 32
                 },
                 {
+                    "hour": 14,
+                    "percentage": 33
+                },
+                {
                     "hour": 15,
-                    "percentage": 34
+                    "percentage": 35
                 },
                 {
                     "hour": 16,
-                    "percentage": 37
+                    "percentage": 39
                 },
                 {
                     "hour": 17,
-                    "percentage": 42
+                    "percentage": 44
                 },
                 {
                     "hour": 18,
-                    "percentage": 47
+                    "percentage": 48
                 },
                 {
                     "hour": 19,
-                    "percentage": 47
+                    "percentage": 49
                 },
                 {
                     "hour": 20,
-                    "percentage": 42
+                    "percentage": 44
                 },
                 {
                     "hour": 21,
-                    "percentage": 31
+                    "percentage": 32
                 },
                 {
                     "hour": 22,
@@ -3613,43 +3585,43 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 28
+                    "percentage": 29
                 },
                 {
                     "hour": 13,
-                    "percentage": 31
-                },
-                {
-                    "hour": 14,
                     "percentage": 32
                 },
                 {
-                    "hour": 15,
+                    "hour": 14,
                     "percentage": 34
+                },
+                {
+                    "hour": 15,
+                    "percentage": 36
                 },
                 {
                     "hour": 16,
-                    "percentage": 38
+                    "percentage": 40
                 },
                 {
                     "hour": 17,
-                    "percentage": 44
+                    "percentage": 46
                 },
                 {
                     "hour": 18,
-                    "percentage": 49
+                    "percentage": 51
                 },
                 {
                     "hour": 19,
-                    "percentage": 50
+                    "percentage": 54
                 },
                 {
                     "hour": 20,
-                    "percentage": 45
+                    "percentage": 48
                 },
                 {
                     "hour": 21,
-                    "percentage": 34
+                    "percentage": 37
                 },
                 {
                     "hour": 22,
@@ -3679,51 +3651,51 @@
                 },
                 {
                     "hour": 10,
-                    "percentage": 15
+                    "percentage": 17
                 },
                 {
                     "hour": 11,
-                    "percentage": 21
+                    "percentage": 25
                 },
                 {
                     "hour": 12,
-                    "percentage": 27
-                },
-                {
-                    "hour": 13,
-                    "percentage": 31
-                },
-                {
-                    "hour": 14,
                     "percentage": 32
                 },
                 {
-                    "hour": 15,
-                    "percentage": 33
-                },
-                {
-                    "hour": 16,
+                    "hour": 13,
                     "percentage": 37
                 },
                 {
-                    "hour": 17,
+                    "hour": 14,
+                    "percentage": 40
+                },
+                {
+                    "hour": 15,
                     "percentage": 43
                 },
                 {
+                    "hour": 16,
+                    "percentage": 47
+                },
+                {
+                    "hour": 17,
+                    "percentage": 53
+                },
+                {
                     "hour": 18,
-                    "percentage": 49
+                    "percentage": 59
                 },
                 {
                     "hour": 19,
-                    "percentage": 50
+                    "percentage": 59
                 },
                 {
                     "hour": 20,
-                    "percentage": 45
+                    "percentage": 52
                 },
                 {
                     "hour": 21,
-                    "percentage": 33
+                    "percentage": 38
                 },
                 {
                     "hour": 22,
@@ -3752,6 +3724,10 @@
                     "percentage": 0
                 },
                 {
+                    "hour": 10,
+                    "percentage": 17
+                },
+                {
                     "hour": 11,
                     "percentage": 26
                 },
@@ -3761,39 +3737,39 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 36
+                    "percentage": 38
                 },
                 {
                     "hour": 14,
-                    "percentage": 36
+                    "percentage": 39
                 },
                 {
                     "hour": 15,
-                    "percentage": 37
+                    "percentage": 40
                 },
                 {
                     "hour": 16,
-                    "percentage": 41
+                    "percentage": 45
                 },
                 {
                     "hour": 17,
-                    "percentage": 49
+                    "percentage": 53
                 },
                 {
                     "hour": 18,
-                    "percentage": 59
+                    "percentage": 62
                 },
                 {
                     "hour": 19,
-                    "percentage": 64
+                    "percentage": 66
                 },
                 {
                     "hour": 20,
-                    "percentage": 60
+                    "percentage": 61
                 },
                 {
                     "hour": 21,
-                    "percentage": 46
+                    "percentage": 47
                 },
                 {
                     "hour": 22,
@@ -3839,15 +3815,15 @@
                 },
                 {
                     "hour": 14,
-                    "percentage": 59
+                    "percentage": 60
                 },
                 {
                     "hour": 15,
-                    "percentage": 65
+                    "percentage": 66
                 },
                 {
                     "hour": 16,
-                    "percentage": 73
+                    "percentage": 74
                 },
                 {
                     "hour": 17,
@@ -3880,16 +3856,12 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Ulasan umumnya positif, menyoroti kelebihan seperti mall yang luas dan nyaman, pelayanan ramah, banyak promo, serta banyak pilihan barang di Informa Living World Alam Sutera.",
-        "topics": [
-            "Mall",
-            "Pelayanan",
-            "Promo"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Teras Kota",
-        "timestamp": "2026-01-09 10:28",
+        "timestamp": "2026-01-19 08:31",
         "latitude": "-6.2955633",
         "longitude": "106.6674867",
         "popular_times": {
@@ -3912,51 +3884,51 @@
                 },
                 {
                     "hour": 10,
-                    "percentage": 49
+                    "percentage": 48
                 },
                 {
                     "hour": 11,
-                    "percentage": 55
+                    "percentage": 56
                 },
                 {
                     "hour": 12,
-                    "percentage": 61
+                    "percentage": 62
                 },
                 {
                     "hour": 13,
-                    "percentage": 65
+                    "percentage": 67
                 },
                 {
                     "hour": 14,
-                    "percentage": 69
+                    "percentage": 71
                 },
                 {
                     "hour": 15,
-                    "percentage": 74
+                    "percentage": 76
                 },
                 {
                     "hour": 16,
-                    "percentage": 79
+                    "percentage": 80
                 },
                 {
                     "hour": 17,
-                    "percentage": 83
+                    "percentage": 85
                 },
                 {
                     "hour": 18,
-                    "percentage": 83
+                    "percentage": 84
                 },
                 {
                     "hour": 19,
-                    "percentage": 78
+                    "percentage": 79
                 },
                 {
                     "hour": 20,
-                    "percentage": 66
+                    "percentage": 67
                 },
                 {
                     "hour": 21,
-                    "percentage": 50
+                    "percentage": 51
                 },
                 {
                     "hour": 22,
@@ -3986,51 +3958,51 @@
                 },
                 {
                     "hour": 10,
-                    "percentage": 40
+                    "percentage": 41
                 },
                 {
                     "hour": 11,
-                    "percentage": 47
+                    "percentage": 49
                 },
                 {
                     "hour": 12,
-                    "percentage": 54
+                    "percentage": 55
                 },
                 {
                     "hour": 13,
-                    "percentage": 56
+                    "percentage": 57
                 },
                 {
                     "hour": 14,
-                    "percentage": 56
+                    "percentage": 58
                 },
                 {
                     "hour": 15,
-                    "percentage": 60
+                    "percentage": 62
                 },
                 {
                     "hour": 16,
-                    "percentage": 68
+                    "percentage": 71
                 },
                 {
                     "hour": 17,
-                    "percentage": 79
-                },
-                {
-                    "hour": 18,
-                    "percentage": 85
-                },
-                {
-                    "hour": 19,
                     "percentage": 82
                 },
                 {
+                    "hour": 18,
+                    "percentage": 88
+                },
+                {
+                    "hour": 19,
+                    "percentage": 85
+                },
+                {
                     "hour": 20,
-                    "percentage": 70
+                    "percentage": 73
                 },
                 {
                     "hour": 21,
-                    "percentage": 54
+                    "percentage": 56
                 },
                 {
                     "hour": 22,
@@ -4064,47 +4036,47 @@
                 },
                 {
                     "hour": 11,
-                    "percentage": 48
+                    "percentage": 50
                 },
                 {
                     "hour": 12,
-                    "percentage": 55
+                    "percentage": 57
                 },
                 {
                     "hour": 13,
-                    "percentage": 58
-                },
-                {
-                    "hour": 14,
                     "percentage": 59
                 },
                 {
+                    "hour": 14,
+                    "percentage": 60
+                },
+                {
                     "hour": 15,
-                    "percentage": 62
+                    "percentage": 64
                 },
                 {
                     "hour": 16,
-                    "percentage": 70
-                },
-                {
-                    "hour": 17,
-                    "percentage": 81
-                },
-                {
-                    "hour": 18,
-                    "percentage": 87
-                },
-                {
-                    "hour": 19,
-                    "percentage": 84
-                },
-                {
-                    "hour": 20,
                     "percentage": 73
                 },
                 {
+                    "hour": 17,
+                    "percentage": 84
+                },
+                {
+                    "hour": 18,
+                    "percentage": 90
+                },
+                {
+                    "hour": 19,
+                    "percentage": 87
+                },
+                {
+                    "hour": 20,
+                    "percentage": 74
+                },
+                {
                     "hour": 21,
-                    "percentage": 56
+                    "percentage": 57
                 },
                 {
                     "hour": 22,
@@ -4134,51 +4106,51 @@
                 },
                 {
                     "hour": 10,
-                    "percentage": 41
+                    "percentage": 42
                 },
                 {
                     "hour": 11,
-                    "percentage": 50
+                    "percentage": 51
                 },
                 {
                     "hour": 12,
-                    "percentage": 58
+                    "percentage": 60
                 },
                 {
                     "hour": 13,
-                    "percentage": 61
+                    "percentage": 63
                 },
                 {
                     "hour": 14,
-                    "percentage": 62
+                    "percentage": 64
                 },
                 {
                     "hour": 15,
-                    "percentage": 65
+                    "percentage": 68
                 },
                 {
                     "hour": 16,
-                    "percentage": 74
+                    "percentage": 76
                 },
                 {
                     "hour": 17,
-                    "percentage": 85
-                },
-                {
-                    "hour": 18,
-                    "percentage": 90
-                },
-                {
-                    "hour": 19,
                     "percentage": 87
                 },
                 {
+                    "hour": 18,
+                    "percentage": 92
+                },
+                {
+                    "hour": 19,
+                    "percentage": 89
+                },
+                {
                     "hour": 20,
-                    "percentage": 74
+                    "percentage": 77
                 },
                 {
                     "hour": 21,
-                    "percentage": 58
+                    "percentage": 61
                 },
                 {
                     "hour": 22,
@@ -4208,15 +4180,15 @@
                 },
                 {
                     "hour": 10,
-                    "percentage": 42
+                    "percentage": 41
                 },
                 {
                     "hour": 11,
-                    "percentage": 50
+                    "percentage": 49
                 },
                 {
                     "hour": 12,
-                    "percentage": 57
+                    "percentage": 56
                 },
                 {
                     "hour": 13,
@@ -4224,19 +4196,19 @@
                 },
                 {
                     "hour": 14,
-                    "percentage": 61
+                    "percentage": 63
                 },
                 {
                     "hour": 15,
-                    "percentage": 66
+                    "percentage": 68
                 },
                 {
                     "hour": 16,
-                    "percentage": 74
+                    "percentage": 76
                 },
                 {
                     "hour": 17,
-                    "percentage": 85
+                    "percentage": 87
                 },
                 {
                     "hour": 18,
@@ -4252,7 +4224,7 @@
                 },
                 {
                     "hour": 21,
-                    "percentage": 59
+                    "percentage": 60
                 },
                 {
                     "hour": 22,
@@ -4281,36 +4253,40 @@
                     "percentage": 0
                 },
                 {
+                    "hour": 10,
+                    "percentage": 50
+                },
+                {
                     "hour": 11,
                     "percentage": 69
                 },
                 {
                     "hour": 12,
-                    "percentage": 79
+                    "percentage": 80
                 },
                 {
                     "hour": 13,
-                    "percentage": 75
-                },
-                {
-                    "hour": 14,
-                    "percentage": 69
-                },
-                {
-                    "hour": 15,
-                    "percentage": 69
-                },
-                {
-                    "hour": 16,
                     "percentage": 76
                 },
                 {
+                    "hour": 14,
+                    "percentage": 70
+                },
+                {
+                    "hour": 15,
+                    "percentage": 71
+                },
+                {
+                    "hour": 16,
+                    "percentage": 78
+                },
+                {
                     "hour": 17,
-                    "percentage": 88
+                    "percentage": 90
                 },
                 {
                     "hour": 18,
-                    "percentage": 95
+                    "percentage": 96
                 },
                 {
                     "hour": 19,
@@ -4318,7 +4294,7 @@
                 },
                 {
                     "hour": 20,
-                    "percentage": 85
+                    "percentage": 86
                 },
                 {
                     "hour": 21,
@@ -4364,15 +4340,15 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 69
+                    "percentage": 70
                 },
                 {
                     "hour": 14,
-                    "percentage": 74
+                    "percentage": 75
                 },
                 {
                     "hour": 15,
-                    "percentage": 80
+                    "percentage": 81
                 },
                 {
                     "hour": 16,
@@ -4409,16 +4385,12 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Mall Teraskota BSD dinilai nyaman dan strategis, dengan pilihan makanan yang beragam. Namun, ada beberapa masalah seperti antrian panjang di loket pembayaran dan pengepungan di area ojol.",
-        "topics": [
-            "Antrian",
-            "Loket",
-            "Kebersihan"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Taman Kota BSD",
-        "timestamp": "2026-01-09 10:28",
+        "timestamp": "2026-01-19 08:31",
         "latitude": "-6.2880094",
         "longitude": "106.6759069",
         "popular_times": {
@@ -4429,7 +4401,7 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 79
+                    "percentage": 78
                 },
                 {
                     "hour": 8,
@@ -4449,19 +4421,19 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 45
+                    "percentage": 46
                 },
                 {
                     "hour": 13,
-                    "percentage": 38
-                },
-                {
-                    "hour": 14,
                     "percentage": 39
                 },
                 {
+                    "hour": 14,
+                    "percentage": 40
+                },
+                {
                     "hour": 15,
-                    "percentage": 43
+                    "percentage": 44
                 },
                 {
                     "hour": 16,
@@ -4503,35 +4475,31 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 23
-                },
-                {
-                    "hour": 8,
-                    "percentage": 28
+                    "percentage": 22
                 },
                 {
                     "hour": 9,
-                    "percentage": 29
+                    "percentage": 28
                 },
                 {
                     "hour": 10,
-                    "percentage": 29
+                    "percentage": 28
                 },
                 {
                     "hour": 11,
-                    "percentage": 30
+                    "percentage": 28
                 },
                 {
                     "hour": 12,
-                    "percentage": 31
+                    "percentage": 28
                 },
                 {
                     "hour": 13,
-                    "percentage": 30
+                    "percentage": 29
                 },
                 {
                     "hour": 14,
-                    "percentage": 32
+                    "percentage": 31
                 },
                 {
                     "hour": 15,
@@ -4589,19 +4557,19 @@
                 },
                 {
                     "hour": 10,
-                    "percentage": 32
+                    "percentage": 31
                 },
                 {
                     "hour": 11,
-                    "percentage": 34
+                    "percentage": 32
                 },
                 {
                     "hour": 12,
-                    "percentage": 33
+                    "percentage": 31
                 },
                 {
                     "hour": 13,
-                    "percentage": 30
+                    "percentage": 29
                 },
                 {
                     "hour": 14,
@@ -4609,11 +4577,11 @@
                 },
                 {
                     "hour": 15,
-                    "percentage": 28
+                    "percentage": 30
                 },
                 {
                     "hour": 16,
-                    "percentage": 27
+                    "percentage": 29
                 },
                 {
                     "hour": 17,
@@ -4655,31 +4623,31 @@
                 },
                 {
                     "hour": 8,
-                    "percentage": 31
+                    "percentage": 30
                 },
                 {
                     "hour": 9,
-                    "percentage": 32
+                    "percentage": 31
                 },
                 {
                     "hour": 10,
-                    "percentage": 32
+                    "percentage": 31
                 },
                 {
                     "hour": 11,
-                    "percentage": 33
+                    "percentage": 31
                 },
                 {
                     "hour": 12,
-                    "percentage": 33
+                    "percentage": 32
                 },
                 {
                     "hour": 13,
-                    "percentage": 33
+                    "percentage": 32
                 },
                 {
                     "hour": 14,
-                    "percentage": 33
+                    "percentage": 32
                 },
                 {
                     "hour": 15,
@@ -4687,7 +4655,7 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 29
+                    "percentage": 28
                 },
                 {
                     "hour": 17,
@@ -4729,15 +4697,15 @@
                 },
                 {
                     "hour": 8,
-                    "percentage": 26
+                    "percentage": 27
                 },
                 {
                     "hour": 9,
-                    "percentage": 29
+                    "percentage": 30
                 },
                 {
                     "hour": 10,
-                    "percentage": 30
+                    "percentage": 31
                 },
                 {
                     "hour": 11,
@@ -4745,7 +4713,7 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 31
+                    "percentage": 30
                 },
                 {
                     "hour": 13,
@@ -4753,15 +4721,15 @@
                 },
                 {
                     "hour": 14,
-                    "percentage": 30
+                    "percentage": 31
                 },
                 {
                     "hour": 15,
-                    "percentage": 28
+                    "percentage": 30
                 },
                 {
                     "hour": 16,
-                    "percentage": 26
+                    "percentage": 27
                 },
                 {
                     "hour": 17,
@@ -4799,7 +4767,7 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 25
+                    "percentage": 24
                 },
                 {
                     "hour": 8,
@@ -4810,28 +4778,32 @@
                     "percentage": 32
                 },
                 {
-                    "hour": 11,
-                    "percentage": 34
-                },
-                {
-                    "hour": 12,
-                    "percentage": 33
-                },
-                {
-                    "hour": 13,
+                    "hour": 10,
                     "percentage": 31
                 },
                 {
-                    "hour": 14,
-                    "percentage": 30
+                    "hour": 11,
+                    "percentage": 32
                 },
                 {
-                    "hour": 15,
+                    "hour": 12,
+                    "percentage": 31
+                },
+                {
+                    "hour": 13,
                     "percentage": 29
                 },
                 {
-                    "hour": 16,
+                    "hour": 14,
+                    "percentage": 28
+                },
+                {
+                    "hour": 15,
                     "percentage": 27
+                },
+                {
+                    "hour": 16,
+                    "percentage": 26
                 },
                 {
                     "hour": 17,
@@ -4869,43 +4841,43 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 42
+                    "percentage": 40
                 },
                 {
                     "hour": 8,
-                    "percentage": 51
+                    "percentage": 48
                 },
                 {
                     "hour": 9,
-                    "percentage": 52
-                },
-                {
-                    "hour": 10,
                     "percentage": 49
                 },
                 {
+                    "hour": 10,
+                    "percentage": 45
+                },
+                {
                     "hour": 11,
-                    "percentage": 44
+                    "percentage": 40
                 },
                 {
                     "hour": 12,
-                    "percentage": 39
+                    "percentage": 36
                 },
                 {
                     "hour": 13,
-                    "percentage": 35
+                    "percentage": 33
                 },
                 {
                     "hour": 14,
-                    "percentage": 35
+                    "percentage": 33
                 },
                 {
                     "hour": 15,
-                    "percentage": 35
+                    "percentage": 34
                 },
                 {
                     "hour": 16,
-                    "percentage": 34
+                    "percentage": 33
                 },
                 {
                     "hour": 17,
@@ -4938,18 +4910,14 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Ulasan umumnya positif tentang Taman Kota BSD, menyoroti kebersihan yang baik, fasilitas olahraga lengkap, dan luas area taman. Namun, ada beberapa masalah seperti jalanan yang masih licin setelah hujan.",
-        "topics": [
-            "Kebersihan",
-            "Fasilitas Olahraga",
-            "Luas Area"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Taman Kota BSD 2",
-        "timestamp": "2026-01-09 10:28",
+        "timestamp": "2026-01-19 08:31",
         "latitude": "-6.3292468",
-        "longitude": "106.6807356",
+        "longitude": "106.6833105",
         "popular_times": {
             "Senin": [
                 {
@@ -4978,15 +4946,15 @@
                 },
                 {
                     "hour": 6,
-                    "percentage": 49
+                    "percentage": 48
                 },
                 {
                     "hour": 7,
-                    "percentage": 81
+                    "percentage": 80
                 },
                 {
                     "hour": 8,
-                    "percentage": 99
+                    "percentage": 98
                 },
                 {
                     "hour": 9,
@@ -4994,47 +4962,47 @@
                 },
                 {
                     "hour": 10,
-                    "percentage": 91
+                    "percentage": 92
                 },
                 {
                     "hour": 11,
-                    "percentage": 83
+                    "percentage": 84
                 },
                 {
                     "hour": 12,
-                    "percentage": 77
+                    "percentage": 79
                 },
                 {
                     "hour": 13,
-                    "percentage": 73
-                },
-                {
-                    "hour": 14,
-                    "percentage": 73
-                },
-                {
-                    "hour": 15,
-                    "percentage": 75
-                },
-                {
-                    "hour": 16,
                     "percentage": 76
                 },
                 {
+                    "hour": 14,
+                    "percentage": 77
+                },
+                {
+                    "hour": 15,
+                    "percentage": 80
+                },
+                {
+                    "hour": 16,
+                    "percentage": 79
+                },
+                {
                     "hour": 17,
-                    "percentage": 67
+                    "percentage": 70
                 },
                 {
                     "hour": 18,
-                    "percentage": 49
+                    "percentage": 51
                 },
                 {
                     "hour": 19,
-                    "percentage": 39
+                    "percentage": 41
                 },
                 {
                     "hour": 20,
-                    "percentage": 32
+                    "percentage": 33
                 },
                 {
                     "hour": 21,
@@ -5052,15 +5020,15 @@
             "Selasa": [
                 {
                     "hour": 0,
-                    "percentage": 9
+                    "percentage": 10
                 },
                 {
                     "hour": 1,
-                    "percentage": 6
+                    "percentage": 7
                 },
                 {
                     "hour": 2,
-                    "percentage": 5
+                    "percentage": 6
                 },
                 {
                     "hour": 3,
@@ -5083,48 +5051,44 @@
                     "percentage": 16
                 },
                 {
-                    "hour": 8,
-                    "percentage": 24
-                },
-                {
                     "hour": 9,
                     "percentage": 33
                 },
                 {
                     "hour": 10,
-                    "percentage": 40
+                    "percentage": 41
                 },
                 {
                     "hour": 11,
-                    "percentage": 44
+                    "percentage": 45
                 },
                 {
                     "hour": 12,
-                    "percentage": 43
+                    "percentage": 46
                 },
                 {
                     "hour": 13,
-                    "percentage": 41
+                    "percentage": 44
                 },
                 {
                     "hour": 14,
-                    "percentage": 39
-                },
-                {
-                    "hour": 15,
-                    "percentage": 41
-                },
-                {
-                    "hour": 16,
                     "percentage": 42
                 },
                 {
-                    "hour": 17,
+                    "hour": 15,
+                    "percentage": 42
+                },
+                {
+                    "hour": 16,
                     "percentage": 43
                 },
                 {
+                    "hour": 17,
+                    "percentage": 42
+                },
+                {
                     "hour": 18,
-                    "percentage": 38
+                    "percentage": 37
                 },
                 {
                     "hour": 19,
@@ -5140,11 +5104,11 @@
                 },
                 {
                     "hour": 22,
-                    "percentage": 20
+                    "percentage": 21
                 },
                 {
                     "hour": 23,
-                    "percentage": 15
+                    "percentage": 16
                 }
             ],
             "Rabu": [
@@ -5154,11 +5118,11 @@
                 },
                 {
                     "hour": 1,
-                    "percentage": 6
+                    "percentage": 7
                 },
                 {
                     "hour": 2,
-                    "percentage": 5
+                    "percentage": 6
                 },
                 {
                     "hour": 3,
@@ -5186,15 +5150,15 @@
                 },
                 {
                     "hour": 9,
-                    "percentage": 31
+                    "percentage": 30
                 },
                 {
                     "hour": 10,
-                    "percentage": 37
+                    "percentage": 36
                 },
                 {
                     "hour": 11,
-                    "percentage": 41
+                    "percentage": 40
                 },
                 {
                     "hour": 12,
@@ -5202,19 +5166,19 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 39
-                },
-                {
-                    "hour": 14,
                     "percentage": 40
                 },
                 {
-                    "hour": 15,
+                    "hour": 14,
                     "percentage": 41
                 },
                 {
+                    "hour": 15,
+                    "percentage": 43
+                },
+                {
                     "hour": 16,
-                    "percentage": 41
+                    "percentage": 43
                 },
                 {
                     "hour": 17,
@@ -5234,7 +5198,7 @@
                 },
                 {
                     "hour": 21,
-                    "percentage": 27
+                    "percentage": 26
                 },
                 {
                     "hour": 22,
@@ -5284,15 +5248,15 @@
                 },
                 {
                     "hour": 9,
-                    "percentage": 35
+                    "percentage": 34
                 },
                 {
                     "hour": 10,
-                    "percentage": 43
+                    "percentage": 42
                 },
                 {
                     "hour": 11,
-                    "percentage": 48
+                    "percentage": 46
                 },
                 {
                     "hour": 12,
@@ -5308,15 +5272,15 @@
                 },
                 {
                     "hour": 15,
-                    "percentage": 40
-                },
-                {
-                    "hour": 16,
                     "percentage": 41
                 },
                 {
+                    "hour": 16,
+                    "percentage": 42
+                },
+                {
                     "hour": 17,
-                    "percentage": 39
+                    "percentage": 40
                 },
                 {
                     "hour": 18,
@@ -5332,11 +5296,11 @@
                 },
                 {
                     "hour": 21,
-                    "percentage": 27
+                    "percentage": 26
                 },
                 {
                     "hour": 22,
-                    "percentage": 23
+                    "percentage": 22
                 },
                 {
                     "hour": 23,
@@ -5366,59 +5330,59 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 6
+                    "percentage": 7
                 },
                 {
                     "hour": 6,
-                    "percentage": 10
+                    "percentage": 11
                 },
                 {
                     "hour": 7,
-                    "percentage": 15
+                    "percentage": 17
                 },
                 {
                     "hour": 8,
-                    "percentage": 23
+                    "percentage": 26
                 },
                 {
                     "hour": 9,
-                    "percentage": 32
+                    "percentage": 35
                 },
                 {
                     "hour": 10,
-                    "percentage": 40
-                },
-                {
-                    "hour": 11,
-                    "percentage": 43
-                },
-                {
-                    "hour": 12,
                     "percentage": 44
                 },
                 {
+                    "hour": 11,
+                    "percentage": 48
+                },
+                {
+                    "hour": 12,
+                    "percentage": 49
+                },
+                {
                     "hour": 13,
-                    "percentage": 43
+                    "percentage": 49
                 },
                 {
                     "hour": 14,
-                    "percentage": 41
+                    "percentage": 47
                 },
                 {
                     "hour": 15,
-                    "percentage": 40
+                    "percentage": 45
                 },
                 {
                     "hour": 16,
-                    "percentage": 39
+                    "percentage": 44
                 },
                 {
                     "hour": 17,
-                    "percentage": 39
+                    "percentage": 41
                 },
                 {
                     "hour": 18,
-                    "percentage": 34
+                    "percentage": 35
                 },
                 {
                     "hour": 19,
@@ -5430,7 +5394,7 @@
                 },
                 {
                     "hour": 21,
-                    "percentage": 25
+                    "percentage": 24
                 },
                 {
                     "hour": 22,
@@ -5444,11 +5408,11 @@
             "Sabtu": [
                 {
                     "hour": 0,
-                    "percentage": 13
+                    "percentage": 18
                 },
                 {
                     "hour": 1,
-                    "percentage": 9
+                    "percentage": 10
                 },
                 {
                     "hour": 2,
@@ -5464,7 +5428,7 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 8
+                    "percentage": 9
                 },
                 {
                     "hour": 6,
@@ -5476,63 +5440,67 @@
                 },
                 {
                     "hour": 8,
-                    "percentage": 25
+                    "percentage": 26
                 },
                 {
                     "hour": 9,
-                    "percentage": 30
+                    "percentage": 31
+                },
+                {
+                    "hour": 10,
+                    "percentage": 35
                 },
                 {
                     "hour": 11,
-                    "percentage": 36
+                    "percentage": 38
                 },
                 {
                     "hour": 12,
-                    "percentage": 39
+                    "percentage": 41
                 },
                 {
                     "hour": 13,
-                    "percentage": 40
+                    "percentage": 44
                 },
                 {
                     "hour": 14,
-                    "percentage": 41
+                    "percentage": 47
                 },
                 {
                     "hour": 15,
-                    "percentage": 41
+                    "percentage": 50
                 },
                 {
                     "hour": 16,
-                    "percentage": 40
+                    "percentage": 52
                 },
                 {
                     "hour": 17,
-                    "percentage": 37
+                    "percentage": 50
                 },
                 {
                     "hour": 18,
-                    "percentage": 35
+                    "percentage": 45
                 },
                 {
                     "hour": 19,
-                    "percentage": 35
+                    "percentage": 45
                 },
                 {
                     "hour": 20,
-                    "percentage": 34
+                    "percentage": 46
                 },
                 {
                     "hour": 21,
-                    "percentage": 33
+                    "percentage": 46
                 },
                 {
                     "hour": 22,
-                    "percentage": 28
+                    "percentage": 40
                 },
                 {
                     "hour": 23,
-                    "percentage": 22
+                    "percentage": 30
                 }
             ],
             "Minggu": [
@@ -5558,540 +5526,35 @@
                 },
                 {
                     "hour": 5,
-                    "percentage": 13
-                },
-                {
-                    "hour": 6,
-                    "percentage": 24
-                },
-                {
-                    "hour": 7,
-                    "percentage": 39
-                },
-                {
-                    "hour": 8,
-                    "percentage": 50
-                },
-                {
-                    "hour": 9,
-                    "percentage": 55
-                },
-                {
-                    "hour": 10,
-                    "percentage": 58
-                },
-                {
-                    "hour": 11,
-                    "percentage": 61
-                },
-                {
-                    "hour": 12,
-                    "percentage": 60
-                },
-                {
-                    "hour": 13,
-                    "percentage": 58
-                },
-                {
-                    "hour": 14,
-                    "percentage": 58
-                },
-                {
-                    "hour": 15,
-                    "percentage": 60
-                },
-                {
-                    "hour": 16,
-                    "percentage": 60
-                },
-                {
-                    "hour": 17,
-                    "percentage": 60
-                },
-                {
-                    "hour": 18,
-                    "percentage": 54
-                },
-                {
-                    "hour": 19,
-                    "percentage": 50
-                },
-                {
-                    "hour": 20,
-                    "percentage": 45
-                },
-                {
-                    "hour": 21,
-                    "percentage": 40
-                },
-                {
-                    "hour": 22,
-                    "percentage": 33
-                },
-                {
-                    "hour": 23,
-                    "percentage": 26
-                }
-            ]
-        },
-        "sentiment_score": 3,
-        "summary": "Ulasan mengenai Taman Kota BSD 2 cenderung positif dengan sentimen yang terasa santai dan nyaman, meskipun ada beberapa masalah seperti kurangnya perawatan dan kebersihan.",
-        "topics": [
-            "Taman",
-            "Pengunjung",
-            "Perawatan"
-        ]
-    },
-    {
-        "name": "Taman Kota BSD 3",
-        "timestamp": "2026-01-09 10:28",
-        "latitude": "-6.3058201",
-        "longitude": "106.6498359",
-        "popular_times": {
-            "Senin": [
-                {
-                    "hour": 0,
-                    "percentage": 15
-                },
-                {
-                    "hour": 1,
-                    "percentage": 13
-                },
-                {
-                    "hour": 2,
-                    "percentage": 16
-                },
-                {
-                    "hour": 3,
-                    "percentage": 16
-                },
-                {
-                    "hour": 4,
-                    "percentage": 16
-                },
-                {
-                    "hour": 5,
                     "percentage": 12
                 },
                 {
                     "hour": 6,
-                    "percentage": 16
+                    "percentage": 23
                 },
                 {
                     "hour": 7,
-                    "percentage": 22
-                },
-                {
-                    "hour": 8,
-                    "percentage": 28
-                },
-                {
-                    "hour": 9,
-                    "percentage": 30
-                },
-                {
-                    "hour": 10,
-                    "percentage": 30
-                },
-                {
-                    "hour": 11,
-                    "percentage": 27
-                },
-                {
-                    "hour": 12,
-                    "percentage": 27
-                },
-                {
-                    "hour": 13,
-                    "percentage": 34
-                },
-                {
-                    "hour": 14,
-                    "percentage": 43
-                },
-                {
-                    "hour": 15,
-                    "percentage": 44
-                },
-                {
-                    "hour": 16,
-                    "percentage": 43
-                },
-                {
-                    "hour": 17,
-                    "percentage": 43
-                },
-                {
-                    "hour": 18,
-                    "percentage": 50
-                },
-                {
-                    "hour": 19,
-                    "percentage": 46
-                },
-                {
-                    "hour": 20,
-                    "percentage": 48
-                },
-                {
-                    "hour": 21,
-                    "percentage": 44
-                },
-                {
-                    "hour": 22,
-                    "percentage": 40
-                },
-                {
-                    "hour": 23,
-                    "percentage": 26
-                }
-            ],
-            "Selasa": [
-                {
-                    "hour": 0,
-                    "percentage": 22
-                },
-                {
-                    "hour": 1,
-                    "percentage": 16
-                },
-                {
-                    "hour": 2,
-                    "percentage": 12
-                },
-                {
-                    "hour": 3,
-                    "percentage": 6
-                },
-                {
-                    "hour": 4,
-                    "percentage": 4
-                },
-                {
-                    "hour": 5,
-                    "percentage": 9
-                },
-                {
-                    "hour": 6,
-                    "percentage": 16
-                },
-                {
-                    "hour": 7,
-                    "percentage": 22
-                },
-                {
-                    "hour": 8,
-                    "percentage": 30
-                },
-                {
-                    "hour": 9,
                     "percentage": 37
                 },
                 {
-                    "hour": 10,
+                    "hour": 8,
                     "percentage": 48
                 },
                 {
-                    "hour": 11,
-                    "percentage": 46
-                },
-                {
-                    "hour": 12,
-                    "percentage": 50
-                },
-                {
-                    "hour": 13,
-                    "percentage": 57
-                },
-                {
-                    "hour": 14,
-                    "percentage": 67
-                },
-                {
-                    "hour": 15,
-                    "percentage": 77
-                },
-                {
-                    "hour": 16,
-                    "percentage": 79
-                },
-                {
-                    "hour": 17,
-                    "percentage": 86
-                },
-                {
-                    "hour": 18,
-                    "percentage": 83
-                },
-                {
-                    "hour": 19,
-                    "percentage": 80
-                },
-                {
-                    "hour": 20,
-                    "percentage": 67
-                },
-                {
-                    "hour": 21,
-                    "percentage": 55
-                },
-                {
-                    "hour": 22,
-                    "percentage": 40
-                },
-                {
-                    "hour": 23,
-                    "percentage": 30
-                }
-            ],
-            "Rabu": [
-                {
-                    "hour": 0,
-                    "percentage": 25
-                },
-                {
-                    "hour": 1,
-                    "percentage": 15
-                },
-                {
-                    "hour": 2,
-                    "percentage": 13
-                },
-                {
-                    "hour": 3,
-                    "percentage": 16
-                },
-                {
-                    "hour": 4,
-                    "percentage": 21
-                },
-                {
-                    "hour": 5,
-                    "percentage": 30
-                },
-                {
-                    "hour": 6,
-                    "percentage": 32
-                },
-                {
-                    "hour": 7,
-                    "percentage": 44
-                },
-                {
-                    "hour": 8,
+                    "hour": 9,
                     "percentage": 53
                 },
                 {
-                    "hour": 9,
-                    "percentage": 60
-                },
-                {
                     "hour": 10,
-                    "percentage": 60
-                },
-                {
-                    "hour": 11,
-                    "percentage": 53
-                },
-                {
-                    "hour": 12,
-                    "percentage": 51
-                },
-                {
-                    "hour": 13,
-                    "percentage": 50
-                },
-                {
-                    "hour": 14,
-                    "percentage": 54
-                },
-                {
-                    "hour": 15,
-                    "percentage": 71
-                },
-                {
-                    "hour": 16,
-                    "percentage": 87
-                },
-                {
-                    "hour": 17,
-                    "percentage": 100
-                },
-                {
-                    "hour": 18,
-                    "percentage": 92
-                },
-                {
-                    "hour": 19,
-                    "percentage": 79
-                },
-                {
-                    "hour": 20,
-                    "percentage": 67
-                },
-                {
-                    "hour": 21,
-                    "percentage": 60
-                },
-                {
-                    "hour": 22,
-                    "percentage": 46
-                },
-                {
-                    "hour": 23,
-                    "percentage": 39
-                }
-            ],
-            "Kamis": [
-                {
-                    "hour": 0,
-                    "percentage": 24
-                },
-                {
-                    "hour": 1,
-                    "percentage": 9
-                },
-                {
-                    "hour": 2,
-                    "percentage": 6
-                },
-                {
-                    "hour": 3,
-                    "percentage": 9
-                },
-                {
-                    "hour": 4,
-                    "percentage": 18
-                },
-                {
-                    "hour": 5,
-                    "percentage": 21
-                },
-                {
-                    "hour": 6,
-                    "percentage": 24
-                },
-                {
-                    "hour": 7,
-                    "percentage": 31
-                },
-                {
-                    "hour": 8,
-                    "percentage": 44
-                },
-                {
-                    "hour": 9,
-                    "percentage": 63
-                },
-                {
-                    "hour": 10,
-                    "percentage": 74
-                },
-                {
-                    "hour": 11,
-                    "percentage": 71
-                },
-                {
-                    "hour": 12,
-                    "percentage": 66
-                },
-                {
-                    "hour": 13,
                     "percentage": 56
                 },
                 {
-                    "hour": 14,
-                    "percentage": 63
-                },
-                {
-                    "hour": 15,
-                    "percentage": 74
-                },
-                {
-                    "hour": 16,
-                    "percentage": 87
-                },
-                {
-                    "hour": 17,
-                    "percentage": 87
-                },
-                {
-                    "hour": 18,
-                    "percentage": 79
-                },
-                {
-                    "hour": 19,
-                    "percentage": 71
-                },
-                {
-                    "hour": 20,
-                    "percentage": 66
-                },
-                {
-                    "hour": 21,
-                    "percentage": 55
-                },
-                {
-                    "hour": 22,
-                    "percentage": 54
-                },
-                {
-                    "hour": 23,
-                    "percentage": 38
-                }
-            ],
-            "Jumat": [
-                {
-                    "hour": 0,
-                    "percentage": 27
-                },
-                {
-                    "hour": 1,
-                    "percentage": 22
-                },
-                {
-                    "hour": 2,
-                    "percentage": 12
-                },
-                {
-                    "hour": 3,
-                    "percentage": 8
-                },
-                {
-                    "hour": 4,
-                    "percentage": 6
-                },
-                {
-                    "hour": 5,
-                    "percentage": 12
-                },
-                {
-                    "hour": 6,
-                    "percentage": 18
-                },
-                {
-                    "hour": 7,
-                    "percentage": 28
-                },
-                {
-                    "hour": 8,
-                    "percentage": 39
-                },
-                {
-                    "hour": 9,
-                    "percentage": 55
-                },
-                {
-                    "hour": 10,
-                    "percentage": 67
-                },
-                {
                     "hour": 11,
-                    "percentage": 71
+                    "percentage": 59
                 },
                 {
                     "hour": 12,
-                    "percentage": 67
+                    "percentage": 59
                 },
                 {
                     "hour": 13,
@@ -6099,27 +5562,234 @@
                 },
                 {
                     "hour": 14,
-                    "percentage": 57
+                    "percentage": 59
                 },
                 {
                     "hour": 15,
-                    "percentage": 69
+                    "percentage": 62
                 },
                 {
                     "hour": 16,
-                    "percentage": 77
+                    "percentage": 61
                 },
                 {
                     "hour": 17,
-                    "percentage": 83
+                    "percentage": 59
                 },
                 {
                     "hour": 18,
-                    "percentage": 77
+                    "percentage": 52
                 },
                 {
                     "hour": 19,
-                    "percentage": 66
+                    "percentage": 47
+                },
+                {
+                    "hour": 20,
+                    "percentage": 43
+                },
+                {
+                    "hour": 21,
+                    "percentage": 39
+                },
+                {
+                    "hour": 22,
+                    "percentage": 33
+                },
+                {
+                    "hour": 23,
+                    "percentage": 26
+                }
+            ]
+        },
+        "sentiment_score": 3,
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
+    },
+    {
+        "name": "Taman Kota BSD 3",
+        "timestamp": "2026-01-19 08:31",
+        "latitude": "-6.3058201",
+        "longitude": "106.6498359",
+        "popular_times": {
+            "Senin": [
+                {
+                    "hour": 0,
+                    "percentage": 11
+                },
+                {
+                    "hour": 1,
+                    "percentage": 11
+                },
+                {
+                    "hour": 2,
+                    "percentage": 18
+                },
+                {
+                    "hour": 3,
+                    "percentage": 18
+                },
+                {
+                    "hour": 4,
+                    "percentage": 16
+                },
+                {
+                    "hour": 5,
+                    "percentage": 10
+                },
+                {
+                    "hour": 6,
+                    "percentage": 12
+                },
+                {
+                    "hour": 7,
+                    "percentage": 20
+                },
+                {
+                    "hour": 8,
+                    "percentage": 27
+                },
+                {
+                    "hour": 9,
+                    "percentage": 34
+                },
+                {
+                    "hour": 10,
+                    "percentage": 34
+                },
+                {
+                    "hour": 11,
+                    "percentage": 34
+                },
+                {
+                    "hour": 12,
+                    "percentage": 32
+                },
+                {
+                    "hour": 13,
+                    "percentage": 43
+                },
+                {
+                    "hour": 14,
+                    "percentage": 54
+                },
+                {
+                    "hour": 15,
+                    "percentage": 58
+                },
+                {
+                    "hour": 16,
+                    "percentage": 55
+                },
+                {
+                    "hour": 17,
+                    "percentage": 51
+                },
+                {
+                    "hour": 18,
+                    "percentage": 58
+                },
+                {
+                    "hour": 19,
+                    "percentage": 54
+                },
+                {
+                    "hour": 20,
+                    "percentage": 53
+                },
+                {
+                    "hour": 21,
+                    "percentage": 41
+                },
+                {
+                    "hour": 22,
+                    "percentage": 34
+                },
+                {
+                    "hour": 23,
+                    "percentage": 20
+                }
+            ],
+            "Selasa": [
+                {
+                    "hour": 0,
+                    "percentage": 20
+                },
+                {
+                    "hour": 1,
+                    "percentage": 18
+                },
+                {
+                    "hour": 2,
+                    "percentage": 8
+                },
+                {
+                    "hour": 3,
+                    "percentage": 5
+                },
+                {
+                    "hour": 4,
+                    "percentage": 5
+                },
+                {
+                    "hour": 5,
+                    "percentage": 11
+                },
+                {
+                    "hour": 6,
+                    "percentage": 17
+                },
+                {
+                    "hour": 7,
+                    "percentage": 25
+                },
+                {
+                    "hour": 8,
+                    "percentage": 34
+                },
+                {
+                    "hour": 9,
+                    "percentage": 39
+                },
+                {
+                    "hour": 10,
+                    "percentage": 48
+                },
+                {
+                    "hour": 11,
+                    "percentage": 44
+                },
+                {
+                    "hour": 12,
+                    "percentage": 48
+                },
+                {
+                    "hour": 13,
+                    "percentage": 54
+                },
+                {
+                    "hour": 14,
+                    "percentage": 63
+                },
+                {
+                    "hour": 15,
+                    "percentage": 72
+                },
+                {
+                    "hour": 16,
+                    "percentage": 74
+                },
+                {
+                    "hour": 17,
+                    "percentage": 81
+                },
+                {
+                    "hour": 18,
+                    "percentage": 74
+                },
+                {
+                    "hour": 19,
+                    "percentage": 69
                 },
                 {
                     "hour": 20,
@@ -6127,21 +5797,315 @@
                 },
                 {
                     "hour": 21,
+                    "percentage": 48
+                },
+                {
+                    "hour": 22,
+                    "percentage": 32
+                },
+                {
+                    "hour": 23,
+                    "percentage": 27
+                }
+            ],
+            "Rabu": [
+                {
+                    "hour": 0,
+                    "percentage": 29
+                },
+                {
+                    "hour": 1,
+                    "percentage": 21
+                },
+                {
+                    "hour": 2,
+                    "percentage": 13
+                },
+                {
+                    "hour": 3,
+                    "percentage": 17
+                },
+                {
+                    "hour": 4,
+                    "percentage": 20
+                },
+                {
+                    "hour": 5,
+                    "percentage": 30
+                },
+                {
+                    "hour": 6,
+                    "percentage": 30
+                },
+                {
+                    "hour": 7,
+                    "percentage": 44
+                },
+                {
+                    "hour": 8,
+                    "percentage": 49
+                },
+                {
+                    "hour": 9,
+                    "percentage": 59
+                },
+                {
+                    "hour": 10,
+                    "percentage": 59
+                },
+                {
+                    "hour": 11,
+                    "percentage": 50
+                },
+                {
+                    "hour": 12,
+                    "percentage": 49
+                },
+                {
+                    "hour": 13,
+                    "percentage": 49
+                },
+                {
+                    "hour": 14,
+                    "percentage": 55
+                },
+                {
+                    "hour": 15,
+                    "percentage": 72
+                },
+                {
+                    "hour": 16,
+                    "percentage": 91
+                },
+                {
+                    "hour": 17,
+                    "percentage": 100
+                },
+                {
+                    "hour": 18,
+                    "percentage": 91
+                },
+                {
+                    "hour": 19,
+                    "percentage": 78
+                },
+                {
+                    "hour": 20,
+                    "percentage": 68
+                },
+                {
+                    "hour": 21,
+                    "percentage": 60
+                },
+                {
+                    "hour": 22,
+                    "percentage": 45
+                },
+                {
+                    "hour": 23,
+                    "percentage": 41
+                }
+            ],
+            "Kamis": [
+                {
+                    "hour": 0,
+                    "percentage": 24
+                },
+                {
+                    "hour": 1,
+                    "percentage": 13
+                },
+                {
+                    "hour": 2,
+                    "percentage": 11
+                },
+                {
+                    "hour": 3,
+                    "percentage": 12
+                },
+                {
+                    "hour": 4,
+                    "percentage": 18
+                },
+                {
+                    "hour": 5,
+                    "percentage": 20
+                },
+                {
+                    "hour": 6,
+                    "percentage": 21
+                },
+                {
+                    "hour": 7,
+                    "percentage": 27
+                },
+                {
+                    "hour": 8,
+                    "percentage": 40
+                },
+                {
+                    "hour": 9,
+                    "percentage": 62
+                },
+                {
+                    "hour": 10,
+                    "percentage": 68
+                },
+                {
+                    "hour": 11,
+                    "percentage": 64
+                },
+                {
+                    "hour": 12,
+                    "percentage": 55
+                },
+                {
+                    "hour": 13,
+                    "percentage": 48
+                },
+                {
+                    "hour": 14,
+                    "percentage": 56
+                },
+                {
+                    "hour": 15,
+                    "percentage": 67
+                },
+                {
+                    "hour": 16,
+                    "percentage": 78
+                },
+                {
+                    "hour": 17,
+                    "percentage": 78
+                },
+                {
+                    "hour": 18,
+                    "percentage": 73
+                },
+                {
+                    "hour": 19,
+                    "percentage": 67
+                },
+                {
+                    "hour": 20,
+                    "percentage": 62
+                },
+                {
+                    "hour": 21,
                     "percentage": 49
                 },
                 {
                     "hour": 22,
-                    "percentage": 44
+                    "percentage": 49
                 },
                 {
                     "hour": 23,
-                    "percentage": 34
+                    "percentage": 35
+                }
+            ],
+            "Jumat": [
+                {
+                    "hour": 0,
+                    "percentage": 26
+                },
+                {
+                    "hour": 1,
+                    "percentage": 21
+                },
+                {
+                    "hour": 2,
+                    "percentage": 10
+                },
+                {
+                    "hour": 3,
+                    "percentage": 6
+                },
+                {
+                    "hour": 4,
+                    "percentage": 5
+                },
+                {
+                    "hour": 5,
+                    "percentage": 12
+                },
+                {
+                    "hour": 6,
+                    "percentage": 20
+                },
+                {
+                    "hour": 7,
+                    "percentage": 31
+                },
+                {
+                    "hour": 8,
+                    "percentage": 37
+                },
+                {
+                    "hour": 9,
+                    "percentage": 49
+                },
+                {
+                    "hour": 10,
+                    "percentage": 58
+                },
+                {
+                    "hour": 11,
+                    "percentage": 65
+                },
+                {
+                    "hour": 12,
+                    "percentage": 64
+                },
+                {
+                    "hour": 13,
+                    "percentage": 56
+                },
+                {
+                    "hour": 14,
+                    "percentage": 53
+                },
+                {
+                    "hour": 15,
+                    "percentage": 62
+                },
+                {
+                    "hour": 16,
+                    "percentage": 69
+                },
+                {
+                    "hour": 17,
+                    "percentage": 73
+                },
+                {
+                    "hour": 18,
+                    "percentage": 72
+                },
+                {
+                    "hour": 19,
+                    "percentage": 65
+                },
+                {
+                    "hour": 20,
+                    "percentage": 54
+                },
+                {
+                    "hour": 21,
+                    "percentage": 46
+                },
+                {
+                    "hour": 22,
+                    "percentage": 39
+                },
+                {
+                    "hour": 23,
+                    "percentage": 35
                 }
             ],
             "Sabtu": [
                 {
                     "hour": 0,
-                    "percentage": 14
+                    "percentage": 13
                 },
                 {
                     "hour": 1,
@@ -6153,83 +6117,87 @@
                 },
                 {
                     "hour": 3,
-                    "percentage": 6
+                    "percentage": 7
                 },
                 {
                     "hour": 4,
-                    "percentage": 9
+                    "percentage": 11
                 },
                 {
                     "hour": 5,
-                    "percentage": 16
+                    "percentage": 18
                 },
                 {
                     "hour": 6,
-                    "percentage": 27
+                    "percentage": 29
                 },
                 {
                     "hour": 7,
-                    "percentage": 33
-                },
-                {
-                    "hour": 8,
-                    "percentage": 42
-                },
-                {
-                    "hour": 9,
-                    "percentage": 50
-                },
-                {
-                    "hour": 11,
-                    "percentage": 51
-                },
-                {
-                    "hour": 12,
-                    "percentage": 53
-                },
-                {
-                    "hour": 13,
-                    "percentage": 48
-                },
-                {
-                    "hour": 14,
-                    "percentage": 56
-                },
-                {
-                    "hour": 15,
-                    "percentage": 72
-                },
-                {
-                    "hour": 16,
-                    "percentage": 84
-                },
-                {
-                    "hour": 17,
-                    "percentage": 78
-                },
-                {
-                    "hour": 18,
-                    "percentage": 57
-                },
-                {
-                    "hour": 19,
-                    "percentage": 44
-                },
-                {
-                    "hour": 20,
                     "percentage": 36
                 },
                 {
-                    "hour": 21,
+                    "hour": 8,
+                    "percentage": 40
+                },
+                {
+                    "hour": 9,
+                    "percentage": 41
+                },
+                {
+                    "hour": 10,
+                    "percentage": 44
+                },
+                {
+                    "hour": 11,
+                    "percentage": 44
+                },
+                {
+                    "hour": 12,
+                    "percentage": 44
+                },
+                {
+                    "hour": 13,
+                    "percentage": 44
+                },
+                {
+                    "hour": 14,
+                    "percentage": 54
+                },
+                {
+                    "hour": 15,
+                    "percentage": 70
+                },
+                {
+                    "hour": 16,
+                    "percentage": 89
+                },
+                {
+                    "hour": 17,
+                    "percentage": 92
+                },
+                {
+                    "hour": 18,
+                    "percentage": 67
+                },
+                {
+                    "hour": 19,
+                    "percentage": 50
+                },
+                {
+                    "hour": 20,
                     "percentage": 37
                 },
                 {
+                    "hour": 21,
+                    "percentage": 34
+                },
+                {
                     "hour": 22,
-                    "percentage": 32
+                    "percentage": 29
                 },
                 {
                     "hour": 23,
-                    "percentage": 28
+                    "percentage": 25
                 }
             ],
             "Minggu": [
@@ -6239,23 +6207,23 @@
                 },
                 {
                     "hour": 1,
-                    "percentage": 20
+                    "percentage": 17
                 },
                 {
                     "hour": 2,
-                    "percentage": 19
+                    "percentage": 17
                 },
                 {
                     "hour": 3,
-                    "percentage": 20
+                    "percentage": 18
                 },
                 {
                     "hour": 4,
-                    "percentage": 25
+                    "percentage": 24
                 },
                 {
                     "hour": 5,
-                    "percentage": 30
+                    "percentage": 29
                 },
                 {
                     "hour": 6,
@@ -6263,19 +6231,19 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 44
+                    "percentage": 48
                 },
                 {
                     "hour": 8,
-                    "percentage": 40
+                    "percentage": 43
                 },
                 {
                     "hour": 9,
-                    "percentage": 38
+                    "percentage": 39
                 },
                 {
                     "hour": 10,
-                    "percentage": 44
+                    "percentage": 43
                 },
                 {
                     "hour": 11,
@@ -6283,65 +6251,61 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 56
+                    "percentage": 60
                 },
                 {
                     "hour": 13,
-                    "percentage": 61
+                    "percentage": 67
                 },
                 {
                     "hour": 14,
-                    "percentage": 65
+                    "percentage": 72
                 },
                 {
                     "hour": 15,
-                    "percentage": 71
+                    "percentage": 75
                 },
                 {
                     "hour": 16,
-                    "percentage": 74
+                    "percentage": 73
                 },
                 {
                     "hour": 17,
-                    "percentage": 69
+                    "percentage": 67
                 },
                 {
                     "hour": 18,
-                    "percentage": 65
+                    "percentage": 62
                 },
                 {
                     "hour": 19,
-                    "percentage": 56
+                    "percentage": 55
                 },
                 {
                     "hour": 20,
-                    "percentage": 48
+                    "percentage": 46
                 },
                 {
                     "hour": 21,
-                    "percentage": 43
+                    "percentage": 40
                 },
                 {
                     "hour": 22,
-                    "percentage": 33
+                    "percentage": 34
                 },
                 {
                     "hour": 23,
-                    "percentage": 28
+                    "percentage": 31
                 }
             ]
         },
-        "sentiment_score": 1,
-        "summary": "Ulasan umumnya negatif dengan sentimen dominan, menyoroti kurang terawatnya taman dan banyaknya sampah, meskipun beberapa poin positif seperti suasana yang sepi dan nyaman.",
-        "topics": [
-            "Kondisi Taman",
-            "Fasilitas",
-            "Kebersihan"
-        ]
+        "sentiment_score": 3,
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Pasar Modern BSD",
-        "timestamp": "2026-01-09 10:28",
+        "timestamp": "2026-01-19 08:31",
         "latitude": "-6.3045281",
         "longitude": "106.6848223",
         "popular_times": {
@@ -6360,7 +6324,7 @@
                 },
                 {
                     "hour": 9,
-                    "percentage": 97
+                    "percentage": 96
                 },
                 {
                     "hour": 10,
@@ -6376,11 +6340,11 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 54
+                    "percentage": 55
                 },
                 {
                     "hour": 14,
-                    "percentage": 42
+                    "percentage": 43
                 },
                 {
                     "hour": 15,
@@ -6392,23 +6356,23 @@
                 },
                 {
                     "hour": 17,
-                    "percentage": 41
+                    "percentage": 42
                 },
                 {
                     "hour": 18,
-                    "percentage": 49
+                    "percentage": 50
                 },
                 {
                     "hour": 19,
-                    "percentage": 53
+                    "percentage": 54
                 },
                 {
                     "hour": 20,
-                    "percentage": 47
+                    "percentage": 48
                 },
                 {
                     "hour": 21,
-                    "percentage": 36
+                    "percentage": 37
                 },
                 {
                     "hour": 22,
@@ -6426,63 +6390,59 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 51
-                },
-                {
-                    "hour": 8,
-                    "percentage": 62
+                    "percentage": 52
                 },
                 {
                     "hour": 9,
-                    "percentage": 67
+                    "percentage": 69
                 },
                 {
                     "hour": 10,
-                    "percentage": 67
+                    "percentage": 69
                 },
                 {
                     "hour": 11,
-                    "percentage": 64
+                    "percentage": 66
                 },
                 {
                     "hour": 12,
-                    "percentage": 59
+                    "percentage": 60
                 },
                 {
                     "hour": 13,
-                    "percentage": 51
+                    "percentage": 52
                 },
                 {
                     "hour": 14,
-                    "percentage": 43
+                    "percentage": 45
                 },
                 {
                     "hour": 15,
-                    "percentage": 39
+                    "percentage": 40
                 },
                 {
                     "hour": 16,
-                    "percentage": 40
+                    "percentage": 41
                 },
                 {
                     "hour": 17,
-                    "percentage": 43
+                    "percentage": 45
                 },
                 {
                     "hour": 18,
-                    "percentage": 46
+                    "percentage": 48
                 },
                 {
                     "hour": 19,
-                    "percentage": 46
+                    "percentage": 48
                 },
                 {
                     "hour": 20,
-                    "percentage": 40
+                    "percentage": 41
                 },
                 {
                     "hour": 21,
-                    "percentage": 30
+                    "percentage": 32
                 },
                 {
                     "hour": 22,
@@ -6500,35 +6460,35 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 54
+                    "percentage": 55
                 },
                 {
                     "hour": 8,
-                    "percentage": 65
+                    "percentage": 66
                 },
                 {
                     "hour": 9,
-                    "percentage": 69
+                    "percentage": 71
                 },
                 {
                     "hour": 10,
-                    "percentage": 68
+                    "percentage": 71
                 },
                 {
                     "hour": 11,
-                    "percentage": 64
+                    "percentage": 67
                 },
                 {
                     "hour": 12,
-                    "percentage": 59
+                    "percentage": 62
                 },
                 {
                     "hour": 13,
-                    "percentage": 51
+                    "percentage": 54
                 },
                 {
                     "hour": 14,
-                    "percentage": 44
+                    "percentage": 45
                 },
                 {
                     "hour": 15,
@@ -6536,27 +6496,27 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 39
+                    "percentage": 40
                 },
                 {
                     "hour": 17,
-                    "percentage": 43
+                    "percentage": 44
                 },
                 {
                     "hour": 18,
-                    "percentage": 46
+                    "percentage": 48
                 },
                 {
                     "hour": 19,
-                    "percentage": 45
+                    "percentage": 47
                 },
                 {
                     "hour": 20,
-                    "percentage": 39
+                    "percentage": 41
                 },
                 {
                     "hour": 21,
-                    "percentage": 30
+                    "percentage": 32
                 },
                 {
                     "hour": 22,
@@ -6574,39 +6534,39 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 53
+                    "percentage": 55
                 },
                 {
                     "hour": 8,
-                    "percentage": 65
+                    "percentage": 68
                 },
                 {
                     "hour": 9,
-                    "percentage": 70
+                    "percentage": 73
                 },
                 {
                     "hour": 10,
-                    "percentage": 69
+                    "percentage": 73
                 },
                 {
                     "hour": 11,
-                    "percentage": 66
+                    "percentage": 69
                 },
                 {
                     "hour": 12,
-                    "percentage": 60
+                    "percentage": 63
                 },
                 {
                     "hour": 13,
-                    "percentage": 53
+                    "percentage": 54
                 },
                 {
                     "hour": 14,
-                    "percentage": 45
+                    "percentage": 46
                 },
                 {
                     "hour": 15,
-                    "percentage": 40
+                    "percentage": 41
                 },
                 {
                     "hour": 16,
@@ -6622,7 +6582,7 @@
                 },
                 {
                     "hour": 19,
-                    "percentage": 46
+                    "percentage": 47
                 },
                 {
                     "hour": 20,
@@ -6630,7 +6590,7 @@
                 },
                 {
                     "hour": 21,
-                    "percentage": 33
+                    "percentage": 34
                 },
                 {
                     "hour": 22,
@@ -6648,7 +6608,7 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 51
+                    "percentage": 49
                 },
                 {
                     "hour": 8,
@@ -6656,31 +6616,31 @@
                 },
                 {
                     "hour": 9,
-                    "percentage": 66
-                },
-                {
-                    "hour": 10,
                     "percentage": 67
                 },
                 {
+                    "hour": 10,
+                    "percentage": 68
+                },
+                {
                     "hour": 11,
-                    "percentage": 66
+                    "percentage": 65
                 },
                 {
                     "hour": 12,
-                    "percentage": 61
+                    "percentage": 60
                 },
                 {
                     "hour": 13,
-                    "percentage": 53
+                    "percentage": 51
                 },
                 {
                     "hour": 14,
-                    "percentage": 45
+                    "percentage": 43
                 },
                 {
                     "hour": 15,
-                    "percentage": 40
+                    "percentage": 38
                 },
                 {
                     "hour": 16,
@@ -6692,19 +6652,19 @@
                 },
                 {
                     "hour": 18,
-                    "percentage": 46
+                    "percentage": 47
                 },
                 {
                     "hour": 19,
-                    "percentage": 46
+                    "percentage": 47
                 },
                 {
                     "hour": 20,
-                    "percentage": 40
+                    "percentage": 42
                 },
                 {
                     "hour": 21,
-                    "percentage": 31
+                    "percentage": 32
                 },
                 {
                     "hour": 22,
@@ -6726,23 +6686,27 @@
                 },
                 {
                     "hour": 8,
-                    "percentage": 67
+                    "percentage": 69
                 },
                 {
                     "hour": 9,
-                    "percentage": 72
+                    "percentage": 75
+                },
+                {
+                    "hour": 10,
+                    "percentage": 75
                 },
                 {
                     "hour": 11,
-                    "percentage": 70
+                    "percentage": 71
                 },
                 {
                     "hour": 12,
-                    "percentage": 64
+                    "percentage": 65
                 },
                 {
                     "hour": 13,
-                    "percentage": 55
+                    "percentage": 56
                 },
                 {
                     "hour": 14,
@@ -6754,19 +6718,19 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 38
+                    "percentage": 39
                 },
                 {
                     "hour": 17,
-                    "percentage": 42
+                    "percentage": 43
                 },
                 {
                     "hour": 18,
-                    "percentage": 46
+                    "percentage": 47
                 },
                 {
                     "hour": 19,
-                    "percentage": 49
+                    "percentage": 50
                 },
                 {
                     "hour": 20,
@@ -6774,7 +6738,7 @@
                 },
                 {
                     "hour": 21,
-                    "percentage": 39
+                    "percentage": 38
                 },
                 {
                     "hour": 22,
@@ -6812,11 +6776,11 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 72
+                    "percentage": 71
                 },
                 {
                     "hour": 13,
-                    "percentage": 60
+                    "percentage": 59
                 },
                 {
                     "hour": 14,
@@ -6844,11 +6808,11 @@
                 },
                 {
                     "hour": 20,
-                    "percentage": 59
+                    "percentage": 60
                 },
                 {
                     "hour": 21,
-                    "percentage": 48
+                    "percentage": 49
                 },
                 {
                     "hour": 22,
@@ -6861,27 +6825,23 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Pasar Modern BSD dinilai positif dengan suasana yang rapi dan bersih, menyajikan aneka makanan dan minuman berkualitas. Namun ada beberapa kekurangan seperti harga yang mahal.",
-        "topics": [
-            "Suasana",
-            "Produk",
-            "Harga"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     },
     {
         "name": "Alun-Alun Pamulang",
-        "timestamp": "2026-01-09 10:29",
+        "timestamp": "2026-01-19 08:32",
         "latitude": "-6.3443974",
         "longitude": "106.7349785",
         "popular_times": {
             "Senin": [
                 {
                     "hour": 0,
-                    "percentage": 13
+                    "percentage": 12
                 },
                 {
                     "hour": 1,
-                    "percentage": 6
+                    "percentage": 5
                 },
                 {
                     "hour": 2,
@@ -6893,19 +6853,19 @@
                 },
                 {
                     "hour": 4,
-                    "percentage": 6
+                    "percentage": 5
                 },
                 {
                     "hour": 5,
-                    "percentage": 15
+                    "percentage": 14
                 },
                 {
                     "hour": 6,
-                    "percentage": 28
+                    "percentage": 27
                 },
                 {
                     "hour": 7,
-                    "percentage": 38
+                    "percentage": 37
                 },
                 {
                     "hour": 8,
@@ -6941,7 +6901,7 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 30
+                    "percentage": 31
                 },
                 {
                     "hour": 17,
@@ -6953,11 +6913,11 @@
                 },
                 {
                     "hour": 19,
-                    "percentage": 56
+                    "percentage": 57
                 },
                 {
                     "hour": 20,
-                    "percentage": 57
+                    "percentage": 58
                 },
                 {
                     "hour": 21,
@@ -6975,7 +6935,7 @@
             "Selasa": [
                 {
                     "hour": 0,
-                    "percentage": 10
+                    "percentage": 11
                 },
                 {
                     "hour": 1,
@@ -7006,10 +6966,6 @@
                     "percentage": 15
                 },
                 {
-                    "hour": 8,
-                    "percentage": 15
-                },
-                {
                     "hour": 9,
                     "percentage": 14
                 },
@@ -7023,11 +6979,11 @@
                 },
                 {
                     "hour": 12,
-                    "percentage": 10
+                    "percentage": 11
                 },
                 {
                     "hour": 13,
-                    "percentage": 10
+                    "percentage": 11
                 },
                 {
                     "hour": 14,
@@ -7047,27 +7003,27 @@
                 },
                 {
                     "hour": 18,
-                    "percentage": 33
+                    "percentage": 34
                 },
                 {
                     "hour": 19,
-                    "percentage": 39
-                },
-                {
-                    "hour": 20,
-                    "percentage": 42
-                },
-                {
-                    "hour": 21,
                     "percentage": 40
                 },
                 {
+                    "hour": 20,
+                    "percentage": 43
+                },
+                {
+                    "hour": 21,
+                    "percentage": 41
+                },
+                {
                     "hour": 22,
-                    "percentage": 32
+                    "percentage": 33
                 },
                 {
                     "hour": 23,
-                    "percentage": 21
+                    "percentage": 22
                 }
             ],
             "Rabu": [
@@ -7077,7 +7033,7 @@
                 },
                 {
                     "hour": 1,
-                    "percentage": 5
+                    "percentage": 4
                 },
                 {
                     "hour": 2,
@@ -7129,7 +7085,7 @@
                 },
                 {
                     "hour": 14,
-                    "percentage": 12
+                    "percentage": 13
                 },
                 {
                     "hour": 15,
@@ -7137,27 +7093,27 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 19
+                    "percentage": 20
                 },
                 {
                     "hour": 17,
-                    "percentage": 23
+                    "percentage": 26
                 },
                 {
                     "hour": 18,
-                    "percentage": 28
+                    "percentage": 30
                 },
                 {
                     "hour": 19,
-                    "percentage": 33
+                    "percentage": 35
                 },
                 {
                     "hour": 20,
-                    "percentage": 36
+                    "percentage": 38
                 },
                 {
                     "hour": 21,
-                    "percentage": 35
+                    "percentage": 36
                 },
                 {
                     "hour": 22,
@@ -7165,25 +7121,25 @@
                 },
                 {
                     "hour": 23,
-                    "percentage": 20
+                    "percentage": 19
                 }
             ],
             "Kamis": [
                 {
                     "hour": 0,
-                    "percentage": 11
+                    "percentage": 23
                 },
                 {
                     "hour": 1,
-                    "percentage": 5
+                    "percentage": 11
                 },
                 {
                     "hour": 2,
-                    "percentage": 2
+                    "percentage": 4
                 },
                 {
                     "hour": 3,
-                    "percentage": 1
+                    "percentage": 2
                 },
                 {
                     "hour": 4,
@@ -7199,7 +7155,7 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 14
+                    "percentage": 13
                 },
                 {
                     "hour": 8,
@@ -7231,11 +7187,11 @@
                 },
                 {
                     "hour": 15,
-                    "percentage": 15
+                    "percentage": 16
                 },
                 {
                     "hour": 16,
-                    "percentage": 19
+                    "percentage": 20
                 },
                 {
                     "hour": 17,
@@ -7243,27 +7199,27 @@
                 },
                 {
                     "hour": 18,
-                    "percentage": 30
-                },
-                {
-                    "hour": 19,
-                    "percentage": 37
-                },
-                {
-                    "hour": 20,
-                    "percentage": 40
-                },
-                {
-                    "hour": 21,
-                    "percentage": 39
-                },
-                {
-                    "hour": 22,
                     "percentage": 32
                 },
                 {
+                    "hour": 19,
+                    "percentage": 40
+                },
+                {
+                    "hour": 20,
+                    "percentage": 46
+                },
+                {
+                    "hour": 21,
+                    "percentage": 49
+                },
+                {
+                    "hour": 22,
+                    "percentage": 45
+                },
+                {
                     "hour": 23,
-                    "percentage": 22
+                    "percentage": 38
                 }
             ],
             "Jumat": [
@@ -7297,11 +7253,11 @@
                 },
                 {
                     "hour": 7,
-                    "percentage": 14
+                    "percentage": 13
                 },
                 {
                     "hour": 8,
-                    "percentage": 14
+                    "percentage": 13
                 },
                 {
                     "hour": 9,
@@ -7321,7 +7277,7 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 11
+                    "percentage": 10
                 },
                 {
                     "hour": 14,
@@ -7329,7 +7285,7 @@
                 },
                 {
                     "hour": 15,
-                    "percentage": 16
+                    "percentage": 15
                 },
                 {
                     "hour": 16,
@@ -7337,37 +7293,37 @@
                 },
                 {
                     "hour": 17,
-                    "percentage": 26
+                    "percentage": 28
                 },
                 {
                     "hour": 18,
-                    "percentage": 30
+                    "percentage": 32
                 },
                 {
                     "hour": 19,
-                    "percentage": 33
+                    "percentage": 37
                 },
                 {
                     "hour": 20,
-                    "percentage": 35
+                    "percentage": 38
                 },
                 {
                     "hour": 21,
-                    "percentage": 33
+                    "percentage": 36
                 },
                 {
                     "hour": 22,
-                    "percentage": 27
+                    "percentage": 30
                 },
                 {
                     "hour": 23,
-                    "percentage": 19
+                    "percentage": 20
                 }
             ],
             "Sabtu": [
                 {
                     "hour": 0,
-                    "percentage": 14
+                    "percentage": 13
                 },
                 {
                     "hour": 1,
@@ -7383,15 +7339,15 @@
                 },
                 {
                     "hour": 4,
-                    "percentage": 4
+                    "percentage": 3
                 },
                 {
                     "hour": 5,
-                    "percentage": 8
+                    "percentage": 7
                 },
                 {
                     "hour": 6,
-                    "percentage": 13
+                    "percentage": 12
                 },
                 {
                     "hour": 7,
@@ -7406,6 +7362,10 @@
                     "percentage": 16
                 },
                 {
+                    "hour": 10,
+                    "percentage": 15
+                },
+                {
                     "hour": 11,
                     "percentage": 16
                 },
@@ -7415,7 +7375,7 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 13
+                    "percentage": 12
                 },
                 {
                     "hour": 14,
@@ -7427,19 +7387,19 @@
                 },
                 {
                     "hour": 16,
-                    "percentage": 16
+                    "percentage": 17
                 },
                 {
                     "hour": 17,
-                    "percentage": 21
+                    "percentage": 23
                 },
                 {
                     "hour": 18,
-                    "percentage": 27
+                    "percentage": 29
                 },
                 {
                     "hour": 19,
-                    "percentage": 36
+                    "percentage": 37
                 },
                 {
                     "hour": 20,
@@ -7447,15 +7407,15 @@
                 },
                 {
                     "hour": 21,
-                    "percentage": 43
+                    "percentage": 42
                 },
                 {
                     "hour": 22,
-                    "percentage": 36
+                    "percentage": 35
                 },
                 {
                     "hour": 23,
-                    "percentage": 26
+                    "percentage": 25
                 }
             ],
             "Minggu": [
@@ -7485,15 +7445,15 @@
                 },
                 {
                     "hour": 6,
-                    "percentage": 22
+                    "percentage": 21
                 },
                 {
                     "hour": 7,
-                    "percentage": 30
+                    "percentage": 29
                 },
                 {
                     "hour": 8,
-                    "percentage": 31
+                    "percentage": 30
                 },
                 {
                     "hour": 9,
@@ -7513,23 +7473,23 @@
                 },
                 {
                     "hour": 13,
-                    "percentage": 15
+                    "percentage": 14
                 },
                 {
                     "hour": 14,
-                    "percentage": 18
+                    "percentage": 17
                 },
                 {
                     "hour": 15,
-                    "percentage": 26
+                    "percentage": 24
                 },
                 {
                     "hour": 16,
-                    "percentage": 35
+                    "percentage": 33
                 },
                 {
                     "hour": 17,
-                    "percentage": 45
+                    "percentage": 43
                 },
                 {
                     "hour": 18,
@@ -7558,11 +7518,7 @@
             ]
         },
         "sentiment_score": 3,
-        "summary": "Alun-Alun Pamulang dinilai luas dan cocok untuk latihan ekstrakurikuler, memiliki banyak pilihan jajanan dan tempat nongkrong. Namun, masih ada beberapa masalah seperti kurangnya papan larangan merokok yang jelas dan area bermain anak yang membutuhkan perbaikan.",
-        "topics": [
-            "Luas",
-            "Pilihan Jajanan",
-            "Area Bermain Anak"
-        ]
+        "summary": "Analisis AI terkendala format data.",
+        "topics": []
     }
 ]
