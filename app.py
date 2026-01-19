@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo
 # 1. KONFIGURASI HALAMAN
 # ==========================================
 st.set_page_config(
-    page_title="Dashboard Pelayanan Publik",
+    page_title="Dashboard Pelayanan Publik Tangsel",
     page_icon="🚆",
     layout="wide"
 )
@@ -28,25 +28,19 @@ def load_data():
         data = json.load(f)
     
     df = pd.DataFrame(data)
-    # Pastikan koordinat float
     df['latitude'] = pd.to_numeric(df['latitude'], errors='coerce')
     df['longitude'] = pd.to_numeric(df['longitude'], errors='coerce')
     
-    # Cek ketersediaan data popular times
-    # (Asumsi: jika dictionary kosong atau None, berarti tidak ada data)
+    # Identifikasi ketersediaan data popular times
     df['has_data'] = df['popular_times'].apply(lambda x: bool(x) and len(x) > 0)
     
-    # Mapping Warna & Label Sentimen
+    # Mapping Label Sentimen
     df['sentiment_label'] = df['sentiment_score'].map({1: 'Negatif', 2: 'Netral', 3: 'Positif'})
-    df['color_code'] = df['sentiment_score'].map({1: '#FF4B4B', 2: '#FFC107', 3: '#09AB3B'})
     
     return df
 
 def get_live_busyness(row, day, hour):
-    """Cari persentase keramaian (default 0 jika tutup atau tidak ada data)"""
-    if not row['has_data']:
-        return 0
-        
+    if not row['has_data']: return 0
     popular_times = row.get('popular_times', {})
     schedule = popular_times.get(day, [])
     for slot in schedule:
@@ -54,11 +48,20 @@ def get_live_busyness(row, day, hour):
             return slot['percentage']
     return 0
 
+def get_best_time(row, day):
+    if not row['has_data']: return None, None
+    pop_times = row.get('popular_times', {}).get(day, [])
+    # Cari jam aktif (07:00 - 21:00) yang persentasenya > 0
+    active_times = [p for p in pop_times if p['percentage'] > 0 and 7 <= p['hour'] <= 21]
+    if active_times:
+        best_slot = min(active_times, key=lambda x: x['percentage'])
+        return best_slot['hour'], best_slot['percentage']
+    return None, None
+
 # ==========================================
 # 3. PROSES DATA UTAMA
 # ==========================================
 df = load_data()
-
 if df is None:
     st.error("File 'data_dashboard.json' tidak ditemukan.")
     st.stop()
@@ -69,244 +72,156 @@ days_map = {0: "Senin", 1: "Selasa", 2: "Rabu", 3: "Kamis", 4: "Jumat", 5: "Sabt
 curr_day = days_map[now.weekday()]
 curr_hour = now.hour
 
-# Waktu Data Diambil
-latest_scrape_time = df['timestamp'].max() if 'timestamp' in df.columns else "-"
-
 # Hitung keramaian real-time
 df['current_busy_level'] = df.apply(lambda x: get_live_busyness(x, curr_day, curr_hour), axis=1)
 
+# Format kolom teks khusus untuk Hover Peta agar ramah pengguna
+def format_hover_text(row):
+    status = row['sentiment_label']
+    if not row['has_data']:
+        return f"{status}<br>Keramaian: -"
+    return f"{status}<br>Keramaian: {int(row['current_busy_level'])}%"
+
+df['Info'] = df.apply(format_hover_text, axis=1)
+
+# Logika Kategori Warna Peta (Tetap mempertahankan warna abu-abu untuk No Data)
+def get_map_category(row):
+    if not row['has_data']:
+        return "Tidak Ada Data Popular Time"
+    return row['sentiment_label']
+
+df['map_category'] = df.apply(get_map_category, axis=1)
+
 # ==========================================
-# 4. SIDEBAR (FILTER)
+# 4. SIDEBAR
 # ==========================================
 st.sidebar.header("🎛️ Kontrol Dashboard")
-
-# Pilihan Tampilan
 view_mode = st.sidebar.radio("Mode Tampilan:", ["🗺️ Peta Sebaran", "🔍 Detail Lokasi"])
 
-# Widget Informasi Waktu
-st.sidebar.markdown("### 🕒 Waktu Saat Ini")
-st.sidebar.info(f"{curr_day}, {curr_hour}:00 WIB")
+st.sidebar.markdown("---")
+st.sidebar.info(f"🕒 **Waktu Sekarang:**\n{curr_day}, {curr_hour}:00 WIB")
 
-st.sidebar.markdown("### 📅 Data Diupdate Per")
-st.sidebar.warning(f"{latest_scrape_time}")
-
-# Jika mode detail, ganti Selectbox dengan Dataframe Selector
 selected_loc_name = None
 if view_mode == "🔍 Detail Lokasi":
-    st.sidebar.markdown("### 📋 Pilih Lokasi")
-    
-    # 1. Siapkan data ringkas untuk tabel navigasi
-    # Kita buat copy agar tidak merusak df utama
     nav_df = df[['name', 'sentiment_label', 'current_busy_level']].copy()
-    nav_df.columns = ['Lokasi', 'Sentimen', 'Ramai'] # Rename kolom biar rapi
-    
-    # 2. Tampilkan Tabel Interaktif dengan fitur Seleksi
+    nav_df.columns = ['Lokasi', 'Sentimen', 'Ramai']
     event = st.sidebar.dataframe(
         nav_df,
         column_config={
-            "Ramai": st.column_config.ProgressColumn(
-                "Ramai", 
-                format="%d%%", 
-                min_value=0, 
-                max_value=100,
-            ),
-            "Sentimen": st.column_config.TextColumn("Sentimen"),
+            "Ramai": st.column_config.ProgressColumn("Ramai", format="%d%%", min_value=0, max_value=100),
         },
-        width="stretch",
         hide_index=True,
-        on_select="rerun",      # <--- Ini kuncinya: Rerun saat diklik
-        selection_mode="single-row" # Hanya boleh pilih 1 baris
+        on_select="rerun",
+        selection_mode="single-row"
     )
-
-    # 3. Logika Pengambilan Nama dari Baris yang Diklik
-    # event.selection.rows mengembalikan list index baris yang dipilih (contoh: [2])
-    if len(event.selection.rows) > 0:
-        selected_index = event.selection.rows[0]
-        selected_loc_name = df.iloc[selected_index]['name']
-    else:
-        # Default: Jika tidak ada yang diklik, pilih lokasi pertama otomatis
-        selected_loc_name = df.iloc[0]['name']
+    selected_index = event.selection.rows[0] if event.selection.rows else 0
+    selected_loc_name = df.iloc[selected_index]['name']
 
 # ==========================================
 # 5. LAYOUT UTAMA
 # ==========================================
-st.title("🚆 Dashboard Pelayanan Publik Tangsel")
+st.title("🚆 Monitoring Kepadatan & Layanan Tangsel")
 
 if view_mode == "🗺️ Peta Sebaran":
-    # --- MODE 1: OVERVIEW PETA ---
-    
-    # PERSIAPAN DATA UNTUK PETA
-    # 1. Tentukan Kategori Warna (Sentimen vs Tidak Ada Data)
-    def get_map_category(row):
-        if not row['has_data']:
-            return "Tidak Ada Data Popular Time"
-        return row['sentiment_label'] # Positif/Netral/Negatif
-
-    df['map_category'] = df.apply(get_map_category, axis=1)
-
-    # 2. Tentukan Ukuran Titik
-    # Kita tambah +10 agar titik yang nilainya 0 (tutup/tidak ada data) tetap terlihat
-    # Jika ada data: Size = Level Keramaian + 10
-    # Jika tidak ada data: Size = 8 (Fixed kecil)
-    df['map_size'] = df.apply(lambda x: (x['current_busy_level'] + 10) if x['has_data'] else 8, axis=1)
-
-    # Metric Ringkas di Atas
+    # --- UI PETA ---
     c1, c2, c3 = st.columns(3)
+    c1.metric("Total Titik", len(df))
+    c2.metric("Titik dengan Data Live", df['has_data'].sum())
     
-    # Metric 1: Breakdown Ketersediaan Data
-    total_loc = len(df)
-    data_avail = df['has_data'].sum()
-    c1.metric("Total Titik Pantau", f"{total_loc}", f"{data_avail} Lokasi punya data Popular Time")
+    active_df = df[df['current_busy_level'] > 0]
+    avg_busy = int(active_df['current_busy_level'].mean()) if not active_df.empty else 0
+    c3.metric("Rata-rata Keramaian Kota", f"{avg_busy}%")
     
-    # Metric 2: Rata-rata keramaian (hanya dari yg punya data & buka)
-    active_df = df[(df['has_data']) & (df['current_busy_level'] > 0)]
-    avg_busy = active_df['current_busy_level'].mean()
-    val_busy = int(avg_busy) if not pd.isna(avg_busy) else 0
-    c2.metric("Rata-rata Keramaian Kota", f"{val_busy}%")
+    st.subheader("Peta Sebaran Lokasi")
     
-    # Metric 3: Lokasi Teramai
-    if not active_df.empty:
-        busiest = active_df.loc[active_df['current_busy_level'].idxmax()]
-        c3.metric("Lokasi Terpadat", f"{busiest['name']}", f"{busiest['current_busy_level']}%")
-    else:
-        c3.metric("Lokasi Terpadat", "-")
-
-    st.subheader("Peta & Status Terkini")
-    
-    # Peta Sebaran (FIX: Menggunakan scatter_map)
+    # Peta dengan Hover yang dioptimalkan
     fig_map = px.scatter_map(
         df,
         lat="latitude",
         lon="longitude",
         hover_name="name",
+        # Menggunakan kolom 'Info' yang sudah diformat sebelumnya
         hover_data={
-            "map_category": True, 
-            "current_busy_level": True, 
-            "map_size": False, # Sembunyikan data teknis ini dari tooltip
+            "Info": True,
             "latitude": False,
-            "longitude": False
+            "longitude": False,
+            "map_category": False
         },
         color="map_category",
-        # Custom Warna: Sentimen (Merah/Kuning/Hijau) & No Data (Abu-abu)
         color_discrete_map={
             'Negatif': '#FF4B4B', 
             'Netral': '#FFC107', 
             'Positif': '#09AB3B',
-            'Tidak Ada Data Popular Time': '#9E9E9E' # Abu-abu
+            'Tidak Ada Data Popular Time': '#9E9E9E' 
         },
-        size="map_size", # Ukuran dinamis
-        size_max=30,
+        size=df.apply(lambda x: (x['current_busy_level'] + 10) if x['has_data'] else 8, axis=1),
+        size_max=25,
         zoom=11,
-        height=500
+        height=600
     )
-    # FIX: map_style menggantikan mapbox_style
+    
+    # Membersihkan label kolom di hover agar tidak muncul 'Info='
+    fig_map.update_traces(hovertemplate="<b>%{hovertext}</b><br><br>%{customdata[0]}<extra></extra>")
     fig_map.update_layout(map_style="carto-positron", margin={"r":0,"t":0,"l":0,"b":0})
+    st.plotly_chart(fig_map, width='stretch')
     
-    # Scroll Zoom Enabled (FIX: width="stretch")
-    st.plotly_chart(fig_map, width="stretch", config={'scrollZoom': True})
-    
-    st.info("ℹ️ **Keterangan Peta:** Ukuran lingkaran menunjukkan tingkat keramaian saat ini. Titik **Abu-abu** menandakan lokasi tersebut tidak memiliki data *Live Popular Times* di Google Maps.")
+    st.info("ℹ️ **Keterangan:** Lingkaran **Abu-abu** adalah lokasi tanpa data keramaian real-time.")
 
 else:
-    # --- MODE 2: DETAIL LOKASI ---
-    
+    # --- MODE DETAIL ---
     loc = df[df['name'] == selected_loc_name].iloc[0]
     
-    st.markdown(f"## 📍 {loc['name']}")
+    is_open = loc['current_busy_level'] > 0
+    status_color = "green" if is_open else "gray"
+    status_text = "BEROPERASI" if is_open else "TUTUP / TANPA DATA LIVE"
     
-    has_pop_times = loc['has_data']
+    st.markdown(f"## 📍 {loc['name']} <span style='font-size:16px; color:{status_color}; border:1px solid {status_color}; padding:2px 8px; border-radius:5px;'>{status_text}</span>", unsafe_allow_html=True)
 
-    # --- Metrics Section ---
+    # Tips Rekomendasi
+    q_hour, q_perc = get_best_time(loc, curr_day)
+    if q_hour:
+        st.success(f"💡 **Rekomendasi:** Waktu tersepi hari ini pukul **{q_hour}:00** dengan kepadatan **{q_perc}%**.")
+
     col1, col2, col3 = st.columns(3)
+    col1.metric("Keramaian Sekarang", f"{int(loc['current_busy_level'])}%" if loc['has_data'] else "-")
     
-    with col1:
-        st.markdown("##### 🚦 Keramaian Sekarang")
-        if has_pop_times:
-            # Menggunakan curr_day (Real-time) untuk metric angka
-            st.markdown(f"<h2 style='color:blue'>{loc['current_busy_level']}%</h2>", unsafe_allow_html=True)
-            st.caption(f"Status per hari ini ({curr_day}, {curr_hour}:00)")
-        else:
-            st.markdown("<h3 style='color:gray'>Data Tidak Tersedia</h3>", unsafe_allow_html=True)
+    # Kolom 2: Sentimen Publik dengan Warna Dinamis
+    sentiment = loc['sentiment_label']
+    sentiment_color = {
+        'Positif': '#09AB3B',
+        'Negatif': '#FF4B4B',
+        'Netral': '#FFC107'
+    }.get(sentiment, '#000000')
     
-    with col2:
-        st.markdown("##### 😊 Sentimen Publik")
-        color = loc['color_code']
-        st.markdown(f"<h2 style='color:{color}'>{loc['sentiment_label']}</h2>", unsafe_allow_html=True)
-        
-    with col3:
-        st.markdown("##### 📅 Data Diambil")
-        st.markdown(f"<h4 style='color:gray'>{loc.get('timestamp', '-')}</h4>", unsafe_allow_html=True)
+    col2.markdown(f"""
+        <p style='font-size:14px; color:rgba(49, 51, 63, 0.6); margin-bottom: 0px;'>Sentimen Publik</p>
+        <p style='font-size:24px; font-weight:600; color:{sentiment_color}; margin-top: -5px;'>{sentiment}</p>
+    """, unsafe_allow_html=True)
+    
+    col3.metric("Data Diupdate Per", loc['timestamp'])
 
     st.divider()
 
-    # --- Grafik & Analisis ---
-    g_col1, g_col2 = st.columns([2, 1])
-
-    with g_col1:
-        # Header dengan Kolom Filter Hari
-        c_head1, c_head2 = st.columns([2, 1])
-        with c_head1:
-            st.subheader("📊 Grafik Tren Keramaian")
-        with c_head2:
-            # Dropdown untuk memilih hari grafik (Default: Hari Ini)
-            days_list = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"]
-            # Cari index hari ini untuk default value
-            current_day_idx = datetime.now().weekday()
-            selected_chart_day = st.selectbox("Pilih Hari:", days_list, index=current_day_idx, label_visibility="collapsed")
-        
-        if has_pop_times:
-            try:
-                # Ambil data sesuai hari yang DIPILIH di dropdown
-                chart_data_source = loc['popular_times'].get(selected_chart_day, [])
-                
-                if chart_data_source:
-                    chart_df = pd.DataFrame(chart_data_source)
-                    
-                    # Logika Pewarnaan:
-                    # - Jika hari yg dipilih == hari ini, highlight jam sekarang merah
-                    # - Jika hari lain, semua abu-abu biasa
-                    colors = ['#E0E0E0'] * len(chart_df)
-                    
-                    if selected_chart_day == curr_day:
-                        try:
-                            idx = chart_df[chart_df['hour'] == curr_hour].index[0]
-                            colors[idx] = '#FF4B4B' # Merah (Jam Sekarang)
-                        except IndexError:
-                            pass
-                    else:
-                        # Jika melihat hari lain, beri warna biru muda agar beda
-                        colors = ['#90CAF9'] * len(chart_df)
-
-                    fig = px.bar(
-                        chart_df, x='hour', y='percentage',
-                        labels={'hour': 'Jam', 'percentage': 'Ramai (%)'},
-                        height=350,
-                        title=f"Estimasi Keramaian: {selected_chart_day}"
-                    )
-                    fig.update_traces(marker_color=colors)
-                    fig.update_layout(xaxis=dict(tickmode='linear'), margin=dict(l=20, r=20, t=40, b=20))
-                    st.plotly_chart(fig, width="stretch")
-                else:
-                    st.info(f"Tempat ini tutup/tidak ada data pada hari {selected_chart_day}.")
-                
-            except KeyError:
-                st.warning(f"Terjadi kesalahan membaca data grafik.")
+    g1, g2 = st.columns([2, 1])
+    with g1:
+        st.subheader(f"📊 Tren Keramaian ({curr_day})")
+        chart_source = loc['popular_times'].get(curr_day, [])
+        if chart_source:
+            cdf = pd.DataFrame(chart_source)
+            fig = px.bar(cdf, x='hour', y='percentage', labels={'hour':'Jam', 'percentage':'Ramai %'})
+            bar_colors = ['#FF4B4B' if h == curr_hour else '#90CAF9' for h in cdf['hour']]
+            fig.update_traces(marker_color=bar_colors)
+            st.plotly_chart(fig, width='stretch')
         else:
-            st.warning("⚠️ Google Maps tidak menyediakan data 'Popular Times' untuk lokasi ini.")
+            st.info("Grafik tren tidak tersedia untuk lokasi ini.")
 
-    with g_col2:
+    with g2:
         st.subheader("🤖 Analisis Singkat")
-        st.info(loc.get('summary', '-'))
+        st.info(loc.get('summary', 'Tidak ada ringkasan.'))
         
         st.write("**Topik Utama:**")
         topics = loc.get('topics', [])
-        if topics:
-            tags_html = " ".join([
-                f"<span style='background-color:#f0f2f6; padding:4px 8px; margin:2px; border-radius:4px; font-size:14px'>{t}</span>" 
-                for t in topics
-            ])
-            st.markdown(tags_html, unsafe_allow_html=True)
-        else:
-            st.text("-")
+        tags = "".join([f"<span style='background:#f0f2f6; padding:3px 8px; margin:2px; border-radius:10px;'>#{t}</span> " for t in topics])
+        st.markdown(tags, unsafe_allow_html=True)
 
-st.caption("Dashboard Monitoring v2.3 - Fixed Deprecation Warnings")
+st.caption("Dashboard Monitoring v2.7 - Clean Hover & Dynamic Sentiment Colors")
